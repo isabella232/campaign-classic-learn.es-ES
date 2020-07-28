@@ -28,18 +28,18 @@ El usuario debe localizar su identificador de organización de IMS (xxx). El adm
 ### Síntoma: Los vínculos de la página principal del Experience Cloud para acceder [!UICONTROL Control Panel] no aparecen para un usuario
 
 **Causa:**
-Los usuarios no verán los vínculos hasta que se agreguen como usuarios a la _Campaña de Perfil de productos: xxx-Administradores/Administradores_.
+Los usuarios no verán los vínculos hasta que se agreguen como usuarios al Perfil de productos &quot;Campaña-xxx-Administradores/Administradores&quot;
 
 **Qué hacer:**
-El administrador debe agregar el usuario a la _Campaña Product Perfil-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que agregarse como &quot;usuarios&quot;.
+El administrador debe agregar el usuario al Perfil de productos &quot;Campaña-xxx-administradores&quot; para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que agregarse como &quot;usuarios&quot;.
 
 ### Síntoma: Una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-Es muy probable que el usuario deba agregarse como &quot;usuario&quot; _Campaña de Perfil de productos: xxx-administradores/administradores_ para la instancia que falta
+Es muy probable que el usuario deba agregarse como &quot;usuario&quot; Perfil de producto &quot;Campaña-xxx-Administradores/Administrador&quot; para la instancia que falta
 
 **Qué hacer:**
-El administrador debe agregar el usuario a la _Campaña Product Perfil-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que agregarse como &quot;usuarios&quot;.
+El administrador debe agregar el usuario al Perfil de productos &quot;Campaña-xxx-administradores&quot; para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que agregarse como &quot;usuarios&quot;.
 
 ### Vídeos útiles
 
