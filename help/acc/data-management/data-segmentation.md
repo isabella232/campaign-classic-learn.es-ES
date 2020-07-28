@@ -36,7 +36,7 @@ El perfil integrado del cliente de Adobe Campaign permite a los especialistas en
 
 Una vez que haya comprendido los perfiles, estará listo para realizar una segmentación avanzada mediante consultas profundas de los atributos comunes del consumidor y otras fuentes de datos. Permite crear listas reutilizables, actualizar de forma dinámica listas basadas en cambios en tiempo real en los datos e incluso realizar actividades más complejas, como pruebas de varias variables en cualquiera de esos puntos de datos.
 
-Tenga en cuenta: Este vídeo se grabó en Adobe Campaign Classic V6, la funcionalidad es exactamente la misma, pero los iconos del flujo de trabajo han cambiado.
+Tenga en cuenta: Este vídeo se grabó en Adobe Campaign Classic V6, la funcionalidad es exactamente la misma, aunque los iconos del flujo de trabajo han cambiado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12)
 
