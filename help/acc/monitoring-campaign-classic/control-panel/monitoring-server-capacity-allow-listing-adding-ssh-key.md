@@ -24,7 +24,7 @@ El Panel de control de Campaign le permite supervisar y administrar su almacenam
 
 Para acceder a la Administración de subdominios en [!UICONTROL Control Panel], vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > [!UICONTROL Solution picker]: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** tarjeta > **[!UICONTROL Subdomains & Certificates]** tarjeta
+* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > [!UICONTROL Solution picker]: [!UICONTROL Campaign] > **[!UICONTROL Control Panel]** tarjeta > **[!UICONTROL Subdomains & Certificates]** tarjeta
 
    o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
