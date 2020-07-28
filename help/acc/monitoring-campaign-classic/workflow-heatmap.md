@@ -30,7 +30,7 @@ El mapa de calor del flujo de trabajo ayuda a los administradores de la platafor
 
 * Buscar un flujo de trabajo específico para analizar
 
-Tenga en cuenta: Esta función solo está disponible desde Adobe Campaign Classic V7 (versión 18.11.1)
+Tenga en cuenta: Esta función solo está disponible a partir de Adobe Campaign Classic V7 (versión 18.11.1)
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
