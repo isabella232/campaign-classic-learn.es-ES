@@ -11,7 +11,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '89'
 ht-degree: 2%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 2%
 # Descifrar datos
 
 Panel de control de Campaign permite descifrar datos externos que llegan a las instancias de Adobe Campaign mediante un par de claves pública y privada.
-Obtenga información sobre cómo crear una clave pública e importarla e instalarla en una [!DNL Campaign] instancia para descifrar datos entrantes.
+Obtenga información sobre cómo crear una clave pública e importarla e instalarla en una instancia de Campaña para descifrar datos entrantes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36482?quality=12)
 
