@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '134'
+source-wordcount: '135'
 ht-degree: 0%
 
 ---
@@ -24,7 +24,7 @@ Debe poder generar una clave SSH para poder agregarla al Panel de control de Cam
 
 Para acceder a la administración de SFTP en Panel de control de Campaign, vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: **[!DNL Campaign]** > Tarjeta **Panel de control de Campaign** > Tarjeta **SFTP**
+* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: Campaña > **Tarjeta de Panel de control de Campaign** > Tarjeta **SFTP**
 
    o
 * Directamente desde la dirección URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
