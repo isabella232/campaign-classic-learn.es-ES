@@ -1,6 +1,6 @@
 ---
 title: Crear y administrar perfiles
-description: Comprender el concepto de perfiles en Adobe Campaign Classic. Obtenga información sobre cómo acceder a los datos de perfil, ordenar y filtrar perfiles y crear y administrar manualmente perfiles. Este video también explica la conformidad de Adobe Campaign Classic con la Regulación General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA).
+description: Comprender el concepto de perfiles en Adobe Campaign Classic. Obtenga información sobre cómo acceder a los datos de perfil, ordenar y filtrar perfiles y crear y administrar manualmente perfiles. Este video también explica la conformidad de Adobe Campaign Classic con el Reglamento General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA).
 feature: Profiles
 topics: null
 kt: 5081
@@ -22,7 +22,7 @@ ht-degree: 13%
 
 Comprender el concepto de perfiles en Adobe Campaign Classic. Obtenga información sobre cómo acceder a los datos de perfil, ordenar y filtrar perfiles y crear y administrar manualmente perfiles.
 
-Este video también explica la conformidad de Adobe Campaign Classic con la Regulación General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA).
+Este video también explica la conformidad de Adobe Campaign Classic con el Reglamento General de Protección de Datos (RGPD) y la Ley de Privacidad del Consumidor de California (CCPA).
 
 >[!VIDEO](https://video.tv.adobe.com/v/35611?quality=12)
 
