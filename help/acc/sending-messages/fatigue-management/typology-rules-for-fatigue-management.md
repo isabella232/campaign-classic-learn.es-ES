@@ -1,6 +1,6 @@
 ---
-title: Cómo configurar la gestión de fatiga mediante reglas de tipología en Adobe Campaign Classic
-description: La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la solicitud excesiva de destinatarios y a menudo se aplica mediante una reglas de tipología. En este vídeo se explica cómo implementar la gestión de fatiga en Adobe Campaign Classic aprovechando las reglas de tipología.
+title: Cómo configurar la administración de fatiga mediante reglas de tipología en Adobe Campaign Classic
+description: La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la solicitud excesiva de destinatarios y a menudo se aplica mediante una reglas de tipología. En este vídeo se explica cómo implementar la administración de fatiga en Adobe Campaign Classic mediante reglas de tipología.
 feature: Fatigue Management
 topics: null
 kt: 1564
@@ -26,7 +26,7 @@ Normalmente, un conjunto de *reglas de tipología* se agrupan dentro de una *tip
 
 Esto elimina los pasos adicionales al crear diferentes campañas y flujos de trabajo, al mismo tiempo que garantiza que se dirija de forma coherente a la población adecuada en el momento adecuado.
 
-En este vídeo se explica cómo implementar la gestión de fatiga en Adobe Campaign Classic aprovechando las reglas de tipología.
+En este vídeo se explica cómo implementar la administración de fatiga en Adobe Campaign Classic mediante reglas de tipología.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
