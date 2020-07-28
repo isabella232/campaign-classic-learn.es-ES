@@ -14,7 +14,7 @@ team: TM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '356'
+source-wordcount: '357'
 ht-degree: 0%
 
 ---
@@ -35,7 +35,7 @@ Antes de habilitar los pasos de aprobación, el equipo de mercadotecnia debe def
 
 ## Configuración de aprobaciones para campañas  {#configuring-approvals-for-campaigns}
 
-Si tiene el mismo conjunto de revisores para todos los envíos del flujo de trabajo de campaña, aprovecharía las funciones de aprobación [!DNL Campaign] . Al configurar aprobaciones y revisores en el nivel de campaña, las tareas de aprobación y los revisores se insertarán en cada actividad de envío del flujo de trabajo una vez que se ejecute el flujo de trabajo.
+Si tiene el mismo conjunto de revisores para todos los envíos del flujo de trabajo de campaña, aprovecharía las funcionalidades de aprobación de Campañas. Al configurar aprobaciones y revisores en el nivel de campaña, las tareas de aprobación y los revisores se insertarán en cada actividad de envío del flujo de trabajo una vez que se ejecute el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
