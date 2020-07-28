@@ -1,6 +1,6 @@
 ---
 title: Administración de la fatiga de mercadotecnia con reglas de presión
-description: La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtrará la población de destinatarios por el número de mensajes recibidos.   En este vídeo se explica cómo implementar la gestión de la fatiga en Adobe Campaign Classic mediante el uso de filtros.
+description: La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtrará la población de destinatarios por el número de mensajes recibidos.   Este vídeo explica cómo implementar la gestión de fatiga en Adobe Campaign Classic mediante el uso de filtros.
 feature: Fatigue Management
 topics: null
 kt: 2148
@@ -20,7 +20,7 @@ ht-degree: 3%
 
 La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtrará la población de destinatarios por el número de mensajes recibidos.
 
-En este vídeo se explica cómo implementar la gestión de la fatiga en Adobe Campaign Classic mediante el uso de filtros.
+Este vídeo explica cómo implementar la gestión de fatiga en Adobe Campaign Classic mediante el uso de filtros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
