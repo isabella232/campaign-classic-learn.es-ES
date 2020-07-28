@@ -1,7 +1,7 @@
 ---
 product: adobe campaign
 sub-product: Campaign Classic
-user-guide-title: Tutoriales de Adobe Campaign Classic
+user-guide-title: Tutorials de Adobe Campaign Classic
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 solution-title: Liga de experiencias
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
@@ -12,8 +12,8 @@ getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with
 translation-type: tm+mt
 source-git-commit: f06225ca2fa9c90998f0f5d0430db434a786b7de
 workflow-type: tm+mt
-source-wordcount: '300'
-ht-degree: 12%
+source-wordcount: '319'
+ht-degree: 10%
 
 ---
 
@@ -28,9 +28,8 @@ ht-degree: 12%
    + [Creación de planes de marketing, programas y campañas](/help/acc/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de una campaña y un correo electrónico](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
    + [Creación de una lista de destinatarios](/help/acc/getting-started/creating-a-list-of-recipients.md)
-   + [Creación de un flujo de trabajo](/help/acc/automating-with-workflows/creating-a-workflow.md)
-   + [Creación de un flujo de trabajo de objetivos](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Administrar pruebas y semillas en un correo electrónico](/help/acc/sending-messages/managing-seed-and-proofs.md)
+   + [Creación de un flujo de trabajo](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-workflow.html)
+   + [Establecimiento de objetivos para perfiles en un flujo de trabajo](/help/acc/getting-started/targeting-profiles-in-a-workflow.md)
 + Profile Management {#profile-management}
    + [Crear y administrar perfiles](/help/acc/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/acc/data-management/importing-profiles.md)
@@ -38,7 +37,9 @@ ht-degree: 12%
    + Email Channel{#email-channel}
       + [Creación de una campaña y un correo electrónico](/help/acc/getting-started/creating-a-campaign-and-an-email.md)
       + [Administrar pruebas y semillas en un correo electrónico](/help/acc/sending-messages/managing-seed-and-proofs.md)
-      + [Personalización de correos electrónicos mediante bloques de contenido dinámico](/help/acc/sending-messages/personalization-with-dynamic-content-blocks.md)
+      + [Personalización de correos electrónicos mediante bloques de contenido dinámico](/help/acc/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personalización de correos electrónicos mediante el campo de personalización](/help/acc/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalización de correos electrónicos: cree una newsletter multilingüe con contenido condicional](/help/acc/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configurar campañas de correo electrónico recurrentes y continuas](/help/acc/sending-messages/recurring-deliveries.md)
       + [Definición de contenido de correo electrónico interactivo con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canal push {#push-channel}
@@ -84,5 +85,5 @@ ht-degree: 12%
          + [Descifrar datos](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Resolución de problemas del Panel de control de Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Acceso a una base de datos externa (FDA) {#fda}
-      + [Gran gestión de datos en [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
+      + [Gran gestión de datos para el Snowflake](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 
