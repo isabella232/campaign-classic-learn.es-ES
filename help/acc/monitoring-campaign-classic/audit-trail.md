@@ -10,7 +10,7 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '161'
+source-wordcount: '167'
 ht-degree: 2%
 
 ---
@@ -18,7 +18,7 @@ ht-degree: 2%
 
 # Cómo utilizar la pista de auditoría
 
-[!UICONTROL Audit Trail] captura, en tiempo real, una lista completa de acciones y eventos que se producen dentro del Adobe Campaign. Las [!UICONTROL Audit Trail] funciones incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como:
+Audit Track captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro del Adobe Campaign. Las funciones de pista de auditoría incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como:
 
 * ¿Qué le pasó a un objeto?
 * ¿Quién lo modificó por última vez y cuándo?
@@ -28,7 +28,7 @@ ht-degree: 2%
 >
 >Las pistas de auditoría requieren la versión 19.1 o posterior del Campaign Classic
 
-El [!UICONTROL Audit Trail] registrará las acciones del operador de lista y registro, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para flujos de trabajo:
+La pista de auditoría registrará y lista las acciones de los operadores, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para flujos de trabajo:
 
 * Start
 * Pause
