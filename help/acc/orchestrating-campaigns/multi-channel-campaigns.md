@@ -1,28 +1,29 @@
 ---
-title: Creación de Campañas de varios Canales en Adobe Campaign Classic (ACC)
-description: Este vídeo muestra cómo crear una campaña multicanal en Adobe Campaign Classic. También aprenderá a configurar un correo electrónico, un SMS y un envío de correo directo.
+title: Creación de campañas de varios canales en Adobe Campaign Classic (ACC)
+description: Obtenga información sobre cómo crear una campaña de varios canales mediante correo electrónico, SMS y envíos de correo directo.
 feature: Workflows
-topics: Multi Channel
+topics: null
 kt: 1563
+thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
 source-git-commit: 2666fa2d95ca6df4720ad6a3e3d5789ac283b3a7
 workflow-type: tm+mt
-source-wordcount: '121'
-ht-degree: 1%
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
 
-# Creación de Campañas de varios Canales
+# Creación de campañas de varios canales
 
-En una campaña multicanal, una sola comunicación de marketing utiliza múltiples canales para alcanzar una audiencia de destinatario más amplia basada en el canal de destinatario preferido.
+En una campaña de varios canales, una sola comunicación de marketing utiliza múltiples canales para alcanzar una audiencia de destinatario más amplia basada en el canal de destinatario preferido.
 
-Los envíos multicanal se diseñan y ejecutan en un único flujo de trabajo.
+Los envíos de varios canales se diseñan y ejecutan en un único flujo de trabajo.
 
-Este vídeo muestra cómo crear una campaña multicanal en Adobe Campaign Classic. También aprenderá a configurar un correo electrónico, un SMS y un envío de correo directo.
+Obtenga información sobre cómo crear una campaña de varios canales mediante correo electrónico, SMS y envíos de correo directo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24981?quality=12)
 
