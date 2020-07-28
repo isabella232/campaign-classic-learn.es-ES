@@ -24,7 +24,7 @@ Actualmente es compatible con dos proveedores de correo electrónico: Gmail y Ou
 
 >[!NOTE]
 >
-> Para poder enviar correos electrónicos AMP, deberá registrar la dirección de correo electrónico que envía con [Google](https://developers.google.com/gmail/ampemail/register) y [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
+>Para poder enviar correos electrónicos AMP, deberá registrar la dirección de correo electrónico que envía con [Google](https://developers.google.com/gmail/ampemail/register) y [Microsoft](https://docs.microsoft.com/en-us/outlook/amphtml/register-outlook).
 
 El siguiente vídeo explica cómo activar AMP en Adobe Campaign Classic y muestra el uso.
 
