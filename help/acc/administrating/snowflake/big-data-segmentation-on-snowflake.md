@@ -1,6 +1,6 @@
 ---
-title: Gran gestión de datos sobre el copo de nieve
-description: Este tutorial explica cómo aprovechar el conector Snowflake en Adobe Campaign Classic
+title: Gran gestión de datos para el Snowflake
+description: Este tutorial explica cómo aprovechar el conector del Snowflake en Adobe Campaign Classic
 feature: Snowflake
 topics: FDA
 kt: 4450
@@ -10,22 +10,22 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '108'
 ht-degree: 6%
 
 ---
 
 
-# Gran gestión de datos sobre el copo de nieve
+# Gran gestión de datos para el Snowflake
 
-Este tutorial explica cómo aprovechar el [!DNL Snowflake] conector en Adobe Campaign Classic.
+En este tutorial se explica cómo aprovechar el conector del Snowflake en Adobe Campaign Classic.
 Aprenderá a
 
-* Conectar con Snowflake
-* Crear un esquema vinculado a un copo de nieve
+* Conectar con el Snowflake
+* Creación de un esquema vinculado al Snowflake
 * Amplíe su esquema y prepare sus datos
 * Crear flujos de trabajo y consultas
-* Entiendan lo que pasa en Snowflake
+* Comprender lo que sucede en el Snowflake
 * Crear formularios y hacerlos accesibles para los especialistas en mercadotecnia
 * Buscar e informar sobre los datos
 * Cómo exportar datos en listas y crear filtros de objetivo en tiempo real
