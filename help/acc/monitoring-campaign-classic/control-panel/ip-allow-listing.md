@@ -10,9 +10,9 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
+source-git-commit: 2d28efe0abc313db87610507564a08a9f7e380dc
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '201'
 ht-degree: 2%
 
 ---
@@ -22,16 +22,14 @@ ht-degree: 2%
 
 El Panel de control de Campaign le permite configurar nuevas conexiones a sus instancias mediante la inclusión de intervalos de direcciones IP. De forma predeterminada, no se puede acceder a una instancia de Adobe Campaign Classic desde varias direcciones IP. Por lo tanto, debe permitirse una dirección IP en la lista:
 
-* Para permitir el acceso a la instancia de Campaña desde esta dirección IP
+* Para permitir el acceso a la [!DNL Campaign] instancia desde esta dirección IP
 * Para conectar una API a su centro de mensajes o instancia de marketing
 
 ## Acceso a la configuración de la instancia de Panel de control de Campaign
 
 Para acceder a la Administración de subdominios en Panel de control de Campaign, vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: Campaña > Tarjeta de **Panel de control de Campaign** > Tarjeta de configuración de **instancias**
-
-   o
+* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** tarjeta > Cardor de configuración de **instancias**
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/instances](https://experience.adobe.com/#/controlpanel/instances)
 
 ## lista de permitidos de direcciones IP
