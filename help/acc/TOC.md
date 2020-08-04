@@ -10,9 +10,9 @@ tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tut
 getting-started-title: Documentación
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
+source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
 workflow-type: tm+mt
-source-wordcount: '346'
+source-wordcount: '353'
 ht-degree: 9%
 
 ---
@@ -60,7 +60,7 @@ ht-degree: 9%
    + [Creación de un flujo de trabajo de objetivos](/help/acc/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Refinar destinatarios combinando resultados de consulta](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Refinar destinatarios excluyendo los resultados de consulta](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
-   + [Creación de listas con un flujo de trabajo](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
+   + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/acc/automating-with-workflows/using-the-update-list-activity.md)
    + [Configuración de flujos de trabajo de validación](/help/acc/automating-with-workflows/validation-flow-configuration.md)
    + [Configurar actividades de Enriquecimiento](/help/acc/automating-with-workflows/enrichment-activity.md)
    + [Segmentación de datos](/help/acc/data-management/data-segmentation.md)
