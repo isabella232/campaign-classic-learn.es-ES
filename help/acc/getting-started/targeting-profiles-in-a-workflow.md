@@ -9,9 +9,9 @@ doc-type: feature video
 activity: use
 team: WWFRE
 translation-type: tm+mt
-source-git-commit: 582f04026f6db0823f3de1e3e0cf57c642c2e84f
+source-git-commit: e61d64be04034df91778ce0692f6fd406aae2743
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '122'
 ht-degree: 7%
 
 ---
@@ -22,6 +22,12 @@ ht-degree: 7%
 Comprenda el uso de flujos de trabajo de la campaña y aprenda a crear un flujo de trabajo y perfiles de destinatario en un flujo de trabajo mediante condiciones de filtrado.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
+
+## Los siguientes Tutorials para ver
+
+* [Refinar destinatarios combinando resultados de consulta](/help/acc/automating-with-workflows/refining-targets-by-combining-query-results.md)
+* [Refinar destinatarios excluyendo los resultados de consulta](/help/acc/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+* [Creación de listas con un flujo de trabajo](/help/acc/automating-with-workflows/creating-lists-with-a-workflow.md)
 
 ## Recursos adicionales
 
@@ -35,5 +41,3 @@ Tutoriales:
 
 * [Crear y administrar perfiles](/help/acc/profile-management/create-and-manage-profiles.md)
 * [Importación de perfiles](/help/acc/data-management/importing-profiles.md)
-* [Creación de una lista de destinatarios](/help/acc/profile-management/creating-a-list-of-recipients.md)
-* [Creación de una lista de destinatarios con un flujo de trabajo](/help/acc/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
