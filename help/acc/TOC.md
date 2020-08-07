@@ -3,17 +3,17 @@ product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutorials de Adobe Campaign Classic
 user-guide-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
-solution-title: Liga de experiencias
+solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriales
 tutorials-url: https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentación
 getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
 translation-type: tm+mt
-source-git-commit: 689807c24685e4af75ea6497f1bcfbf7cb608667
+source-git-commit: c381bc42774310cef01ecd575e0a3cb5e43147c1
 workflow-type: tm+mt
-source-wordcount: '353'
-ht-degree: 9%
+source-wordcount: '350'
+ht-degree: 25%
 
 ---
 
@@ -73,21 +73,20 @@ ht-degree: 9%
    + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/acc/integrations/dynamics365-integration.md)
 + Administración {#administrating}
    + Panel de control de Campaign{#control-panel-acc}
-      + [Información general de Panel de control de Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
-      + [Monitoreo de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
+      + [Información general del Panel de control de Campaign](/help/acc/monitoring-campaign-classic/control-panel/control-panel-overview.md)
+      + [Monitorización de la capacidad del servidor, admisión de direcciones IP y adición de claves SSH](/help/acc/monitoring-campaign-classic/control-panel/monitoring-server-capacity-allow-listing-adding-ssh-key.md)
       + [Generación de una clave SSH](/help/acc/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Conexión a un servidor SFTP](/help/acc/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Delegación de subdominios](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Añadir certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
-      + [Administración de certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/managing-ssl-certificates.md)
+      + [Adición de certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Añadir permisos de URL](/help/acc/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
       + [IP permite listado para acceso de instancia](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Administración de registros TXT de Google](/help/acc/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
-      + Administración de claves GPG {#gpg-key-management}
-         + [Administración de claves GPG - información general](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
+      + Administración de claves GPG{#gpg-key-management}
+         + [Información general sobre la administración de claves GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
          + [Generación e instalación de claves GPG para el cifrado de datos](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
          + [Uso de una clave GPG para cifrar datos](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
-         + [Descifrar datos](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
+         + [Descifrado de datos](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/decrypting-data.md)
       + [Resolución de problemas del Panel de control de Campaign](/help/acc/monitoring-campaign-classic/control-panel/trouble-shooting.md)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Gran gestión de datos en [!DNL Snowflake]](/help/acc/administrating/snowflake/big-data-segmentation-on-snowflake.md)
