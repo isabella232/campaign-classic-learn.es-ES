@@ -1,6 +1,6 @@
 ---
 title: Delegación de subdominios
-description: Aprenda a delegar completamente un subdominio a Adobe Campaign.
+description: Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign.
 feature: Subdomain Delegation
 topics: Control Panel
 kt: 4115
@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: e40441c242af138f9686d291bb804fae46b4f62d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 49%
+ht-degree: 85%
 
 ---
 
@@ -22,13 +22,14 @@ ht-degree: 49%
 >
 > Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
 
-Adobe Campaign [!UICONTROL Control Panel] allows you to fully delegate a subdomain to Adobe Campaign.
+Adobe Campaign [!UICONTROL Control Panel] le permite delegar completamente un subdominio a Adobe Campaign.
 
-## Acceso a la administración de subdominios de [!UICONTROL Control Panel]
+## Acceso [!UICONTROL Control Panel] a la administración de subdominios
 
 Para acceder a la administración de subdominios en [!UICONTROL Control Panel], vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** tarjeta > **Cardor de subdominios y certificados**
+* [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** tarjeta > **Subdominios y certificados** tarjeta
+o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
 ## Cómo delegar subdominios
@@ -36,9 +37,9 @@ Para acceder a la administración de subdominios en [!UICONTROL Control Panel], 
 El siguiente vídeo muestra cómo delegar subdominios.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31390?quality=12)
-*Delegación de subdominios (05:07 min)*
+*Delegación de subdominios (5:07 min)*
 
 ## Recursos adicionales
 
-* [Añadiendo certificado SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+* [Añadir certificados SSL](/help/acc/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
 * [Subdominios y certificados](https://docs.adobe.com/content/help/es-ES/control-panel/using/subdomains-and-certificates/renewing-subdomain-certificate.html)
