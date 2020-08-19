@@ -1,6 +1,6 @@
 ---
 title: Generación de una clave SSH
-description: Debe poder generar una clave SSH para poder agregarla al Panel de control de Campaign de Adobe Campaign. El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
+description: Debe poder generar una clave SSH para añadirla al panel de control de Campaign de Adobe Campaign. El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
 feature: SSH Key
 topics: Control Panel
 kt: 2923
@@ -10,21 +10,21 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '135'
-ht-degree: 0%
+source-wordcount: '134'
+ht-degree: 100%
 
 ---
 
 
 # Generación de una clave SSH
 
-Debe poder generar una clave SSH para poder agregarla al Panel de control de Campaign.
+Debe poder generar una clave SSH para añadirla al panel de control de Campaign.
 
-## Acceso a la administración de Panel de control de Campaign SFTP
+## Acceso a la administración del SFTP con el panel de control de Campaign
 
-Para acceder a la administración de SFTP en Panel de control de Campaign, vaya a:
+Para acceder a la administración del SFTP en el panel de control de Campaign, vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: Campaña > **Tarjeta de Panel de control de Campaign** > Tarjeta **SFTP**
+* [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > tarjeta del **panel de control de Campaign** > tarjeta **SFTP**
 
    o
 * Directamente desde la dirección URL: [http://experience.adobe.com/#/controlpanel/sftp](http://experience.adobe.com/#/controlpanel/sftp)
