@@ -1,6 +1,6 @@
 ---
 title: Cómo utilizar la pista de auditoría
-description: 'Audit Track captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro del Adobe Campaign. '
+description: 'La pista de auditoría captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign. '
 feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
@@ -10,15 +10,15 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 2%
+source-wordcount: '161'
+ht-degree: 100%
 
 ---
 
 
 # Cómo utilizar la pista de auditoría
 
-Audit Track captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro del Adobe Campaign. Las funciones de pista de auditoría incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como:
+[!UICONTROL Audit Trail] captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign. Las [!UICONTROL Audit Trail] funciones incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como las siguientes:
 
 * ¿Qué le pasó a un objeto?
 * ¿Quién lo modificó por última vez y cuándo?
@@ -26,21 +26,21 @@ Audit Track captura, en tiempo real, una lista completa de las acciones y evento
 
 >[!NOTE]
 >
->Las pistas de auditoría requieren la versión 19.1 o posterior del Campaign Classic
+>Las pistas de auditoría requieren la versión 19.1 o posterior de Campaign Classic.
 
-La pista de auditoría registrará y lista las acciones de los operadores, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para flujos de trabajo:
+El [!UICONTROL Audit Trail] registra las acciones del operador de lista y registro, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para los flujos de trabajo:
 
 * Start
 * Pause
 * Stop
 * Restart
-* Limpieza
-* Simular
+* Cleanup
+* Simulate
 * Wakeup
-* Detención incondicional
+* Interrupción incondicional
 
-El siguiente vídeo describe dónde acceder a los registros de pista de auditoría y qué configuración se puede configurar.
+El siguiente vídeo describe dónde acceder a los registros de pista de auditoría y qué configuración se puede realizar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Para obtener más información, consulte la documentación de la pista de [auditoría](https://docs.adobe.com/content/help/en/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+Para obtener más información, consulte la [documentación sobre la pista de auditoría](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
