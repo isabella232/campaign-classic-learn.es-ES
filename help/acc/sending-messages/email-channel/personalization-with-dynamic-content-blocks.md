@@ -12,16 +12,16 @@ translation-type: tm+mt
 source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
 workflow-type: tm+mt
 source-wordcount: '147'
-ht-degree: 9%
+ht-degree: 55%
 
 ---
 
 
 # Personalización de correos electrónicos mediante bloques de contenido dinámico
 
-En Adobe Campaign, puede personalizar el contenido o la apariencia de los mensajes y combinarlos con criterios de perfiles de destinatario.
+En Adobe Campaign, puede personalizar el contenido o el aspecto de los mensajes y combinarlos con los criterios de perfiles de destinatario.
 
-Un bloque de personalización es dinámico, personalizado y contiene código de procesamiento específico que se puede agregar a los envíos. Por ejemplo, puede agregar imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos bajas y mucho más.
+Un bloque de personalización es dinámico, personalizado y contiene un código de procesamiento específico que se puede añadir a los envíos. Por ejemplo, puede añadir imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos de bajas y mucho más.
 
 Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan para personalizar el contenido de su envío de correo electrónico.
 
@@ -31,7 +31,7 @@ Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan
 
 Documentación:
 
-* [Acerca de la personalización](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Acerca de la personalización](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * ([Bloques personalizados](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/personalization-blocks.html)
 
 Tutorials de video:
