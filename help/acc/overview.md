@@ -1,5 +1,5 @@
 ---
-title: 'Tutorials de Adobe Campaign Classic: información general'
+title: 'Tutoriales de Adobe Campaign Classic: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
@@ -7,40 +7,40 @@ translation-type: tm+mt
 source-git-commit: 94732bded09a52ec5c15f6da5205f265b4e3089d
 workflow-type: tm+mt
 source-wordcount: '246'
-ht-degree: 24%
+ht-degree: 92%
 
 ---
 
 
 # Información general
 
-Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las muchas funciones y capacidades de Adobe Campaign Classic.
+Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Classic.
 
 ## Novedades
 
 * **[Administración de claves GPG](/help/acc/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una[!UICONTROL Campaign]instancia específica para el cifrado de datos salientes, así como importar e instalar una clave pública en una instancia de Campaña para el descifrado de datos entrantes.*
+   *Aprenda cómo generar e instalar un par de claves pública y privada en una instancia específica de[!UICONTROL Campaign]para el cifrado de datos salientes y para importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.*
 
 * **[Delegación de subdominios (BETA)](/help/acc/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
    *Obtenga información sobre cómo delegar completamente un subdominio a Adobe Campaign.*
 
-* **[Definición de contenido interactivo de correo electrónico con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
+* **[Definición del contenido de correo electrónico interactivo con AMP](/help/acc/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)**
 
-   *Obtenga información sobre cómo configurar el contenido de correo electrónico de Adobe Campaign Classic (ACC) en formato AMP.*
+   *Obtenga información sobre cómo configurar el contenido de los correos electrónicos de Adobe Campaign Classic (ACC) en formato AMP.*
 
-## Selección de personal
+## Nuestra selección
 
 <table>
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Mapas de calor del flujo de trabajo (vídeo)" src="./assets/workflow-heatmap.png"/>
+      <img alt="Mapa térmico de los flujos de trabajo (vídeo)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Mapas de calor del flujo de trabajo</strong>
+    <strong>Mapa térmico del flujo de trabajo</strong>
     </a>
     </div>
     <p>
@@ -57,7 +57,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     </a>
     </div> 
     <p>
-    <em>Capture una lista completa de acciones y eventos que se producen dentro del Adobe Campaign.</em>
+    <em>Captura una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-    <strong>Definición de contenido de correo electrónico interactivo con AMP</strong>
+    <strong>Definición del contenido de correo electrónico interactivo con AMP</strong>
     </a>
     </div>
     <p>
@@ -78,4 +78,4 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Recursos adicionales
 
-* [Documentación](https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html)
+* [Documentación](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html)
