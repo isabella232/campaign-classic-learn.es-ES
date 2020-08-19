@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
 workflow-type: tm+mt
 source-wordcount: '74'
-ht-degree: 24%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ En este vídeo se explica cómo crear una campaña y un correo electrónico en A
 
 ## Recursos adicionales
 
-* [Ejemplo de uso: creación de una entrega por correo electrónico](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
+* [Ejemplo de uso: creación de un envío por correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/designing-content/editing-html-content/use-case--creating-an-email-delivery.html)
 * [Creación de un flujo de trabajo (documentación)](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html)
