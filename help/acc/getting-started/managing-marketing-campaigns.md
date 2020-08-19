@@ -1,6 +1,6 @@
 ---
-title: Administración de Campañas de mercadotecnia
-description: Comprender los conceptos clave de Adobe Campaign que ayudan a planificar, ejecutar y medir de manera eficaz las campañas de mercadotecnia entre canales.
+title: Administración de campañas de marketing
+description: Comprender los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanales.
 feature: null
 topics: Getting started
 kt: 5077
@@ -13,13 +13,13 @@ translation-type: tm+mt
 source-git-commit: cf282ccae57a2bbdb28546592757300c1bebc32e
 workflow-type: tm+mt
 source-wordcount: '38'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Administración de Campañas de mercadotecnia
+# Administración de campañas de marketing
 
-Comprender los conceptos clave de [!UICONTROL Adobe Campaign] que ayudan a planificar, ejecutar y medir de manera eficaz las campañas de mercadotecnia entre canales.
+Comprender los conceptos clave de [!UICONTROL Adobe Campaign] para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12)
