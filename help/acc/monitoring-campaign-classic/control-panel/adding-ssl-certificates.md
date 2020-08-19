@@ -1,6 +1,6 @@
 ---
 title: Añadir certificados SSL
-description: Adobe Campaign Panel de control de Campaign le permite agregar certificados SSL para proteger sus subdominios.
+description: El panel de control de Adobe Campaign le permite añadir certificados SSL para proteger sus subdominios.
 feature: SSL Certificates
 topics: Control Panel
 kt: 4219
@@ -10,39 +10,39 @@ team: PM
 translation-type: tm+mt
 source-git-commit: b2820c65a88d25f9b7a4ed5005cd5083463e000a
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 5%
+source-wordcount: '212'
+ht-degree: 100%
 
 ---
 
 
 # Añadir certificados SSL
 
-Adobe Campaign Panel de control de Campaign le permite agregar certificados SSL para proteger sus subdominios.
+Adobe Campaign [!UICONTROL Control Panel] le permite añadir certificados SSL para proteger sus subdominios.
 
-## Acceso a la administración de subdominios de Panel de control de Campaign
+## Acceso a la administración del subdominio con el panel de control de Campaign
 
-Para acceder a la Administración de subdominios en Panel de control de Campaign, vaya a:
+Para acceder a la administración de subdominios en panel de control de Campaign, vaya a:
 
-* [Página de inicio](https://experience.adobe.com/#/home) del Experience Cloud > Selector de soluciones: Campaña > Tarjeta de **Panel de control de Campaign** > Tarjeta de **subdominios y certificados**
+* [Página de inicio de Experience Cloud](https://experience.adobe.com/#/home) > Selector de soluciones: **[!DNL Campaign]** > **[!UICONTROL Control Panel]** tarjeta > **[!UICONTROL Subdomains & Certificates]** tarjeta
 
    o
 * Directamente desde la dirección URL: [https://experience.adobe.com/#/controlpanel/domain](https://experience.adobe.com/#/controlpanel/domain)
 
-## Pasos para agregar certificados SSL
+## Pasos para añadir los certificados SSL
 
-Para Añadir los certificados SSL se requieren tres pasos:
+Para añadir los certificados SSL se requieren tres pasos:
 
-### 1. Generar solicitudes de firma de certificado
+### 1. Generar solicitudes de firma de certificado.
 
 Se requiere la solicitud de firma de certificado (CSR) para la compra de un certificado SSL. Es necesario que se genere para la instancia y los subdominios que planea proteger.
 
-En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en Panel de control de Campaign.
+En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
-*Generar solicitudes de firma de certificado (02:36 min)*
+*Generar solicitudes de firma de certificado (2:36 min)*
 
-### 2. Certificado SSL de compra
+### 2. Comprar certificados SSL
 
 Después de obtener el CSR, deberá adquirir el certificado SSL de una autoridad certificadora aprobada por su organización.
 
@@ -50,10 +50,10 @@ Después de obtener el CSR, deberá adquirir el certificado SSL de una autoridad
 
 Una vez que haya obtenido el certificado SSL, deberá instalarlo para los subdominios que planea proteger.
 
-El siguiente vídeo explica cómo instalar certificados SSL en Panel de control de Campaign.
+El siguiente vídeo explica cómo instalar los certificados SSL en [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
-*Instalar certificados SSL (01:25 min)*
+*Instalar certificados SSL (1:25 min)*
 
 ## Recursos adicionales
 
