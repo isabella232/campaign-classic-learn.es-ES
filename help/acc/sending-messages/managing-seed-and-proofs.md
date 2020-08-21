@@ -1,24 +1,25 @@
 ---
 title: Cómo administrar semillas y pruebas en un correo electrónico
-description: En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
-feature: Seed address management
-topics: Email Channel
+description: Conozca cómo agregar semillas y pruebas a un correo electrónico existente y cómo enviarlo.
+feature: Email
+topics: null
 kt: 2178
+thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
 translation-type: tm+mt
-source-git-commit: 8112b947cc37c6143c38f7d59787c3c6339cb5c9
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 8%
+source-wordcount: '77'
+ht-degree: 9%
 
 ---
 
 
 # Cómo administrar semillas y pruebas en un correo electrónico
 
-En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
+Conozca cómo agregar semillas y pruebas a un correo electrónico existente y cómo enviarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
