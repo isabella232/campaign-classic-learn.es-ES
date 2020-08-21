@@ -3,23 +3,23 @@ title: 'Personalización de correos electrónicos: cree una newsletter multiling
 description: Aprenda a añadir contenido condicional a un envío en el ejemplo de una newsletter multilingüe.
 feature: Dynamic Content Blocks
 topics: Email Channel
-kt: 1559
+kt: 5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 8bd36a13c027138f9555ea800f6f435b135f1e8c
+source-git-commit: 8d28a093766e0b247d00e4b3c4f8735da5bc342e
 workflow-type: tm+mt
 source-wordcount: '116'
-ht-degree: 3%
+ht-degree: 35%
 
 ---
 
 
 # Personalización de correos electrónicos: cree una newsletter multilingüe con contenido condicional
 
-Al configurar campos de contenido condicionados, puede crear una personalización avanzada. Los bloques de texto y/o las imágenes se reemplazan cuando se cumple una condición concreta.
+Al configurar los campos de contenido condicionados, puede crear una personalización avanzada. Los bloques de texto o las imágenes completas se sustituyen cuando se cumple una condición concreta.
 
 Aprenda a añadir contenido condicional a un envío en el ejemplo de una newsletter multilingüe.
 
@@ -29,7 +29,7 @@ Aprenda a añadir contenido condicional a un envío en el ejemplo de una newslet
 
 Documentación:
 
-* [Acerca de la personalización](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Acerca de la personalización](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
 * [Contenido condicional](https://docs.adobe.com/content/help/en/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
 Tutorials de video:
