@@ -1,6 +1,6 @@
 ---
 title: Cómo configurar páginas de aterrizaje en Adobe Campaign Classic
-description: Adobe Campaign Classic le permite diseñar y alojar una variedad de páginas web en su servidor, incluyendo encuestas en línea, centros de preferencias y páginas de cancelación de suscripciones. Este vídeo muestra cómo navegar por el editor de aplicaciones web de Adobe Campaign creando un centro de preferencias.
+description: Adobe Campaign Classic le permite diseñar y alojar una variedad de páginas de aterrizaje en su servidor, incluyendo encuestas en línea, centros de preferencias y páginas de cancelación de suscripciones. Este vídeo muestra cómo navegar por el editor de aplicaciones web de Adobe Campaign creando un centro de preferencias.
 feature: Landing Pages
 topics: Configure
 kt: 1562
@@ -9,9 +9,9 @@ doc-type: feature video
 activity: setup
 team: DOC
 translation-type: tm+mt
-source-git-commit: 4a0f1fd9de07e5d81f3fcc1db93b4b27ac2e75b1
+source-git-commit: 25c52ebde4c815fd7073dffb90973afc86b7bffb
 workflow-type: tm+mt
-source-wordcount: '114'
+source-wordcount: '116'
 ht-degree: 0%
 
 ---
@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Cómo configurar páginas de aterrizaje
 
-Adobe Campaign Classic le permite diseñar y alojar una variedad de páginas web en su servidor, incluyendo encuestas en línea, centros de preferencias y páginas de cancelación de suscripciones.
+Adobe Campaign Classic le permite diseñar y alojar una variedad de páginas de aterrizaje en su servidor, incluyendo encuestas en línea, centros de preferencias y páginas de cancelación de suscripciones.
 
 Este vídeo muestra cómo navegar por el editor de aplicaciones web de Adobe Campaign creando un centro de preferencias.
 
