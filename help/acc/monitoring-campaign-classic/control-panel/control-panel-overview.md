@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: ca3b7933927914b9965f6f059293041dd1db1da2
+source-git-commit: 27ed8e92185c4bd162d57151fbfda30078ac11b1
 workflow-type: tm+mt
 source-wordcount: '419'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -49,7 +49,7 @@ Antes de comenzar, complete los siguientes requisitos previos:
 Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Mire[!DNL IMS Org ID] (00:26 min)*
+*Mire[!DNL IMS Org ID](00:26 min)*
 
 ### Derechos de administrador
 
@@ -57,7 +57,7 @@ Se requieren derechos de administrador para acceder al [!UICONTROL Control Panel
 En el siguiente vídeo se explica cómo añadir un administrador a una instancia de Campaign
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Cómo añadir un administrador al perfil de productos &quot;[!UICONTROL Administrators]&quot; para poder utilizarlo[!UICONTROL Control Panel] (1:03 min)*
+*Cómo añadir un administrador al perfil de productos &quot;[!UICONTROL Administrators]&quot; para poder utilizarlo[!UICONTROL Control Panel](1:03 min)*
 
 ## [!UICONTROL Control Panel] tutoriales
 
@@ -81,7 +81,7 @@ En el siguiente vídeo se explica cómo añadir un administrador a una instancia
 
    *cómo añadir algunas direcciones URL externas a la lista de direcciones URL autorizadas para que la instancia pueda conectarse a ellas.*
 
-* **[Listado de IP permitidas para acceso a instancias](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
+* **[Añadir direcciones IP a listas de permitidos](/help/acc/monitoring-campaign-classic/control-panel/ip-allow-listing.md)**
 
    *Aprenda cómo configurar nuevas conexiones a las instancias mediante[!UICONTROL allow listing]los rangos de direcciones IP.*
 
