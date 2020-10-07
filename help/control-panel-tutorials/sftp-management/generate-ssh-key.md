@@ -1,6 +1,6 @@
 ---
 title: Generación de una clave SSH
-description: Debe poder generar una clave SSH para añadirla al panel de control de Campaign de Adobe Campaign. El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
+description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
 feature: SSH Key
 topics: Control Panel
 kt: 6348
@@ -9,10 +9,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: d378a5afdce1d01e138dd90e357caa66362bacd0
+source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
 workflow-type: tm+mt
-source-wordcount: '134'
-ht-degree: 100%
+source-wordcount: '132'
+ht-degree: 63%
 
 ---
 
@@ -32,7 +32,7 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 
 ## Cómo generar una clave SSH
 
-El siguiente vídeo explica cómo generar una clave SSH mediante un terminal.
+Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
 *Cómo crear una clave SSH (2:16 min)*
