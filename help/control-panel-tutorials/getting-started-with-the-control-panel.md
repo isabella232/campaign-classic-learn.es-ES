@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '201'
 ht-degree: 68%
@@ -47,7 +47,8 @@ Antes de comenzar, complete los siguientes requisitos previos:
 Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
-*Comprobación de[!DNL IMS Org ID](00:26 min)*
+
+*Mire[!DNL IMS Org ID](00:26 min)*
 
 ### Derechos de administrador
 
