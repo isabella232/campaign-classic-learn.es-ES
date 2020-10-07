@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '212'
 ht-degree: 100%
@@ -41,6 +41,7 @@ Se requiere la solicitud de firma de certificado (CSR) para la compra de un cert
 En el siguiente vídeo se describe cómo generar una solicitud de firma de certificado en el panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/31317?quality=12)
+
 *Generar solicitudes de firma de certificado (2:36 min)*
 
 ### 2. Comprar certificados SSL
@@ -54,6 +55,7 @@ Una vez que haya obtenido el certificado SSL, deberá instalarlo para los subdom
 El siguiente vídeo explica cómo instalar los certificados SSL en [!UICONTROL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/31166?quality=12)
+
 *Instalar certificados SSL (1:25 min)*
 
 ## Recursos adicionales
