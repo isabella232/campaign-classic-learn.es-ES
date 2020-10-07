@@ -9,7 +9,7 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 375a20d78f7aa8ab5def5398308ebb9219bafe58
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 63%
@@ -35,4 +35,5 @@ Para acceder a la administración del SFTP en el panel de control de Campaign, v
 Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27259?quality=12)
+
 *Cómo crear una clave SSH (2:16 min)*
