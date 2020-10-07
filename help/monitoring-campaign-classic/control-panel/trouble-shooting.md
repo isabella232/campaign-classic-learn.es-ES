@@ -8,7 +8,7 @@ doc-type: article
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 51bfeb7f53cc68b78080ae7106ab8188cb78adb6
 workflow-type: tm+mt
 source-wordcount: '339'
 ht-degree: 100%
@@ -44,10 +44,12 @@ El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-ad
 ### Vídeos útiles
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
+
 *Comprobación del identificador de organización de IMS (00:26 min)*
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
-*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo [!UICONTROL Control panel] (1:03 min)*
+
+*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo[!UICONTROL Control panel](1:03 min)*
 
 ### Documentación útil
 
