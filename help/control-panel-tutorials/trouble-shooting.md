@@ -49,7 +49,7 @@ El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-ad
 
 >[!VIDEO](https://video.tv.adobe.com/v/27147?quality=12)
 
-*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo[!UICONTROL Control panel](1:03 min)*
+*Cómo añadir un administrador a los administradores de perfil de productos para poder utilizarlo[!UICONTROL Control panel] (1:03 min)*
 
 ### Documentación útil
 
