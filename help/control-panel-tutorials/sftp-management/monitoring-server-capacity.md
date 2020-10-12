@@ -10,10 +10,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 7b2c1ac95dc59ab0c9d8098d76a04af94f273dc8
+source-git-commit: 8d354d89015e1985be5a8c3c13fee53961b1d686
 workflow-type: tm+mt
-source-wordcount: '211'
-ht-degree: 82%
+source-wordcount: '93'
+ht-degree: 66%
 
 ---
 
@@ -33,25 +33,6 @@ Para acceder a la administración de subdominios en [!UICONTROL Control Panel], 
 
 ## Monitorizar la capacidad del servidor, [!UICONTROL allow list] las direcciones IP y añadir claves SSH
 
-En este vídeo se explica cómo acceder a [!UICONTROL Adobe Campaign Control Panel] y dónde puede supervisar el almacenamiento de los servidores SFTP.
+Obtenga información sobre cómo supervisar la capacidad de almacenamiento de sus servidores SFTP.
 
 >[!VIDEO](https://video.tv.adobe.com/v/27270?quality=12)
-
-### Descripciones de la interfaz
-
-**Instancias:** solo se muestran las instancias para las que tiene derechos de administrador.
-
-**Registros de trabajos:** solo se muestran los trabajos que se ejecutaron en [!UICONTROL Control Panel]. No se incluyen los trabajos que se ejecutaron fuera de [!UICONTROL Control Panel] (por ejemplo, flujos de trabajo que se están ejecutando, etc.)
-
-Los registros solo incluyen los trabajos ejecutados por los administradores de la organización. Si hay varias organizaciones, no verá los registros de otras organizaciones en los registros de trabajos.
-
-**Ficha de almacenamiento:** el encabezado muestra los tres servidores más utilizados, si tiene más de tres servidores, puede ver el resto en la pestaña [!UICONTROL Storage] .
-
-**Mensaje de advertencia:**
-
-* Naranja: el servidor se utiliza en un 80 %
-* Rojo: el servidor se utiliza en un 90 %
-
-## Recursos adicionales
-
-* [Generación de una clave SSH](./generate-ssh-key.md)
