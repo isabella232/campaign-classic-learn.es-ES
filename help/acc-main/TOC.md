@@ -12,11 +12,11 @@ tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 type: Tutorial
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: e24d8485d99e33216591a43227e1ba264c0016e6
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '356'
-ht-degree: 74%
+ht-degree: 100%
 
 ---
 
@@ -29,10 +29,10 @@ ht-degree: 74%
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de planes, programas y campañas de marketing](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creación de una campaña y un correo electrónico](https://docs.adobe.com/content/help/en/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
-   + [Establecimiento de objetivos para perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
-+ Profile Management {#profile-management}
-   + [Crear y administrar perfiles](/help/profile-management/create-and-manage-profiles.md)
+   + [Creación de una campaña y un correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
++ Administración de perfiles {#profile-management}
+   + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/data-management/importing-profiles.md)
    + [Creación de una lista de destinatarios](/help/profile-management/creating-a-list-of-recipients.md)
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
@@ -40,9 +40,9 @@ ht-degree: 74%
    + Canal de correo electrónico{#email-channel}
       + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
       + [Administrar fuentes y pruebas en un correo electrónico](/help/sending-messages/managing-seed-and-proofs.md)
-      + [Personalización de correos electrónicos mediante bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
-      + [Personalización de correos electrónicos mediante el campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-      + [Personalización de correos electrónicos: cree una newsletter multilingüe con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+      + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
+      + [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
+      + [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canal push {#push-channel}
@@ -52,7 +52,7 @@ ht-degree: 74%
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implementación de una plantilla de envíos por correo electrónico ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Correo postal {#direct-mail}
-      + [Creación de envíos de correo directo](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+      + [Creación de envíos de correos directos](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -63,8 +63,8 @@ ht-degree: 74%
 + Automatización con un flujo de trabajo{#automating-with-workflows}
    + [Creación de un flujo de trabajo](/help/automating-with-workflows/creating-a-workflow.md)
    + [Creación de un flujo de trabajo de objetivos](/help/automating-with-workflows/creating-a-targeting-workflow.md)
-   + [Refinar destinatarios combinando resultados de consulta](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
-   + [Refinar destinatarios excluyendo los resultados de consulta](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
+   + [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
+   + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
    + [Configuración de los flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurar actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
@@ -83,9 +83,9 @@ ht-degree: 74%
       + [Generación de una clave SSH](/help/monitoring-campaign-classic/control-panel/generate-ssh-key.md)
       + [Conexión a un servidor SFTP](/help/monitoring-campaign-classic/control-panel/connect-to-sftp-server.md)
       + [Delegación de subdominios](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)
-      + [Añadir certificados SSL](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
+      + [Adición de certificados SSL](/help/monitoring-campaign-classic/control-panel/adding-ssl-certificates.md)
       + [Adición de permisos de URL](/help/monitoring-campaign-classic/control-panel/adding-url-permissions.md)
-      + [Añadir direcciones IP a listas de permitidos](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
+      + [Adición de direcciones IP a listas de permitidos](/help/monitoring-campaign-classic/control-panel/ip-allow-listing.md)
       + [Administración de registros TXT de Google](/help/monitoring-campaign-classic/control-panel/google-txt-record-management.md)
       + Administración de claves GPG {#gpg-key-management}
          + [Administración de claves GPG: información general](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)
