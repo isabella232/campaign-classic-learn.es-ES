@@ -3,11 +3,11 @@ title: 'Tutoriales de Adobe Campaign Classic: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '250'
-ht-degree: 92%
+ht-degree: 100%
 
 ---
 
@@ -20,7 +20,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 * **[Administración de claves GPG](/help/monitoring-campaign-classic/control-panel/gpg-key-management/gpg-key-management-overview.md)**
 
-   *Aprenda cómo generar e instalar un par de claves pública y privada en una instancia específica de[!UICONTROL Campaign]para el cifrado de datos salientes y para importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.*
+   *Aprenda cómo generar e instalar un par de claves pública y privada en una instancia específica de [!UICONTROL Campaign] para el cifrado de datos salientes y para importar e instalar una clave pública en una instancia de Campaign para el descifrado de datos entrantes.*
 
 * **[Delegación de subdominios (BETA)](/help/monitoring-campaign-classic/control-panel/subdomain-delegation.md)**
 
@@ -36,11 +36,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 <tr>
   <td>
     <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-      <img alt="Mapa térmico de los flujos de trabajo (vídeo)" src="./assets/workflow-heatmap.png"/>
+      <img alt="Mapas térmicos de los flujos de trabajo (vídeo)" src="./assets/workflow-heatmap.png"/>
     </a>
     <div>
       <a href="./monitoring-campaign-classic/workflow-heatmap.md">
-    <strong>Mapa térmico del flujo de trabajo</strong>
+    <strong>Mapas térmicos del flujo de trabajo</strong>
     </a>
     </div>
     <p>
@@ -62,7 +62,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
   </td>
   <td>
     <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
-      <img alt="Definición de contenido de correo electrónico interactivo con AMP (vídeo)" src="./assets/29940.png" />
+      <img alt="Definición del contenido de correo electrónico interactivo con AMP (vídeo)" src="./assets/29940.png" />
     </a>
     <div>
       <a href="./sending-messages/email-channel/defining-interactive-email-content-with-amp.md">
