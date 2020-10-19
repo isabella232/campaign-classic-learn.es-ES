@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: PM
 translation-type: tm+mt
-source-git-commit: 32998c870da2217d11bdba5f541e4161132b4792
+source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
-source-wordcount: '255'
-ht-degree: 29%
+source-wordcount: '197'
+ht-degree: 18%
 
 ---
 
@@ -21,17 +21,9 @@ El Panel de control de Campaign de Adobe Campaign permite a los administradores 
 
 ## Novedades
 
-* **[Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)**
+* **[Delegación de subdominios mediante CNAME](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
 
-   *Obtenga información sobre cómo generar un par de claves GPG público/privado e instalar la clave pública en[!UICONTROL Control Panel]para poder cifrar datos antes de enviarlos desde su instancia.*
-
-* **[Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)**
-
-   *Obtenga información sobre cómo exportar datos con una clave GPG instalada en[!UICONTROL Control Panel].*
-
-* **[Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)**
-
-   *Aprenda cómo crear una clave pública, importarla e instalarla en una instancia de[!UICONTROL Campaign]para el descifrado de datos entrantes.*
+   *Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.*
 
 ## Nuestra selección
 
