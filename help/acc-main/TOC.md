@@ -16,7 +16,7 @@ translation-type: tm+mt
 source-git-commit: 422e29d281d23c6d0da70fc85d625c3137c3081a
 workflow-type: tm+mt
 source-wordcount: '324'
-ht-degree: 97%
+ht-degree: 100%
 
 ---
 
@@ -77,6 +77,6 @@ ht-degree: 97%
 + Integración {#integrating}
    + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
-   + [Panel de control](https://docs.adobe.com/content/help/en/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/control-panel/control-panel-overview.html)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
