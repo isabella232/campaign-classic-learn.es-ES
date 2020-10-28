@@ -10,17 +10,17 @@ audience: administrator
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 94fec8af7e6de034e3482d39fde79f70bfa8b089
+source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 3%
+source-wordcount: '86'
+ht-degree: 2%
 
 ---
 
 
 # Supervisión de bases de datos
 
-Las bases de datos de las [!DNL Adobe Campaign] instancias incluyen todos los recursos, flujos de trabajo y datos almacenados en [!DNL Adobe Campaign]. Por lo tanto, la supervisión de las bases de datos de instancias es esencial para garantizar un rendimiento óptimo.
+Todos los recursos, flujos de trabajo y datos de la instancia de Campaña se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial supervisar las bases de datos de las instancias con regularidad para garantizar un rendimiento óptimo.
 
 Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con el [!DNL Control Panel].
 
