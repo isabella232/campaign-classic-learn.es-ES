@@ -12,10 +12,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 5ff5fd9b021e787feefb2aae3b46421c1234b6cf
+source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 100%
+source-wordcount: '167'
+ht-degree: 98%
 
 ---
 
@@ -42,4 +42,6 @@ ht-degree: 100%
       + [Generación e instalación de claves GPG para el cifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/generating-and-installing-gpg-keys-for-data-encryption.md)
       + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
++ Supervisión del rendimiento {#performance-monitoring}
+   + [Supervisión de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Solución de problemas del panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)
