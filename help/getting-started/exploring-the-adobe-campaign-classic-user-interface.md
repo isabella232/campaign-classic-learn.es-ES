@@ -4,14 +4,14 @@ description: En esta lección se explica la interfaz de usuario principal de Ado
 feature: User Interface
 topics: Getting started
 kt: 5009
-thumbnail: 35310.jpg
+thumbnail: 35130.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
 role: user
-translation-type: ht
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+translation-type: tm+mt
+source-git-commit: 480b5f51961060c34e5d36a4eae2e18cf2f8e05a
+workflow-type: tm+mt
 source-wordcount: '67'
 ht-degree: 100%
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 
 En esta lección se explica la interfaz de usuario principal de Adobe Campaign Classic y se muestra cómo desplazarse por las funcionalidades principales.
 
->[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35130?quality=12)
 
 ## Recursos adicionales
 
