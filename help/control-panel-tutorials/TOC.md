@@ -1,5 +1,5 @@
 ---
-product: adobe campaign standard
+product: Adobe Cmpaign Classic
 user-guide-title: Tutoriales del Panel de control de Campaign
 user-guide-description: El panel de control de Campaign les permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones IP de la lista de permitidos.
 breadcrumb-title: Tutoriales del Panel de control de Campaign
@@ -12,10 +12,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 8459863bbd76085dd4b1bd0e77f38d928d43eb2c
+source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
 workflow-type: tm+mt
 source-wordcount: '167'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -43,5 +43,5 @@ ht-degree: 98%
       + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
-   + [Supervisión de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [Monitorización de las bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Solución de problemas del panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)
