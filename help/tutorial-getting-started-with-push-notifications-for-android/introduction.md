@@ -8,7 +8,7 @@ doc-type: article
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
 workflow-type: tm+mt
 source-wordcount: '389'
 ht-degree: 6%
@@ -36,7 +36,7 @@ Antes de empezar, deberá cumplir los siguientes requisitos previos
 
    Deberá tener instalado el paquete de canal de la aplicación móvil en su instancia. En el siguiente vídeo se explica cómo comprobar si el canal de aplicaciones móviles está instalado en la instancia y, en caso contrario, cómo instalarlo.
 
-   [!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
+>[!VIDEO](https://video.tv.adobe.com/v/326544?quality=12)
 
 ## Tutorial
 
