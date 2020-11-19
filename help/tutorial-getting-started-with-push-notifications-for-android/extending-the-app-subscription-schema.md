@@ -9,7 +9,7 @@ doc-type: feature video
 activity: setup
 team: TM
 translation-type: tm+mt
-source-git-commit: 412fe93f45be1e98343b4e63cbd7dd9285444e46
+source-git-commit: 7da1cb8a2899272bf1203146e80bd21847377e8a
 workflow-type: tm+mt
 source-wordcount: '89'
 ht-degree: 2%
@@ -17,15 +17,15 @@ ht-degree: 2%
 ---
 
 
-# Ampliación del esquema de suscripción de la aplicación para personalizar las notificaciones push
+# Ampliación del [!UICONTROL app subscription] esquema para personalizar las notificaciones push
 
-Descubra cómo ampliar el esquema de suscripción de la aplicación para poder almacenar los valores de personalización que recibe la Campaña desde una aplicación móvil.
+Obtenga información sobre cómo ampliar el [!UICONTROL app subscription] esquema para poder almacenar los valores de personalización [!DNL Campaign] recibidos desde una aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 
-## Qué ver después
+**Paso siguiente**
 
-**[Configuración de un servicio de Android en Campaña](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)**
+Paso 2: [Configuración de un servicio de Android y creación de una aplicación móvil de Android en Campaña](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 
 ## Recursos adicionales
 
