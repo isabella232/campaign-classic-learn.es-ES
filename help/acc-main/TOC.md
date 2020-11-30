@@ -6,16 +6,16 @@ user-guide-description: Adobe Campaign Classic permite a los especialistas en ma
 breadcrumb-title: Tutoriales
 breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
+solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriales
-tutorials-url: https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: b4467e36f9e0ae389f3c9632b9f48da95c65213e
+source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
 workflow-type: tm+mt
-source-wordcount: '348'
-ht-degree: 92%
+source-wordcount: '343'
+ht-degree: 90%
 
 ---
 
@@ -25,11 +25,11 @@ ht-degree: 92%
 + [Información general](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
-   + [Instalación y configuración del cliente Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
+   + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de planes, programas y campañas de marketing](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creación de una campaña y un correo electrónico](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/tutorials/getting-started/creating-a-campaign-and-an-email.html)
+   + [Creación de una campaña y un correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
    + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
@@ -79,6 +79,6 @@ ht-degree: 92%
 + Integración {#integrating}
    + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
-   + [Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/campaign-classic-learn/control-panel/control-panel-overview.html)
+   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
