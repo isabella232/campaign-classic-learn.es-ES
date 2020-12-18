@@ -8,14 +8,14 @@ breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
 solution-title: Experience League
 solution-hub-url: https://experienceleague.adobe.com/?lang=es&tag=Campaign+Classic#recommended/solutions/campaign
 tutorials-title: Tutoriales
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '343'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
@@ -29,7 +29,7 @@ ht-degree: 90%
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de planes, programas y campañas de marketing](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creación de una campaña y un correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html)
+   + [Creación de una campaña y un correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=es)
    + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
@@ -46,9 +46,9 @@ ht-degree: 90%
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
    + Canal push {#push-channel}
-      + [Instalación de Mobile App Canal](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
+      + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuración del canal push mediante el SDK de Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
-      + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html)
+      + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
    + Uso de las plantillas de envíos{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
