@@ -11,11 +11,11 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: b4b9d7c578d4511605154e014189ae467330ec31
-workflow-type: ht
-source-wordcount: '343'
-ht-degree: 100%
+translation-type: tm+mt
+source-git-commit: d71af28e73ac587394d255494a5f8a7fc177afb6
+workflow-type: tm+mt
+source-wordcount: '348'
+ht-degree: 98%
 
 ---
 
@@ -59,6 +59,7 @@ ht-degree: 100%
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
 + Organización de campañas {#orchestration}
+   + [Ejecución de una campaña](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Creación de campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
 + Creación de informes {#reporting}
    + [Generación de un informe de análisis descriptivo](/help/reporting/generating-a-descriptive-analysis-report.md)
@@ -71,6 +72,7 @@ ht-degree: 100%
    + [Configuración de los flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configurar actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
+   + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
 + Diseño del contenido{#designing-content}
    + [Configurar las páginas de destino](/help/designing-content/configure-landingpages.md)
 + Monitorización {#monitoring}
