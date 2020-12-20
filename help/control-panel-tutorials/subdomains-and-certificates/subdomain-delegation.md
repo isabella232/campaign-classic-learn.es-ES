@@ -21,7 +21,7 @@ ht-degree: 85%
 
 >[!IMPORTANT]
 >
-> Subdomain delegation from the [!UICONTROL Control Panel] is in beta and subject to frequent updates and modifications without notice.
+> La delegación de subdominios de [!UICONTROL Control Panel] está en fase beta y sujeta a frecuentes actualizaciones y modificaciones sin previo aviso.
 
 Adobe Campaign [!UICONTROL Control Panel] le permite delegar completamente un subdominio a Adobe Campaign.
 
