@@ -1,5 +1,5 @@
 ---
-title: 'Configuración del Canal push mediante el SDK de Experience Platform Mobile '
+title: 'Configuración del canal push mediante el SDK de Experience Platform Mobile '
 description: 'En este vídeo se explica cómo configurar el canal push para Campaign Classic mediante el SDK de Experience Cloud Mobile. '
 feature: Mobile SDK
 topics: Mobile Channels
@@ -11,12 +11,12 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '91'
-ht-degree: 2%
+ht-degree: 24%
 
 ---
 
 
-# Configuración del Canal push mediante el SDK de Experience Platform Mobile
+# Configuración del canal push mediante el SDK de Experience Platform Mobile
 
 En este vídeo se explica cómo configurar e instalar el SDK de Adobe Experience Platform Mobile.
 
