@@ -18,7 +18,7 @@ ht-degree: 6%
 
 # Gran gestión de datos para el Snowflake
 
-Este tutorial explica cómo aprovechar el [!DNL Snowflake] conector en Adobe Campaign Classic.
+Este tutorial explica cómo aprovechar el conector [!DNL Snowflake] en Adobe Campaign Classic.
 Aprenderá a
 
 * Conectar con el Snowflake
