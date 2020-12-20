@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '133'
-ht-degree: 34%
+ht-degree: 78%
 
 ---
 
@@ -32,7 +32,7 @@ Videotutoriales
 
 Documentación:
 
-* [Acerca de las plantillas](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_About_templates.html)
-* [Creación de una Plantilla de envíos](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_template.html)
-* [Selección de una asignación de destino](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Selecting_a_target_mapping.html)
-* [Creación de una entrega a partir de una plantilla](https://docs.campaign.adobe.com/doc/AC/en/DLV_Using_delivery_templates_Creating_a_delivery_from_a_template.html)
+* [Acerca de las plantillas](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
+* [Creación de una plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
+* [Selección de una asignación de destino](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
+* [Creación de una entrega a partir de una plantilla](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
