@@ -20,7 +20,7 @@ ht-degree: 26%
 
 La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la solicitud excesiva de destinatarios y a menudo se aplica mediante una reglas de tipología.
 
-Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todos los envíos de forma más eficaz para controlar los mensajes de campaña a los clientes. Para ello, eliminan la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Los destinatarios que coincidan con los criterios de una *reglas de tipología* se excluirán del envío durante la fase de análisis.
+Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todos los envíos de forma más eficaz para controlar los mensajes de campaña a los clientes. Para ello, eliminan la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Los destinatarios que coincidan con criterios dentro de una *reglas de tipología* se excluirán del envío durante la fase de análisis.
 
 Normalmente, un conjunto de *reglas de tipología* se agrupan dentro de una *tipología* para aplicar fácilmente varias reglas de filtrado a un envío a la vez.
 
@@ -33,5 +33,5 @@ En este vídeo se explica cómo implementar la administración de la fatiga en A
 ## Recursos adicionales
 
 * [Acerca de las tipologías de campaña](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html)
-* [Administración de la fatiga comercial con reglas de presión](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
+* [Administración de la fatiga comercial con reglas de presión](https://docs.adobe.com/content/help/en/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html)
 
