@@ -19,8 +19,8 @@ ht-degree: 29%
 
 # Adición de permisos de URL
 
-Obtenga información sobre cómo establecer una conexión de la [!UICONTROL Adobe Campaign Classic] instancia a una URL externa.
+Obtenga información sobre cómo establecer una conexión desde la instancia [!UICONTROL Adobe Campaign Classic] a una dirección URL externa.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28149?quality=12)
 
-For more information please see [URL permissions](https://docs.adobe.com/content/help/es-ES/control-panel/using/instances-settings/url-permissions.html).
+Para obtener más información, consulte [Permisos de URL](https://docs.adobe.com/content/help/es-ES/control-panel/using/instances-settings/url-permissions.html).
