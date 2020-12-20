@@ -1,6 +1,6 @@
 ---
 title: Creación de una lista de destinatarios con un flujo de trabajo
-description: Aprenda a crear una audiencia configurando una lista de destinatarios desde el Explorador.
+description: Aprenda cómo crear una audiencia configurando una lista de destinatarios desde Explorer.
 feature: Audiences
 topics: Getting started
 kt: 2173
@@ -12,14 +12,14 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '84'
-ht-degree: 33%
+ht-degree: 96%
 
 ---
 
 
 # Creación de una lista de destinatarios con un flujo de trabajo
 
-Obtenga información sobre cómo crear un flujo de trabajo para destinatario de destinatarios y cómo hacerlo recurrente antes de utilizar la lista en un destinatario de correo electrónico.
+Aprenda cómo crear un flujo de trabajo con el fin de apuntar los destinatarios y cómo volverlo recurrente antes de utilizar la lista en un destinatario de correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25603?quality=12)
 
@@ -31,6 +31,6 @@ Documentación:
 
 Tutoriales:
 
-* [Crear y administrar perfiles](/help/profile-management/create-and-manage-profiles.md)
+* [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
 * [Importación de perfiles](/help/data-management/importing-profiles.md)
 * [Creación de una lista de destinatarios](/help/profile-management/creating-a-list-of-recipients.md)
