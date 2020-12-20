@@ -1,6 +1,6 @@
 ---
 title: Creación de una lista de destinatarios
-description: Aprenda a crear una audiencia configurando una lista de destinatarios desde el Explorador.
+description: Aprenda cómo crear una audiencia configurando una lista de destinatarios desde Explorer.
 feature: Audiences
 topics: Getting started
 kt: 2171
@@ -12,7 +12,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '106'
-ht-degree: 58%
+ht-degree: 100%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 58%
 
 Una lista es un conjunto estático de destinatarios que puede centrarse en acciones de envío o actualizarse durante operaciones de importación o durante la ejecución del flujo de trabajo. Una lista de destinatarios también se denomina audiencia.
 
-Aprenda a crear una audiencia configurando una lista de destinatarios desde el Explorador.
+Aprenda cómo crear una audiencia configurando una lista de destinatarios desde Explorer.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25602/quality=12)
 
@@ -33,6 +33,6 @@ Documentación:
 
 Tutoriales:
 
-* [Crear y administrar perfiles](/help/profile-management/create-and-manage-profiles.md)
+* [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
 * [Importación de perfiles](/help/data-management/importing-profiles.md)
 * [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
