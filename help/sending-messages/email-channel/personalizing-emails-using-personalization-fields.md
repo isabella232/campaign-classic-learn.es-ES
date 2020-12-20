@@ -8,9 +8,9 @@ thumbnail: 24925.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '124'
 ht-degree: 100%
 
@@ -23,7 +23,7 @@ Los campos de personalización se utilizan para la personalización de primer ni
 
 Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
 
->[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/24925?quality=12)
 
 ## Recursos adicionales
 
