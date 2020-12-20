@@ -8,9 +8,9 @@ thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '129'
 ht-degree: 100%
 
@@ -21,7 +21,7 @@ ht-degree: 100%
 
 Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
 
->[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/35614?quality=12)
 
 ## Siguientes tutoriales que ver
 
