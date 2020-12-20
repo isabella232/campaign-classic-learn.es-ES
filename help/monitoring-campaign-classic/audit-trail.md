@@ -7,9 +7,9 @@ kt: 2835
 doc-type: feature video
 activity: understand
 team: PM
-translation-type: ht
+translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 100%
 
@@ -41,6 +41,6 @@ El [!UICONTROL Audit Trail] registra las acciones del operador de lista y regist
 
 El siguiente vídeo describe dónde acceder a los registros de pista de auditoría y qué configuración se puede realizar.
 
->[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12&captions=spa)
+>[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
 Para obtener más información, consulte la [documentación sobre la pista de auditoría](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
