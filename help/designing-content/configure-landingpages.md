@@ -25,4 +25,4 @@ Este vídeo muestra cómo navegar por el editor de aplicaciones web de Adobe Cam
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12)
 
-Para obtener más información, consulte la documentación detallada sobre la [creación de una página de aterrizaje](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
+Para obtener más información, consulte la documentación detallada sobre [Creación de una página de aterrizaje](https://docs.adobe.com/content/help/en/campaign-classic/using/designing-content/editing-html-content/creating-a-landing-page.html).
