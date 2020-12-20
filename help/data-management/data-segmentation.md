@@ -28,11 +28,11 @@ El perfil integrado de clientes de Adobe Campaign permite a los especialistas en
 
 >[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12)
 
-## Creación y actualización de Perfiles de clientes {#customer-profile-creation-and-update}
+## Creación y actualización del Perfil del cliente {#customer-profile-creation-and-update}
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Segmentación de clientes  {#customer-segmentation}
+## Segmentación de clientes {#customer-segmentation}
 
 Una vez que haya comprendido los perfiles, estará listo para realizar una segmentación avanzada mediante consultas profundas de los atributos comunes del consumidor y otras fuentes de datos. Permite crear listas reutilizables, actualizar de forma dinámica listas basadas en cambios en tiempo real en los datos e incluso realizar actividades más complejas, como pruebas de varias variables en cualquiera de esos puntos de datos.
 
