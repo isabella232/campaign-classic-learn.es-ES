@@ -20,7 +20,7 @@ ht-degree: 71%
 
 # Generación de un informe de análisis descriptivo
 
-Obtenga información sobre cómo generar un flujo [!UICONTROL descriptive analysis report] de trabajo.
+Obtenga información sobre cómo generar un [!UICONTROL descriptive analysis report] a partir de un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 
