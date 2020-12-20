@@ -11,7 +11,7 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '111'
-ht-degree: 23%
+ht-degree: 41%
 
 ---
 
@@ -22,4 +22,5 @@ Adobe Campaign utiliza flujos de trabajo para llevar a cabo campañas de objetiv
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Consulte la documentación [sobre Flujos de trabajo](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)y [actividades](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) de objetivos para obtener más información.
+Consulte la documentación [sobre Flujos de trabajo](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+y [acerca de actividades de objetivo](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obtener más información.
