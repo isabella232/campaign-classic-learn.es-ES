@@ -1,5 +1,5 @@
 ---
-title: Creación de envíos de correo directo
+title: Creación de envíos de correos directos
 description: null
 feature: Direct mail
 topics: null
@@ -12,13 +12,13 @@ translation-type: tm+mt
 source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
 workflow-type: tm+mt
 source-wordcount: '22'
-ht-degree: 0%
+ht-degree: 36%
 
 ---
 
 
-# Creación de envíos de correo directo
+# Creación de envíos de correos directos
 
-Conozca cómo [!UICONTROL direct mail] funciona [!UICONTROL Adobe Campaign] y aprenda a crear, formatear y ejecutar un [!UICONTROL direct mail ]envío.
+Comprender cómo [!UICONTROL direct mail] funciona en [!UICONTROL Adobe Campaign] y aprender a crear, dar formato y ejecutar un [!UICONTROL direct mail ]envío.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21377?quality=12)
