@@ -26,13 +26,13 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
 * Los **envíos continuos** le permiten añadir destinatarios nuevos a un envío existente, lo que evita tener que crear un envío nuevo cada vez que se añade un nuevo destinatario. Puede actualizar el elemento creativo directamente en el flujo de trabajo de campaña para que se actualice la plantilla en la carpeta Recurso de plantilla de envíos.
 
-   Un envío continuo creará un envío ÚNICO y registros de envío (wideLog) y registros de seguimiento que hacen referencia a que se agrega un envío cada vez que se ejecuta.
+   Un envío continuo creará un envío ÚNICO y registros de envío (broadLog) y registros de seguimiento que hacen referencia a que se agrega un envío cada vez que se ejecuta.
 
-![Envío continuo](/help/assets/delivery_continuous.jpg)
+![Entrega continua](/help/assets/delivery_continuous.jpg)
 
 * Un **envío recurrente** creará una nueva instancia de envío cada vez que se ejecute. Por ejemplo, si el flujo de trabajo está programado para ejecutarse una vez a la semana, el resultado sería de 52 envíos al cabo de un año. Esto también significa que el registro y los registros de seguimiento generales se separarán por cada instancia de envío.
 
-![Envío recurrente](/help/assets/delivery_recurring.jpg)
+![Entrega recurrente](/help/assets/delivery_recurring.jpg)
 
 ## Configuración de un envío recurrente {#how-to-set-up-a-recurring-delivery}
 
