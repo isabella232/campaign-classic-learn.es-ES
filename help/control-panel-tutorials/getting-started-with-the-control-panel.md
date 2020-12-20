@@ -1,5 +1,5 @@
 ---
-title: Introducción al Panel de control de Campaign
+title: Introducción al Panel de control
 description: Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control.
 feature: Control Panel
 topics: Control Panel
@@ -12,18 +12,18 @@ translation-type: tm+mt
 source-git-commit: 93e2482e42a1fdddb77007cab3bbd7149e2545a9
 workflow-type: tm+mt
 source-wordcount: '217'
-ht-degree: 63%
+ht-degree: 65%
 
 ---
 
 
-# Getting started with the [!UICONTROL Control Panel] {#control-panel}
+# Introducción a [!UICONTROL Control Panel] {#control-panel}
 
 >[!NOTE]
 >
 >Los términos &quot;[!UICONTROL whitelist]&quot; y &quot;[!UICONTROL blacklist]&quot; se han sustituido por &quot;[!UICONTROL allowlist]&quot; y &quot;[!UICONTROL denylist]&quot; en la documentación de Adobe Campaign. Algunas instancias de estos términos pueden seguir existiendo en la interfaz de usuario del producto, nombres de opciones, código interno y los vídeos del tutorial. Se reemplazarán en próximas versiones del panel de control de Campaign.
 
-The [!UICONTROL Control Panel] allows Adobe Campaign administrators to monitor key assets and perform administrative tasks, such as managing the [!DNL SFTP] storage by instance, managing [!DNL GPG] keys, or [!UICONTROL subdomains] and [!UICONTROL certificates].
+El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorear los recursos clave y realizar tareas administrativas, como administrar el almacenamiento [!DNL SFTP] por instancia, administrar las claves [!DNL GPG] o [!UICONTROL subdomains] y [!UICONTROL certificates].
 
 Este artículo explica cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control.
 
@@ -50,7 +50,7 @@ Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede bus
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
-*Mire[!DNL IMS Org ID](00:26 min)*
+*Mire [!DNL IMS Org ID] (00:26 min)*
 
 ### Derechos de administrador
 
@@ -61,5 +61,5 @@ En el siguiente vídeo se explica cómo añadir un administrador a una instancia
 
 ## Recursos adicionales
 
-* [Centro de ayuda de panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda del Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
 
