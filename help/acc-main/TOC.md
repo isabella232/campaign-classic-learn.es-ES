@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
 workflow-type: tm+mt
-source-wordcount: '358'
-ht-degree: 96%
+source-wordcount: '363'
+ht-degree: 95%
 
 ---
 
@@ -39,7 +39,7 @@ ht-degree: 96%
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
       + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
-      + [Administrar fuentes y pruebas en un correo electrónico](/help/sending-messages/managing-seed-and-proofs.md)
+      + [Administrar fuentes y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configuración del contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -60,6 +60,7 @@ ht-degree: 96%
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
+   + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
    + [Ejecución de una campaña](/help/orchestrating-campaigns/executing-a-campaign.md)
    + [Creación de campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
