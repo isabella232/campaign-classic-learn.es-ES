@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
 workflow-type: tm+mt
-source-wordcount: '363'
-ht-degree: 95%
+source-wordcount: '367'
+ht-degree: 88%
 
 ---
 
@@ -27,10 +27,11 @@ ht-degree: 95%
    + [Introducción a Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-   + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
-   + [Creación de planes, programas y campañas de marketing](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Administrar Campañas de mercadotecnia](/help/getting-started/managing-marketing-campaigns.md)
+   + [Creación de planes de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de una campaña y un correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=es)
-   + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Perfiles de destinatario en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Crear campañas activadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/data-management/importing-profiles.md)
