@@ -12,9 +12,9 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '358'
 ht-degree: 88%
 
 ---
@@ -29,7 +29,7 @@ ht-degree: 88%
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Administrar Campañas de mercadotecnia](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de planes de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
-   + [Creación de una campaña y un correo electrónico](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/sending-messages/email-channel/creating-a-campaign-and-an-email.html?lang=es)
+   + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Perfiles de destinatario en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Crear campañas activadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
@@ -39,7 +39,7 @@ ht-degree: 88%
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
-      + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
+      + [Crear y diseñar envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Administrar fuentes y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Configuración del contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
@@ -52,12 +52,12 @@ ht-degree: 88%
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuración del canal push mediante el SDK de Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
+   + Correo postal {#direct-mail}
+      + [Creación de envíos de correos directos](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Uso de las plantillas de envíos{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implementación de una plantilla de envíos por correo electrónico ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
-   + Correo postal {#direct-mail}
-      + [Creación de envíos de correos directos](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
