@@ -4,10 +4,10 @@ description: Adobe Campaign ofrece una plataforma para diseñar experiencias mul
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
+source-git-commit: 588f8607ac9ad11316e77333b8bd6fcf7cc78590
 workflow-type: tm+mt
-source-wordcount: '254'
-ht-degree: 87%
+source-wordcount: '246'
+ht-degree: 81%
 
 ---
 
@@ -18,7 +18,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* ** [Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs)**
+
+*Obtenga información sobre cómo enviar y validar una prueba.*
+
+* **[Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Conozca cómo aplicar las optimizaciones de la entrega.*
 
@@ -29,10 +33,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 * **[Introducción a las notificaciones push para Android](/help/tutorial-getting-started-with-push-notifications-for-android/introduction.md)**
 
    *En este tutorial, se explican los pasos necesarios para enviar notificaciones push de Adobe Campaign a una aplicación de Android.*
-
-* **[Delegación de subdominios mediante CNAME (beta)](/help/control-panel-tutorials/subdomains-and-certificates/delegating-subdomains-using-cname.md)**
-
-   *Obtenga información sobre cómo configurar y enviar un subdominio mediante CNAME en el Panel de control de Campaign.*
 
 ## Nuestra selección
 
