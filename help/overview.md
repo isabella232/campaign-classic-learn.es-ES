@@ -4,7 +4,7 @@ description: Adobe Campaign ofrece una plataforma para diseñar experiencias mul
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: a43f2d309b02b59c72261bf44dfb90a9024e1718
+source-git-commit: fd1532b1205653c1ad988ea09e0d8e7c65b6bfeb
 workflow-type: tm+mt
 source-wordcount: '246'
 ht-degree: 81%
@@ -20,7 +20,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 * **[Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-*Obtenga información sobre cómo enviar y validar una prueba.*
+   *Obtenga información sobre cómo enviar y validar una prueba.*
 
 * **[Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
