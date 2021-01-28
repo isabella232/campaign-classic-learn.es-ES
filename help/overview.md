@@ -4,7 +4,7 @@ description: Adobe Campaign ofrece una plataforma para diseñar experiencias mul
 product: Campaign
 sub-product: Campaign Classic
 translation-type: tm+mt
-source-git-commit: be36a04bf4105c70a1e76dd17b082421682b1cc2
+source-git-commit: b6b92148aa3993bc3cee7883ce6a16bc8a4941ea
 workflow-type: tm+mt
 source-wordcount: '254'
 ht-degree: 87%
@@ -18,7 +18,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **+  [Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* ** [Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Conozca cómo aplicar las optimizaciones de la entrega.*
 
