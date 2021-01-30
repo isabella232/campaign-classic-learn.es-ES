@@ -12,10 +12,10 @@ tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tu
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 translation-type: tm+mt
-source-git-commit: 72815762856f9537e409b52c4c9752c5193a0efc
+source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
 workflow-type: tm+mt
-source-wordcount: '375'
-ht-degree: 85%
+source-wordcount: '378'
+ht-degree: 84%
 
 ---
 
@@ -69,7 +69,8 @@ ht-degree: 85%
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
    + [Ejecución de una campaña](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Creación de campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Crear campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Crear campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Creación de informes {#reporting}
    + [Acceso a los informes integrados](/help/reporting/accessing-built-in-reports.md)
    + [Generación de un informe de análisis descriptivo](/help/reporting/generating-a-descriptive-analysis-report.md)
