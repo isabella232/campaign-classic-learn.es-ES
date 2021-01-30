@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 21%
+source-wordcount: '69'
+ht-degree: 24%
 
 ---
 
@@ -28,5 +28,5 @@ Obtenga información sobre cómo crear una campaña de varios canales mediante c
 
 ## Recursos adicionales
 
-* [Diseño y orquestación de Campañas de correo electrónico en Adobe Campaign Classic](https://helpx.adobe.com/campaign/classic/how-to/design-orchestrate-email-campaigns-in-campaign-classic.html)
+* [Introducción a las campañas de múltiples canales y canales](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
 
