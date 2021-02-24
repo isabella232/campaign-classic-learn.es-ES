@@ -1,7 +1,7 @@
 ---
-product: Adobe Cmpaign Classic
+product: Adobe Campaign Classic
 user-guide-title: Tutoriales del Panel de control de Campaign
-user-guide-description: El panel de control de Campaign les permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento SFTP por instancia o por direcciones IP de la lista de permitidos.
+user-guide-description: Obtenga información sobre cómo supervisar los recursos clave de las instancias de Adobe Campaign y realizar tareas administrativas en Panel de control de Campaign.
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 solution-title: Experience League
@@ -12,10 +12,10 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 translation-type: tm+mt
-source-git-commit: 217b0ec1b6f5c5e17009f1103d69726aa57dcaa4
+source-git-commit: f4be1f91a69c14fe6a61b4e286c656dcf46a5a67
 workflow-type: tm+mt
-source-wordcount: '167'
-ht-degree: 100%
+source-wordcount: '157'
+ht-degree: 89%
 
 ---
 
