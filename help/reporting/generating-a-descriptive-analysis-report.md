@@ -1,7 +1,7 @@
 ---
 title: Generación de un informe de análisis descriptivo
 description: Obtenga información sobre cómo generar un informe de análisis descriptivo a partir de un flujo de trabajo en Adobe Campaign Classic.
-feature: Reporting
+feature: Creación de informes
 topics: null
 kt: 5079
 thumbnail: 35616.jpg
@@ -12,8 +12,8 @@ role: user
 translation-type: tm+mt
 source-git-commit: 5866cade054ddc7d3d41db1104887c224dcf0c17
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 71%
+source-wordcount: '65'
+ht-degree: 70%
 
 ---
 
