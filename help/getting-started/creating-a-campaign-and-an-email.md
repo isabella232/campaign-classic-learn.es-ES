@@ -1,7 +1,7 @@
 ---
 title: Creación de un correo electrónico a partir de una campaña
 description: Descubra cómo crear un envío por correo electrónico directamente desde una campaña.
-feature: Email
+feature: Correo electrónico
 topics: null
 kt: 2172
 thumbnail: 25604.jpg
@@ -11,7 +11,7 @@ team: DOC
 translation-type: tm+mt
 source-git-commit: 4b35c4cbb20f5761786174ceed3e76841d53094e
 workflow-type: tm+mt
-source-wordcount: '50'
+source-wordcount: '51'
 ht-degree: 72%
 
 ---
