@@ -3,11 +3,15 @@ title: 'Tutoriales de Adobe Campaign Classic: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 product: Campaign
 sub-product: Campaign Classic
+feature: Información general
+topic: null
+role: Profesional empresarial, administrador, desarrollador
+level: Principiante
 translation-type: tm+mt
-source-git-commit: b46156de129b40e92dd0b3fb8777d6dda51ddaf2
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '251'
-ht-degree: 69%
+source-wordcount: '257'
+ht-degree: 68%
 
 ---
 
@@ -18,25 +22,25 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 ## Novedades
 
-* **[Crear campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Aprenda a crear y ejecutar una campaña entre canales.*
+   *Obtenga información sobre cómo crear y ejecutar una campaña en canales múltiples.*
 
 * **[Usar grupos de control](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Comprender el concepto de grupos de control y aprender a usar un grupo de control para su envío.*
+   *Comprenda el concepto de grupos de control y aprenda a utilizar un grupo de control para su envío.*
 
 * **[Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
    *Obtenga información sobre cómo enviar y validar una prueba.*
 
-* **[Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
+* **[Diseño de correos electrónicos para envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
-   *Conozca cómo aplicar las optimizaciones de la entrega.*
+   *Aprenda a aplicar las prácticas recomendadas de envío.*
 
-* **[Crear y diseñar envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Creación y diseño de envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Conozca el proceso de creación de un envío de correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.*
+   *Comprenda el proceso de creación de una entrega por correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.*
 
 
 ## Nuestra selección
