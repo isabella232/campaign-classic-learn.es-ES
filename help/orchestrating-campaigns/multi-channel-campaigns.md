@@ -1,5 +1,5 @@
 ---
-title: Crear campañas de varios canales
+title: Creación de campañas multicanal
 description: Obtenga información sobre cómo crear una campaña de varios canales mediante correo electrónico, SMS y envíos de correo directo.
 feature: Flujos de trabajo
 topics: null
@@ -8,20 +8,22 @@ thumbnail: 24981.jpg
 doc-type: feature video
 activity: use
 team: TM
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 42%
+source-wordcount: '81'
+ht-degree: 40%
 
 ---
 
 
-# Crear campañas de varios canales
+# Creación de campañas multicanal
 
-En una campaña de varios canales, una sola comunicación de marketing utiliza múltiples canales para alcanzar una audiencia de destinatario más amplia basada en el canal de destinatario preferido.
+En una campaña multicanal, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia en función del canal de destinatario preferido.
 
-Los envíos de varios canales se diseñan y ejecutan en un único flujo de trabajo.
+Los envíos multicanal se diseñan y ejecutan en un solo flujo de trabajo.
 
 Obtenga información sobre cómo crear una campaña de varios canales mediante correo electrónico, SMS y envíos de correo directo.
 
@@ -29,5 +31,5 @@ Obtenga información sobre cómo crear una campaña de varios canales mediante c
 
 ## Recursos adicionales
 
-* [Introducción a las campañas de múltiples canales y canales](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+* [Introducción a campañas multicanal y multicanal](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
 
