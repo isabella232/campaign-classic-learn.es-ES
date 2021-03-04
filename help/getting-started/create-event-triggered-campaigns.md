@@ -1,23 +1,25 @@
 ---
-title: Crear campañas activadas por evento
-description: Aprenda a crear una campaña desencadenada por eventos y a comprender sus usos.
-feature: Workflows, Targeting Activity
+title: Creación de campañas activadas por eventos
+description: Aprenda a crear una campaña activada por eventos y comprenda sus usos.
+feature: Flujos de trabajo, actividad de segmentación
 kt: 5087
 thumbnail: 330920.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profesional empresarial
+level: Intermedio
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '32'
+source-wordcount: '38'
 ht-degree: 0%
 
 ---
 
 
-# Crear campañas activadas por evento
+# Creación de campañas activadas por eventos
 
-Aprenda a crear una campaña desencadenada por eventos y a comprender sus usos.
+Aprenda a crear una campaña activada por eventos y comprenda sus usos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330920?quality=12)
