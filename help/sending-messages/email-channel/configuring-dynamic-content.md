@@ -1,25 +1,27 @@
 ---
 title: Configuración del contenido dinámico
-description: Comprenda los distintos tipos de contenido dinámico y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a un envío.
-feature: Dynamic Content, Personalization, Email
+description: Comprenda los distintos tipos de contenido dinámico y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a una entrega.
+feature: Contenido dinámico, personalización, correo electrónico
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 2e7327289f8d05c5b247893085fc53f7897dedde
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
-ht-degree: 35%
+source-wordcount: '84'
+ht-degree: 32%
 
 ---
 
 
 # Configuración del contenido dinámico
 
-Comprenda los distintos tipos de contenido dinámico y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a un envío.
+Comprenda los distintos tipos de contenido dinámico y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a una entrega.
 
 >[!VIDEO](https://video.tv.adobe.com/v/329936?quality=12)
 
@@ -29,7 +31,7 @@ Documentación del producto:
 
 * [Contenido condicional](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
 
-Tutoriales de vídeo:
+Tutoriales en vídeo:
 
 * [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
 * [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
