@@ -1,24 +1,25 @@
 ---
-title: Cómo administrar las campañas de mercadotecnia
+title: Administración de campañas de marketing
 description: Comprender los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanales.
-feature: null
+feature: Campañas
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: user
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '40'
-ht-degree: 80%
+source-wordcount: '44'
+ht-degree: 75%
 
 ---
 
 
-# Administrar campañas de mercadotecnia
+# Administración de campañas de marketing
 
 Comprender los conceptos clave de [!UICONTROL Adobe Campaign] para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanales.
 
