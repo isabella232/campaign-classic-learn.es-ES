@@ -1,25 +1,27 @@
 ---
 title: Refinamiento de destinatarios combinando resultados de consultas
-description: Aprenda a perfeccionar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante la intersección o las actividades de unión.
-feature: Workflows
+description: Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante la intersección o las actividades de unión.
+feature: Flujos de trabajo, actividad de segmentación, editor de consultas
 topics: Targeting Activities
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '111'
-ht-degree: 45%
+source-wordcount: '119'
+ht-degree: 42%
 
 ---
 
 
 # Refinamiento de destinatarios combinando resultados de consultas
 
-Aprenda a perfeccionar su destinatario combinando resultados de consulta en un flujo de trabajo con las actividades **[!UICONTROL intersection]** o **[!UICONTROL union]**.
+Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo utilizando las actividades **[!UICONTROL intersection]** o **[!UICONTROL union]** .
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12)
 
@@ -27,7 +29,7 @@ Aprenda a perfeccionar su destinatario combinando resultados de consulta en un f
 
 Documentación:
 
-* [Acerca de los Flujos de trabajo](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Acerca de los flujos de trabajo](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
 * [Intersección](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [Unión](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
