@@ -1,25 +1,27 @@
 ---
-title: Cómo crear y diseñar envíos de correo electrónico
-description: Conozca el proceso de creación de un envío de correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.
-feature: Email, Email Design, Personalization
+title: Creación y diseño de envíos de correo electrónico
+description: Comprenda el proceso de creación de una entrega por correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.
+feature: Correo electrónico, diseño de correo electrónico, personalización
 topics: null
 kt: 6824
 thumbnail: 330941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: e83e6225cd7312c95dabe44f994f797a7b165226
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '62'
-ht-degree: 12%
+source-wordcount: '69'
+ht-degree: 11%
 
 ---
 
 
-# Crear y diseñar envíos de correo electrónico
+# Creación y diseño de envíos de correo electrónico
 
-Conozca el proceso de creación de un envío de correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.
+Comprenda el proceso de creación de una entrega por correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330941?quality=12)
 
