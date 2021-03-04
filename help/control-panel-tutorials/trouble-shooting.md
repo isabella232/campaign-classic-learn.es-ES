@@ -1,18 +1,20 @@
 ---
 title: Panel de control de Campaign de Solución de problemas
 description: El panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista de permitidos.
-feature: Control Panel
+feature: 'Panel de control de Campaign   '
 topics: Control Panel
 kt: 2938
 doc-type: article
 activity: use
 team: PM
+role: Administrador
+level: Con experiencia
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 translation-type: tm+mt
-source-git-commit: 2b8bb977bf8919ae9354cf24aa3bb1122be1cfb0
+source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: tm+mt
-source-wordcount: '339'
-ht-degree: 100%
+source-wordcount: '343'
+ht-degree: 99%
 
 ---
 
