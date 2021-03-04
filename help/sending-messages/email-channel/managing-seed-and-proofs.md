@@ -1,17 +1,19 @@
 ---
 title: Administración de fuentes y pruebas en un correo electrónico
-description: Conozca cómo agregar semillas y pruebas a un correo electrónico existente y cómo enviarlo.
-feature: Email
+description: Aprenda a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
+feature: Correo electrónico
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '77'
+source-wordcount: '81'
 ht-degree: 32%
 
 ---
@@ -19,7 +21,7 @@ ht-degree: 32%
 
 # Administración de fuentes y pruebas en un correo electrónico
 
-Conozca cómo agregar semillas y pruebas a un correo electrónico existente y cómo enviarlo.
+Aprenda a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
