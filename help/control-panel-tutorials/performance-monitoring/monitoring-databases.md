@@ -1,7 +1,7 @@
 ---
 title: Monitorización de las bases de datos
 description: Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.
-feature: Database Monitoring
+feature: 'Panel de control de Campaign   '
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,23 +9,25 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
+role: Administrador
+level: Con experiencia
 translation-type: tm+mt
-source-git-commit: 4f24a2b09209e4641186d3b4f2d9bbdc9e450a1b
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 18%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
 
 # Monitorización de las bases de datos
 
-Todos los recursos, flujos de trabajo y datos de la instancia de Campaña se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial supervisar las bases de datos de las instancias con regularidad para garantizar un rendimiento óptimo.
+Todos los recursos, flujos de trabajo y datos de la instancia de Campaign se almacenan en la base de datos. La base de datos que alcanza su capacidad máxima puede provocar problemas con su instancia (incapacidad para iniciar sesión, enviar correos electrónicos, etc.). Por lo tanto, es esencial monitorizar las bases de datos de las instancias regularmente para garantizar un rendimiento óptimo.
 
-Obtenga información sobre cómo supervisar el uso de la base de datos de las instancias con [!DNL Control Panel].
+Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias con [!DNL Control Panel].
 
 >[!VIDEO](https://video.tv.adobe.com/v/327175?quality=12)
 
 ## Recursos adicionales
 
-* [Supervisión de la base de datos (guía)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
+* [Supervisión de bases de datos (guía)](https://experienceleague.adobe.com/docs/control-panel/using/performance-monitoring/database-monitoring.html?lang=en#performance-monitoring)
