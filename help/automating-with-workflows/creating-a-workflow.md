@@ -1,17 +1,19 @@
 ---
 title: Creación de un flujo de trabajo
-description: En este vídeo se explica cómo crear un flujo de trabajo en Adobe Campaign Classic.
-feature: Workflow
+description: En este vídeo se explica cómo crear un flujo de trabajo.
+feature: Flujos de trabajo
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
 source-wordcount: '189'
-ht-degree: 74%
+ht-degree: 75%
 
 ---
 
