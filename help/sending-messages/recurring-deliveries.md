@@ -1,26 +1,28 @@
 ---
-title: Cómo configurar campañas de correo electrónico recurrentes y continuas
-description: Este tutorial explica cómo configurar un envío recurrente y continuo y las diferencias entre los dos enfoques en Adobe Campaign Classic (ACC).
-feature: workflows
+title: Configuración de campañas de correo electrónico recurrentes y continuas
+description: Aprenda a configurar un envío recurrente y continuo y comprenda las diferencias entre los dos enfoques.
+feature: Flujos de trabajo
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 262807b2185cf98a154479e97540c561f273ca18
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '272'
-ht-degree: 66%
+source-wordcount: '270'
+ht-degree: 67%
 
 ---
 
 
-# Cómo configurar campañas de correo electrónico recurrentes y continuas
+# Configuración de campañas de correo electrónico recurrentes y continuas
 
 Este tutorial explica cómo configurar un envío recurrente y continuo y las diferencias entre los dos enfoques.
 
-## Seguimiento recurrente y continuo de Envíos {#recurring-and-continuous-delivery-tracking}
+## Seguimiento de envío recurrente y continuo {#recurring-and-continuous-delivery-tracking}
 
 Los envíos recurrentes y continuos difieren en la forma en que se administran los datos de contacto:
 
