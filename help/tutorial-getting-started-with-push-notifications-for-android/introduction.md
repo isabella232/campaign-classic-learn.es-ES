@@ -1,17 +1,19 @@
 ---
 title: Introducción a las notificaciones push para Android, presentación
 description: Este tutorial le guiará por los pasos necesarios para enviar notificaciones push desde Adobe Campaign y recibir estas notificaciones en su aplicación de Android.
-feature: push
+feature: Push
 topics: mobile channels
 kt: 6438
 doc-type: article
 activity: setup
 team: TM
+role: Administrador, Desarrollador
+level: Con experiencia
 translation-type: tm+mt
-source-git-commit: 016f47e131df9c3a25b9131da372efaedf6cd5ad
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '365'
-ht-degree: 100%
+source-wordcount: '369'
+ht-degree: 98%
 
 ---
 
