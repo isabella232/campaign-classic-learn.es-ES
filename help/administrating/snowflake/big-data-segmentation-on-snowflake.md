@@ -1,32 +1,34 @@
 ---
-title: Gran gestión de datos para el Snowflake
-description: Este tutorial explica cómo aprovechar el conector del Snowflake en Adobe Campaign Classic
-feature: Snowflake
+title: Administración de datos en cantidad en Snowflake
+description: Aprenda a aprovechar el conector Snowflake en Adobe Campaign Classic
+feature: Acceso de datos federado
 topics: FDA
 kt: 4405
 doc-type: feature video
 activity: use
 team: PM
+role: Administrador, Desarrollador
+level: Avanzadas
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '107'
+source-wordcount: '111'
 ht-degree: 6%
 
 ---
 
 
-# Gran gestión de datos para el Snowflake
+# Administración de datos en cantidad en Snowflake
 
 Este tutorial explica cómo aprovechar el conector [!DNL Snowflake] en Adobe Campaign Classic.
 Aprenderá a
 
-* Conectar con el Snowflake
-* Creación de un esquema vinculado al Snowflake
-* Amplíe su esquema y prepare sus datos
-* Crear flujos de trabajo y consultas
-* Comprender lo que sucede en el Snowflake
-* Crear formularios y hacerlos accesibles para los especialistas en mercadotecnia
+* Conectarse a Snowflake
+* Crear un esquema vinculado a Snowflake
+* Ampliar el esquema y preparar los datos
+* Creación de flujos de trabajo y consultas
+* Comprender lo que sucede en Snowflake
+* Crear formularios y hacerlos accesibles para los especialistas en marketing
 * Buscar e informar sobre los datos
 * Cómo exportar datos en listas y crear filtros de objetivo en tiempo real
 
