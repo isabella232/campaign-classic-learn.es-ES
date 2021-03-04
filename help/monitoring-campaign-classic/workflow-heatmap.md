@@ -1,17 +1,19 @@
 ---
 title: Mapa térmico del flujo de trabajo
-description: El mapa de calor del flujo de trabajo de Adobe Campaign consiste en una representación gráfica con códigos de color de todos los flujos de trabajo que se están ejecutando actualmente.  Al proporcionar información general rápida sobre la cantidad de flujos de trabajo simultáneos, permite a los administradores de la plataforma Adobe Campaign monitorizar la carga en la instancia y planificar los flujos de trabajo en consecuencia.
-feature: Workflow Heatmap
+description: Obtenga información sobre cómo monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
+feature: Mapa de calor
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video
 activity: understand
 team: PM
+role: Administrador
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '203'
-ht-degree: 100%
+source-wordcount: '171'
+ht-degree: 90%
 
 ---
 
