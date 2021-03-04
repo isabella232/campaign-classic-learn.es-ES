@@ -1,26 +1,28 @@
 ---
 title: Administración de la fatiga comercial con reglas de presión
-description: La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtrará la población de destinatarios por el número de mensajes recibidos.   Este vídeo explica cómo implementar la gestión de fatiga en Adobe Campaign Classic mediante el uso de filtros.
-feature: Fatigue Management
+description: Obtenga información sobre cómo implementar la administración de la fatiga en Adobe Campaign Classic mediante filtros.
+feature: Administración de fatiga
 topics: null
 kt: 2148
 doc-type: feature video
 activity: use
 team: TM
+role: Profesional empresarial, Desarrollador, Administrador
+level: Avanzadas
 translation-type: tm+mt
-source-git-commit: 838c617ca163a09fcb57b7b4706433e98869bc3d
+source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 25%
+source-wordcount: '108'
+ht-degree: 24%
 
 ---
 
 
-# Configuración de la gestión de la fatiga utilizando filtros predefinidos
+# Configuración de la gestión de la fatiga mediante filtros predefinidos
 
-La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtrará la población de destinatarios por el número de mensajes recibidos.
+La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtre la población objetivo por el número de mensajes recibidos.
 
-Este vídeo explica cómo implementar la gestión de fatiga en Adobe Campaign Classic mediante el uso de filtros.
+En este vídeo se explica cómo implementar la administración de la fatiga en Adobe Campaign Classic mediante filtros.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25091?quality=12)
 
