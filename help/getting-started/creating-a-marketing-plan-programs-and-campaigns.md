@@ -1,24 +1,25 @@
 ---
-title: Cómo crear un plan de marketing, programas y campañas
+title: Cómo crear un plan, programas y campañas de marketing
 description: Comprender los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanales.
-feature: marketing plan
+feature: Campañas
 topics: Getting started
 kt: 5347
 thumbnail: 35132.jpg
 doc-type: feature video
 activity: understand
 team: WWFRE
-role: user
+role: Profesional empresarial
+level: Principiante
 translation-type: tm+mt
-source-git-commit: 89eb3365c5e72b6285df7b8ed2a0d8bc61884b49
+source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 76%
+source-wordcount: '71'
+ht-degree: 73%
 
 ---
 
 
-# Creación de planes de marketing, programas y campañas
+# Creación de planes, programas y campañas de marketing
 
 Obtenga información sobre cómo crear un plan, un programa y una campaña de marketing, definir propiedades para una campaña y comprender cómo usar la programación.
 El vídeo le guía a través de un ejercicio que puede seguir.
