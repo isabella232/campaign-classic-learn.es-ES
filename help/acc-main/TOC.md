@@ -11,11 +11,11 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '394'
-ht-degree: 80%
+ht-degree: 100%
 
 ---
 
@@ -27,11 +27,11 @@ ht-degree: 80%
    + [Introducción a Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
-   + [Administrar Campañas de mercadotecnia](/help/getting-started/managing-marketing-campaigns.md)
+   + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de planes de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Perfiles de destinatario en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
-   + [Crear campañas activadas por evento](/help/getting-started/create-event-triggered-campaigns.md)
+   + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Creación de campañas activadas por eventos](/help/getting-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
    + [Importación de perfiles](/help/data-management/importing-profiles.md)
@@ -39,10 +39,10 @@ ht-degree: 80%
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
-      + [Crear y diseñar envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Administrar fuentes y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [Creación y diseño de envíos de correos electrónicos](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Administración de semillas y fuentes en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
-      + [Usar grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
+      + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
       + [Configuración del contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
@@ -50,9 +50,9 @@ ht-degree: 80%
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Diseñar correos electrónicos para la entrega](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Guía de prácticas recomendadas de la capacidad de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
-   + CANAL SMS {#sms-channel}
+      + [Diseño de correos electrónicos para envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
+   + Canal de SMS {#sms-channel}
       + [Creación de un envío de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -70,9 +70,9 @@ ht-degree: 80%
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
    + [Ejecución de una campaña](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Introducción a las campañas de múltiples canales y canales](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
-   + [Crear campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Crear campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+   + [Introducción a campañas multicanal y entre canales](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Creación de campañas multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
+   + [Creación de campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)
 + Creación de informes {#reporting}
    + [Acceso a los informes integrados](/help/reporting/accessing-built-in-reports.md)
    + [Generación de un informe de análisis descriptivo](/help/reporting/generating-a-descriptive-analysis-report.md)
