@@ -5,13 +5,13 @@ product: Campaign
 sub-product: Campaign Classic
 feature: Información general
 topic: null
-role: Profesional empresarial, administrador, desarrollador
+role: Profesional empresarial, Administrador, Desarrollador
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '257'
-ht-degree: 68%
+ht-degree: 100%
 
 ---
 
@@ -24,23 +24,23 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para 
 
 * **[Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
-   *Obtenga información sobre cómo crear y ejecutar una campaña en canales múltiples.*
+   *Aprenda a crear y ejecutar una campaña en canales múltiples.*
 
-* **[Usar grupos de control](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)**
 
-   *Comprenda el concepto de grupos de control y aprenda a utilizar un grupo de control para su envío.*
+   *Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para su envío.*
 
 * **[Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
 
-   *Obtenga información sobre cómo enviar y validar una prueba.*
+   *Aprenda a enviar y validar una prueba.*
 
 * **[Diseño de correos electrónicos para envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)**
 
    *Aprenda a aplicar las prácticas recomendadas de envío.*
 
-* **[Creación y diseño de envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
+* **[Creación y diseño de envíos de correos electrónicos](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)**
 
-   *Comprenda el proceso de creación de una entrega por correo electrónico y aprenda a diseñar y personalizar el contenido del correo electrónico.*
+   *Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.*
 
 
 ## Nuestra selección
