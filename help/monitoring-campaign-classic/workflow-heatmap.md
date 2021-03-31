@@ -1,6 +1,6 @@
 ---
 title: Mapa térmico del flujo de trabajo
-description: Obtenga información sobre cómo monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
+description: Aprenda a monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
 feature: Mapa de calor
 topics: Monitoring and Guardrails
 kt: 2093
@@ -9,11 +9,11 @@ activity: understand
 team: PM
 role: Administrador
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '171'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
