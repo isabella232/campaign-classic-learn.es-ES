@@ -1,6 +1,6 @@
 ---
-title: Cómo dirigirse a perfiles en un flujo de trabajo
-description: Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
+title: Cómo segmentar destinatarios en un flujo de trabajo
+description: Comprenda el uso de flujos de trabajo de campañas, y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
 feature: Flujos de trabajo
 topics: Targeting Activities
 kt: 5080
@@ -10,16 +10,16 @@ activity: use
 team: WWFRE
 role: Profesional empresarial
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '135'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 
-# Segmentación de perfiles en un flujo de trabajo
+# Segmentación de destinatarios en un flujo de trabajo
 
 Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
 
