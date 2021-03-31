@@ -1,6 +1,6 @@
 ---
 title: Exploración de la interfaz de usuario de Adobe Campaign Classic
-description: Comprenda la interfaz de usuario principal de Adobe Campaign Classic y le muestre cómo navegar por la funcionalidad principal.
+description: Conozca la interfaz de usuario principal de Adobe Campaign Classic y aprenda a desplazarse por las funcionalidades principales.
 feature: Información general
 topics: Getting started
 kt: 5009
@@ -10,11 +10,11 @@ activity: understand
 team: WWFRE
 role: Profesional empresarial
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '69'
-ht-degree: 71%
+ht-degree: 100%
 
 ---
 
