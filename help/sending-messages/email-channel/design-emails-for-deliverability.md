@@ -1,7 +1,7 @@
 ---
-title: ¿Cómo puedo garantizar la capacidad de envío al diseñar correos electrónicos?
+title: ¿Cómo puedo garantizar el envío al diseñar correos electrónicos?
 description: Aprenda a aplicar las prácticas recomendadas de envío.
-feature: Correo electrónico, capacidad de entrega
+feature: Correo electrónico, Envío
 topics: null
 kt: 5095
 thumbnail: 330943.jpg
@@ -10,16 +10,16 @@ activity: understand
 team: WWFRE
 role: Profesional empresarial
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '46'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Diseño de correos electrónicos para envío
+# Diseño de correos electrónicos para su envío
 
 Aprenda a aplicar las prácticas recomendadas de envío a su campaña.
 
@@ -27,4 +27,4 @@ Aprenda a aplicar las prácticas recomendadas de envío a su campaña.
 
 ## Recursos adicionales
 
-[Guía de prácticas recomendadas sobre la capacidad de entrega](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html)
+[Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
