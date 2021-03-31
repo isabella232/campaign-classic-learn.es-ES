@@ -1,6 +1,6 @@
 ---
-title: Administración de fuentes y pruebas en un correo electrónico
-description: Aprenda a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
+title: Administración de semillas y pruebas en un correo electrónico
+description: En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
 feature: Correo electrónico
 topics: null
 kt: 2178
@@ -10,22 +10,22 @@ activity: use
 team: DOC
 role: Profesional empresarial
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '81'
-ht-degree: 32%
+ht-degree: 100%
 
 ---
 
 
-# Administración de fuentes y pruebas en un correo electrónico
+# Administración de semillas y pruebas en un correo electrónico
 
-Aprenda a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
+En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25606?quality=12)
 
 ## Recursos adicionales
 
-- [Envío de una prueba](https://docs.adobe.com/content/help/en/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
-- [Direcciones semilla](https://docs.adobe.com/content/help/en/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
+- [Envío de una prueba](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/transactional-messaging/message-templates/sending-a-proof.html)
+- [Direcciones semilla](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/configuring-campaign-classic/use-a-custom-recipient-table/seed-addresses.html)
