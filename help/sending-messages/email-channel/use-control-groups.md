@@ -1,6 +1,6 @@
 ---
-title: Cómo usar grupos de control
-description: Comprenda el concepto de grupos de control y aprenda a utilizar un grupo de control para su envío.
+title: Uso de grupos de control
+description: Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para aplicarlo a su envío.
 feature: Grupos de control
 kt: 5085
 thumbnail: 330955.jpg
@@ -9,17 +9,17 @@ activity: use
 team: WWFRE
 role: Profesional empresarial
 level: Principiante
-translation-type: tm+mt
+translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '47'
-ht-degree: 4%
+ht-degree: 100%
 
 ---
 
 
-# Usar grupos de control
+# Uso de grupos de control
 
-Comprenda el concepto de grupos de control y aprenda a utilizar un grupo de control para su envío.
+Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para aplicarlo a su envío.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12)
