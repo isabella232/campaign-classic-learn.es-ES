@@ -12,12 +12,12 @@ getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
 index: true
 feature: 'Panel de control de Campaign   '
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 translation-type: ht
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
 workflow-type: ht
-source-wordcount: '161'
+source-wordcount: '159'
 ht-degree: 100%
 
 ---
