@@ -3,12 +3,11 @@ title: 'Tutoriales de Adobe Campaign Classic: Información general'
 description: Adobe Campaign ofrece una plataforma para diseñar experiencias multicanal para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución multicanal. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Información general
-topic: null
 role: Business Practitioner, Administrator, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 translation-type: tm+mt
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
 workflow-type: tm+mt
 source-wordcount: '252'
 ht-degree: 100%
