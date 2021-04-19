@@ -8,16 +8,16 @@ thumbnail: 25604.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Profesional empresarial
-level: Principiante
-translation-type: ht
-source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
-workflow-type: ht
-source-wordcount: '54'
+role: Business Practitioner
+level: Beginner
+exl-id: 89765be2-366d-45f8-8e1c-a192ecbb2694
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
+source-wordcount: '51'
 ht-degree: 100%
 
 ---
-
 
 # Creación de un correo electrónico a partir de una campaña
 
