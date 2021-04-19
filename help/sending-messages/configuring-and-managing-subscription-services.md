@@ -8,16 +8,16 @@ thumbnail: 329941.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial, Administrador, Desarrollador
-level: Avanzado
-translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: ht
-source-wordcount: '52'
+role: Business Practitioner, Administrator, Developer
+level: Experienced
+exl-id: 99b8acff-0105-4764-82ec-7c2dfe75f0f9
+translation-type: tm+mt
+source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+workflow-type: tm+mt
+source-wordcount: '47'
 ht-degree: 100%
 
 ---
-
 
 # Configuración y administración de servicios de suscripción
 
@@ -28,4 +28,3 @@ Aprenda a configurar y administrar suscripciones y a segmentar suscriptores.
 ## Recursos adicionales
 
 * [Acerca de los servicios y las suscripciones (documentación del producto)](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/subscriptions-and-referrals/about-services-and-subscriptions.html?lang=es)
-
