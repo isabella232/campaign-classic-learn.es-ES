@@ -1,7 +1,7 @@
 ---
 title: Configuración y administración de servicios de suscripción
 description: Aprenda a configurar y administrar suscripciones y a segmentar suscriptores.
-feature: 'Suscripciones     '
+feature: Subscriptions     
 topics: null
 kt: 5088
 thumbnail: 329941.jpg

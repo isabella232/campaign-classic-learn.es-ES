@@ -1,14 +1,14 @@
 ---
 title: Configuración de campañas de correo electrónico recurrentes y continuas
 description: Aprenda a configurar un envío recurrente y continuo y comprenda las diferencias entre los dos enfoques.
-feature: Flujos de trabajo
+feature: Workflows
 topics: channel activities
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

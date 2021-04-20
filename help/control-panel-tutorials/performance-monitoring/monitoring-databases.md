@@ -1,7 +1,7 @@
 ---
 title: Monitorización de las bases de datos
 description: Obtenga información sobre cómo monitorizar el uso de la base de datos de sus instancias.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 6434
 thumbnail: 327175.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: TM
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

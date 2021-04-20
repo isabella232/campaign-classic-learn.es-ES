@@ -1,7 +1,7 @@
 ---
 title: Definición del contenido de correo electrónico interactivo con AMP
 description: Aprenda a configurar el contenido del correo electrónico en formato AMP.
-feature: Correo electrónico, Diseño de correo electrónico
+feature: Email, Email Design
 topics: Create and Send Email Deliveries
 kt: 3475
 thumbnail: 29940.jpg

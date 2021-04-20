@@ -4,7 +4,7 @@ user-guide-description: Aprenda a monitorizar los activos clave de las instancia
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Panel de control de Campaign
+feature: Control Panel
 role: Administrator
 level: Experienced
 translation-type: tm+mt

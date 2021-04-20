@@ -1,7 +1,7 @@
 ---
 title: 'Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional'
 description: Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsletter en varios idiomas.
-feature: Contenido dinámico
+feature: Dynamic Content
 topics: Email Channel
 kt: 5922
 thumbnail: 24926.jpg

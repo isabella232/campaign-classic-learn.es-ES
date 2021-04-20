@@ -1,15 +1,15 @@
 ---
 title: Ejecución de una campaña
 description: Obtenga información sobre cómo ejecutar una campaña, revisar una entrega por correo electrónico y las propiedades de entrega.
-feature: Campañas, Correo electrónico
+feature: Campaigns, Email
 topics: null
 kt: 5092
 thumbnail: 329647.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

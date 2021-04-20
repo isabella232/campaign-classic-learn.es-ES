@@ -1,7 +1,7 @@
 ---
 title: ¿Cómo puedo garantizar el envío al diseñar correos electrónicos?
 description: Aprenda a aplicar las prácticas recomendadas de envío.
-feature: Correo electrónico, Envío
+feature: Email, Deliverability
 topics: null
 kt: 5095
 thumbnail: 330943.jpg

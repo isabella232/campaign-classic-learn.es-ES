@@ -1,15 +1,15 @@
 ---
 title: Configuración del contenido dinámico
 description: Descubra los distintos tipos de contenido dinámico, y aprenda a crear y aplicar bloques de personalización y afirmaciones condicionales a un envío.
-feature: Contenido dinámico, Personalización, Correo electrónico
+feature: Dynamic Content, Personalization, Email
 topics: null
 kt: 6824
 thumbnail: 329936.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

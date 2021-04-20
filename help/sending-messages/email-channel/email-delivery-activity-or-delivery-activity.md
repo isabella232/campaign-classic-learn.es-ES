@@ -1,7 +1,7 @@
 ---
 title: Actividad de envíos de correos electrónicos y actividad de envíos en Adobe Campaign Classic
 description: En este vídeo se explica cómo configurar y utilizar una plantilla de envíos.
-feature: Plantillas de envíos
+feature: Delivery Templates
 topics: Templates
 kt: 3232
 doc-type: feature video

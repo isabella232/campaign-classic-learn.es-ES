@@ -1,15 +1,15 @@
 ---
 title: Administración de aprobaciones en una campaña
 description: Obtenga información sobre cómo configurar aprobaciones y una campaña y cómo diferenciar entre aprobaciones de envío y de flujo de trabajo.
-feature: Flujos de trabajo, aprobaciones
+feature: Workflows, Approvals
 topics: null
 kt: 5093
 thumbnail: 329605.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

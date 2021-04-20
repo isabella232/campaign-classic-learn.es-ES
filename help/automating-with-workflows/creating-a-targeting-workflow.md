@@ -1,14 +1,14 @@
 ---
 title: Creación de un flujo de trabajo de objetivos
 description: Obtenga información sobre cómo definir varios objetivos de envío mediante flujos de trabajo de objetivo.
-feature: Flujos de trabajo, actividad de segmentación, editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 2174
 doc-type: feature video
 activity: use
 team: DOC
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

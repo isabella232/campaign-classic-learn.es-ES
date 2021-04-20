@@ -1,7 +1,7 @@
 ---
 title: Envío y validación de una prueba
 description: Aprenda a enviar y validar una prueba.
-feature: Correo electrónico, Pruebas
+feature: Email, Proofs
 kt: 5094
 thumbnail: 330945.jpg
 doc-type: feature video

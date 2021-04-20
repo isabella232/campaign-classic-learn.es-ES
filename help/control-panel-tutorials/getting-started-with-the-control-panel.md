@@ -1,14 +1,14 @@
 ---
 title: Introducción al Panel de control
 description: Obtenga información sobre cómo acceder al Panel de control de Campaign y cuáles son los requisitos previos para poder trabajar con el panel de control de Campaign.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 kt: 6388
 thumbnail: kt-6385.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: 2232079c569a46325807befd04ea91d2a64e1597
 workflow-type: tm+mt

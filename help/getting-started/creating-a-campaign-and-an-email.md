@@ -1,7 +1,7 @@
 ---
 title: Creación de un correo electrónico a partir de una campaña
 description: Descubra cómo crear un envío de correo electrónico directamente desde una campaña.
-feature: Correo electrónico
+feature: Email
 topics: null
 kt: 2172
 thumbnail: 25604.jpg

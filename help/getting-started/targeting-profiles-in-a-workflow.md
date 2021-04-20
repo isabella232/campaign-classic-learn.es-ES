@@ -1,15 +1,15 @@
 ---
 title: Cómo segmentar destinatarios en un flujo de trabajo
 description: Comprenda el uso de flujos de trabajo de campañas, y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
-feature: Flujos de trabajo
+feature: Workflows
 topics: Targeting Activities
 kt: 5080
 thumbnail: 35614.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

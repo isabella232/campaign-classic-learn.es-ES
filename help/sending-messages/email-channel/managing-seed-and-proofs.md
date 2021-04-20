@@ -1,15 +1,15 @@
 ---
 title: Administración de semillas y pruebas en un correo electrónico
 description: En este vídeo aprenderá a añadir semillas y pruebas a un correo electrónico existente y a enviarlo.
-feature: Correo electrónico
+feature: Email
 topics: null
 kt: 2178
 thumbnail: 25606.jpg
 doc-type: feature video
 activity: use
 team: DOC
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

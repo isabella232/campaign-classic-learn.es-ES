@@ -3,15 +3,15 @@ title: Adición de direcciones IP a listas de permitidos
 seo-title: Adición de direcciones IP a listas de permitidos
 description: Obtenga información sobre cómo añadir un rango de IP a las listas de permitidos de las instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
 seo-description: El siguiente vídeo explica cómo configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 topics: null
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

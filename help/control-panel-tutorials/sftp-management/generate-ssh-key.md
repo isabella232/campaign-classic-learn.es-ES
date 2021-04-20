@@ -1,15 +1,15 @@
 ---
 title: Generación de una clave SSH
 description: Obtenga información sobre cómo generar una clave SSH mediante un terminal y cómo almacenar la versión pública de la clave en el Panel de control de Campaign.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 6348
 thumbnail: 27259.jpg
 doc-type: feature video
 activity: use
 team: PM
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/generate-ssh-key.html
 translation-type: tm+mt
 source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100

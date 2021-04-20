@@ -1,7 +1,7 @@
 ---
 title: Personalización de correos electrónicos con campos de personalización
 description: Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
-feature: Contenido dinámico
+feature: Dynamic Content
 topics: Email Channel
 kt: 5921
 thumbnail: 24925.jpg

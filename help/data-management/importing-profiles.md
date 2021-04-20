@@ -1,7 +1,7 @@
 ---
 title: Forma de importar los perfiles
 description: Obtenga información sobre cómo importar perfiles en Adobe Campaign Classic
-feature: Perfiles
+feature: Profiles
 topics: Data Import and Export
 kt: 2176
 doc-type: feature video

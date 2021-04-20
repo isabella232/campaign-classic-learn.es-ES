@@ -1,7 +1,7 @@
 ---
 title: Creación de campañas multicanal
 description: Aprenda a crear una campaña de canal a canal.
-feature: Flujos de trabajo
+feature: Workflows
 kt: 7018
 thumbnail: 330990.jpg
 doc-type: feature video

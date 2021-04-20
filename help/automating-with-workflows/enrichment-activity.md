@@ -5,7 +5,7 @@ description: Aprenda a configurar una actividad de enriquecimiento basada en la 
 seo-description: Una actividad de enriquecimiento es un objeto de flujo de trabajo que permite al usuario agregar datos a la tabla de trabajo. Con un enriquecimiento, puede añadir columnas a esa tabla para incluir datos adicionales O definir nuevos vínculos de esa tabla de trabajo a otros datos existentes.   En este vídeo se explica cómo configurar una actividad de enriquecimiento basada en la información del registro de entregas.
 uuid: 544128b9-9912-4ba7-8910-ad11a26a73ff
 discoiquuid: ff2a1e2f-9df1-4ad0-bdff-5a257df5ff66
-feature: Flujos de trabajo, actividad de enriquecimiento
+feature: Workflows, Enrichment Activity
 topics: Targeting Activities
 kt: KT-1561
 doc-type: feature video

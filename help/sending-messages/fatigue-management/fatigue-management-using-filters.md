@@ -1,7 +1,7 @@
 ---
 title: Administración de la fatiga comercial con reglas de presión
 description: Aprenda a implementar la administración de la fatiga en Adobe Campaign Classic mediante filtros.
-feature: Administración de fatiga
+feature: Fatigue Management
 topics: null
 kt: 2148
 doc-type: feature video

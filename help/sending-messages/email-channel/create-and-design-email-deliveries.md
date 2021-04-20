@@ -1,7 +1,7 @@
 ---
 title: Creación y diseño de envíos de correos electrónicos
 description: Comprenda el proceso de creación de un envío de correo electrónico, y aprenda a diseñar y personalizar el contenido del correo electrónico.
-feature: Correo electrónico, Diseño de correo electrónico, Personalización
+feature: Email, Email Design, Personalization
 topics: null
 kt: 6824
 thumbnail: 330941.jpg

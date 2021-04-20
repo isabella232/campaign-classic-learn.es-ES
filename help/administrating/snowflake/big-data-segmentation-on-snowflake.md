@@ -1,7 +1,7 @@
 ---
 title: Administración de big data en Snowflake
 description: Aprenda a aprovechar el conector Snowflake en Adobe Campaign Classic
-feature: Acceso de datos federado
+feature: Federated Data Access
 topics: FDA
 kt: 4405
 doc-type: feature video

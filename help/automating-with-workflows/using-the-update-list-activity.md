@@ -1,15 +1,15 @@
 ---
 title: Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo
 description: Aprenda a refinar el destinatario aplicando una exclusión estándar a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
-feature: Flujos de trabajo, actividad de segmentación, editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 topics: Targeting Activities
 kt: 5078
 thumbnail: 35620.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

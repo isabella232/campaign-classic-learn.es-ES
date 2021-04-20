@@ -5,7 +5,7 @@ description: Obtenga información sobre cómo configurar diferentes flujos de tr
 seo-description: En este vídeo se explica cómo configurar y utilizar una plantilla de envío en ACCAdobe Campaign ofrece varias opciones para que los especialistas en marketing revisen y proporcionen contenido de envío, objetivo de campaña, extracción de datos y aprobaciones de presupuesto. Este tutorial explica cómo configurar diferentes flujos de trabajo de validación de aprobación.
 uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
 discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
-feature: Flujos de trabajo, aprobaciones
+feature: Workflows, Approvals
 topics: Validation
 kt: KT-1566
 doc-type: feature video

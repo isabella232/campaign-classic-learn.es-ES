@@ -1,15 +1,15 @@
 ---
 title: Administración de campañas de marketing
 description: Conozca los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanal.
-feature: Campañas
+feature: Campaigns
 topics: Getting started
 kt: 5077
 thumbnail: 35131.jpg
 doc-type: presentation
 activity: understand
 team: WWFRE
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: ht
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: ht

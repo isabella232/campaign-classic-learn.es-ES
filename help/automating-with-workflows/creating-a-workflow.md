@@ -1,14 +1,14 @@
 ---
 title: Creación de un flujo de trabajo
 description: En este vídeo se explica cómo crear un flujo de trabajo.
-feature: Flujos de trabajo
+feature: Workflows
 topics: null
 kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
-role: Profesional empresarial
-level: Principiante
+role: Business Practitioner
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

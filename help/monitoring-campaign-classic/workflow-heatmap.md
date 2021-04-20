@@ -1,7 +1,7 @@
 ---
 title: Mapa térmico del flujo de trabajo
 description: Aprenda a monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
-feature: Mapa de calor
+feature: Heatmap
 topics: Monitoring and Guardrails
 kt: 2093
 doc-type: feature video

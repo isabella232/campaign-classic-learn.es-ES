@@ -1,7 +1,7 @@
 ---
 title: Creación de envíos de correos directos
 description: Aprenda a crear, formatear y ejecutar un envío de correo postal.
-feature: Correo postal
+feature: Direct Mail
 topics: null
 kt: 3859
 thumbnail: 21377.jpg

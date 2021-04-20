@@ -1,7 +1,7 @@
 ---
 title: Uso de grupos de control
 description: Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para aplicarlo a su envío.
-feature: Grupos de control
+feature: Control Groups
 kt: 5085
 thumbnail: 330955.jpg
 doc-type: feature video

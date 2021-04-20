@@ -1,7 +1,7 @@
 ---
 title: Cómo utilizar la pista de auditoría
 description: 'La pista de auditoría captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign. '
-feature: Pista de auditoría
+feature: Audit Trail
 topics: Monitoring and Guardrails
 kt: 2835
 doc-type: feature video

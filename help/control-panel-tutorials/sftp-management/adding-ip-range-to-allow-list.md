@@ -1,7 +1,7 @@
 ---
 title: 'Añadir un intervalo IP a la lista de permitidos '
 description: Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 topics: Control Panel
 kt: 6430
 thumbnail: 41775.jpg
@@ -9,8 +9,8 @@ doc-type: feature video
 audience: administrator
 activity: use
 team: PM
-role: Administrador
-level: Con experiencia
+role: Administrator
+level: Experienced
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt

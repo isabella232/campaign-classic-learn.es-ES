@@ -1,15 +1,15 @@
 ---
 title: Configuración de páginas de aterrizaje en Adobe Campaign Classic
 description: Aprenda a desplazarse por el editor de aplicaciones web creando un centro de preferencias.
-feature: Páginas de aterrizaje
+feature: Landing Pages
 topics: Configure
 kt: 1562
 thumbnail: 25041.jpg
 doc-type: feature video
 activity: setup
 team: DOC
-role: Desarrollador, administrador
-level: Principiante
+role: Developer, Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
 workflow-type: tm+mt

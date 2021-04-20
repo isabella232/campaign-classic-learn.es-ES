@@ -1,15 +1,15 @@
 ---
 title: Configuración de las propiedades de la plantilla de envíos en Adobe Campaign Classic
 description: Obtenga información sobre cómo configurar las propiedades de la plantilla de envío.
-feature: Plantillas de envío
+feature: Delivery Templates
 topics: Templates
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrador
-level: Principiante
+role: Administrator
+level: Beginner
 translation-type: tm+mt
 source-git-commit: a16eb6d92ca40a1188e1ba6730bc28c2fb8358ce
 workflow-type: tm+mt
