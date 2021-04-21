@@ -2,8 +2,7 @@
 title: Creación y administración de perfiles
 description: Obtenga información sobre cómo acceder a los datos de perfiles, ordenar y filtrar perfiles, y crear y administrar manualmente perfiles. Comprenda el cumplimiento del Reglamento general de protección de datos (RGPD) y la Ley de privacidad del consumidor de California (CCPA).
 landing-page-description: Comprenda el concepto de perfiles. Obtenga información sobre cómo acceder a los datos de perfiles, ordenar y filtrar perfiles, y crear y administrar manualmente perfiles. Obtenga información sobre el RGPD y la CCPA.
-feature: Profiles
-topics: null
+feature: Perfiles
 kt: 5081
 thumbnail: 35611.jpg
 doc-type: feature video
@@ -13,7 +12,7 @@ role: Business Practitioner
 level: Beginner
 exl-id: f5694e76-4694-45f3-b4c1-3478f7543b3f
 translation-type: tm+mt
-source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '152'
 ht-degree: 86%
