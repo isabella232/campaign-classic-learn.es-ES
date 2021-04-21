@@ -1,8 +1,7 @@
 ---
 title: Instalación y configuración de un cliente de Adobe Campaign
 description: Aprenda a descargar e instalar la consola del cliente de Adobe Campaign, crear y administrar las conexiones a varios entornos, y comprobar el acceso a la consola del cliente de Adobe Campaign.
-feature: Client Console
-topics: Getting started
+feature: Consola del cliente
 kt: 5003
 thumbnail: 35124.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: DOC
 role: Business Practitioner, Administrator, Developer
 level: Beginner
-translation-type: ht
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
-workflow-type: ht
-source-wordcount: '113'
+exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
+translation-type: tm+mt
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+workflow-type: tm+mt
+source-wordcount: '108'
 ht-degree: 100%
 
 ---
-
 
 # Instalación y configuración de un cliente de Adobe Campaign
 
