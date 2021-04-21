@@ -2,7 +2,6 @@
 title: Configuración de un servicio de Android y creación de una aplicación móvil de Android en Campaign
 description: Obtenga información sobre cómo configurar un Android Services y crear una aplicación móvil de Android en Campaign. Esto es necesario para que definamos la aplicación Neotrip como el destinatario de la notificación push.
 feature: Push
-topics: mobile channels
 kt: 6554
 thumbnail: 327788.jpg
 doc-type: feature video
@@ -10,14 +9,14 @@ activity: setup
 team: TM
 role: Administrator, Developer
 level: Experienced
+exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '143'
-ht-degree: 1%
+source-wordcount: '140'
+ht-degree: 2%
 
 ---
-
 
 # Configuración de un servicio [!DNL Android] y creación de una aplicación móvil [!DNL Android] en Campaign
 
