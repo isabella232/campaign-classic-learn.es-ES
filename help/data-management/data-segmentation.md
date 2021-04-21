@@ -1,28 +1,27 @@
 ---
 title: Segmentación de datos en Adobe Campaign Classic
 description: 'Comprenda el perfil de cliente integrado, cómo crear y actualizar los perfiles y cómo crear segmentos de clientes basados en estos perfiles. '
-feature: Profiles, Data Management Activity
-topics: Data Management
+feature: Perfiles, actividad de gestión de datos
 kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
 role: Business Practitioner
 level: Beginner
+exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
 translation-type: tm+mt
-source-git-commit: 8f06f533afc34b4bcf7fcc690c1b9ab5cafcef4a
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '310'
+source-wordcount: '307'
 ht-degree: 4%
 
 ---
 
-
 # Segmentación de datos
 
-Adobe Campaign le permite realizar segmentación avanzada mediante consultas profundas de los atributos comunes del consumidor y otras fuentes de datos, lo que le permite crear listas reutilizables, actualizar dinámicamente listas basadas en cambios en los datos en tiempo real e incluso realizar actividades más complejas, como pruebas multivariable en cualquiera de esos puntos de datos. Este tutorial explica el perfil de cliente integrado, cómo crear y actualizar los perfiles y cómo crear segmentos de clientes basados en estos perfiles.
+Adobe Campaign le permite realizar segmentación avanzada mediante consultas profundas de los atributos comunes del consumidor y otras fuentes de datos, lo que le permite crear listas reutilizables, actualizar dinámicamente listas basadas en cambios en los datos en tiempo real e incluso realizar actividades más complejas, como pruebas multivariables en cualquiera de esos puntos de datos. Este tutorial explica el perfil de cliente integrado, cómo crear y actualizar los perfiles y cómo crear segmentos de clientes basados en estos perfiles.
 
-## Perfil de cliente {#integrated-customer-profile} integrado
+## Integrated Customer Profile {#integrated-customer-profile}
 
 Los clientes generan datos con cada canal al alcance de la mano, ya que hacen todas las cosas que la gente hace al intentar tomar una decisión de compra o simplemente interactuar con su marca.
 
@@ -45,4 +44,4 @@ Tenga en cuenta: Este vídeo se grabó en Adobe Campaign Classic V6, la funciona
 ## Recursos adicionales {#additional-resources}
 
 * [Datos de objetivo](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/general-operation/targeting-data.html)
-* [Prácticas recomendadas del flujo de trabajo](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
+* [Prácticas recomendadas del flujo de trabajo](https://docs.adobe.com/content/help/es/campaign-classic/using/automating-with-workflows/general-operation/workflow-best-practices.html)
