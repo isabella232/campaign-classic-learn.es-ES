@@ -1,10 +1,9 @@
 ---
 title: Adición de direcciones IP a listas de permitidos
 seo-title: Adición de direcciones IP a listas de permitidos
-description: Obtenga información sobre cómo añadir un rango de IP a las listas de permitidos de las instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
+description: Obtenga información sobre cómo añadir un rango IP a las listas de permitidos de las instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
 seo-description: El siguiente vídeo explica cómo configurar nuevas conexiones a las instancias mediante la inclusión de intervalos de direcciones IP.
-feature: Control Panel
-topics: null
+feature: Panel de control de Campaign
 kt: 3479
 thumbnail: 28726.jpg
 doc-type: feature video
@@ -13,14 +12,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-whitelisting.html,https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/ip-allow-listing.html
+exl-id: 9c68543d-af10-4836-951f-7eef5a3515a8
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '221'
-ht-degree: 72%
+source-wordcount: '219'
+ht-degree: 73%
 
 ---
-
 
 # Adición de direcciones IP a listas de permitidos
 
@@ -39,7 +38,7 @@ o
 
 ## Añada un rango IP a la lista de permitidos de su instancia
 
-Obtenga información sobre cómo añadir un rango de IP a las listas de permitidos de las instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
+Obtenga información sobre cómo añadir un rango IP a las listas de permitidos de las instancias de Campaign Classic y cómo eliminarlas de la lista de permitidos mediante el panel de control de Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/28726?quality=12)
 
