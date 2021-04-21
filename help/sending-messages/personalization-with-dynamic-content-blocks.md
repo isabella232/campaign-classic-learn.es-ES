@@ -1,14 +1,13 @@
 ---
 title: Cómo personalizar correos electrónicos con bloques de contenido dinámico
 description: Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envíos, estandarizar y compartir bloques de contenido en diferentes plantillas de envíos.
-feature: Dynamic Content
-topics: Email Channel
+feature: Contenido dinámico
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
 translation-type: tm+mt
-source-git-commit: 15811ffa49770a8cc5ff59c8f477029c96425074
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
 source-wordcount: '253'
 ht-degree: 99%
