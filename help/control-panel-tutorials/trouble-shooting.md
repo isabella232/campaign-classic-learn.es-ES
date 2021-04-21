@@ -1,8 +1,7 @@
 ---
 title: Panel de control de Campaign de Solución de problemas
 description: El panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia y direcciones IP de lista de permitidos.
-feature: Control Panel
-topics: Control Panel
+feature: Panel de control de Campaign
 kt: 2938
 doc-type: article
 activity: use
@@ -10,14 +9,14 @@ team: PM
 role: Administrator
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
+exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 translation-type: tm+mt
-source-git-commit: 8847c322c63adb23ea33679714336d0aaac20100
+source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
 workflow-type: tm+mt
-source-wordcount: '343'
-ht-degree: 99%
+source-wordcount: '341'
+ht-degree: 100%
 
 ---
-
 
 # Solución de problemas [!UICONTROL Control Panel]
 
@@ -70,4 +69,3 @@ La conexión a los servidores SFTP requiere lo siguiente:
 ### Documentación útil {#helpful-docs}
 
 * [Inicio de sesión en el servidor SFTP](https://helpx.adobe.com/es/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
-
