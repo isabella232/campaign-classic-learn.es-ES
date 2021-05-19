@@ -8,16 +8,16 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: cc90f176ee62f01610cc696c227585cfe4081278
+source-git-commit: 8eee5de1b133fea146a2b05b1489b786e3117f9f
 workflow-type: tm+mt
 source-wordcount: '59'
-ht-degree: 76%
+ht-degree: 37%
 
 ---
 
 # Creación de campañas en canales múltiples
 
-En una campaña en canales múltiples, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia en función del canal de destinatario preferido.
+En una campaña multicanal, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia en función del canal de destinatario preferido.
 
 Obtenga información sobre cómo crear una campaña en canales múltiples mediante envíos de correo electrónico, SMS y correo directo.
 
