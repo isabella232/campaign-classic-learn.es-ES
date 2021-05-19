@@ -10,10 +10,10 @@ team: TM
 role: Administrator, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
-source-git-commit: b668dc4f6568be3d239c93fef50132acb26cb40c
+source-git-commit: 24d2e2e760200d7311a638506f394b78edd118a5
 workflow-type: tm+mt
-source-wordcount: '147'
-ht-degree: 50%
+source-wordcount: '146'
+ht-degree: 43%
 
 ---
 
@@ -39,4 +39,4 @@ Documentación:
 Tutoriales en vídeo:
 
 * [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
-* [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
+* [Personalización de correos electrónicos: creación de una newsletter multilingüe con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
