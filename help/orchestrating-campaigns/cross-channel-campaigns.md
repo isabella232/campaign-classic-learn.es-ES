@@ -8,10 +8,10 @@ doc-type: feature video
 activity: use
 team: TM
 exl-id: adf5eec1-9705-48f0-84a9-57a44bf79d0d
-source-git-commit: cfe6c54e84e4c48e6c281c820d2ea09149f781bd
+source-git-commit: cc90f176ee62f01610cc696c227585cfe4081278
 workflow-type: tm+mt
-source-wordcount: '60'
-ht-degree: 75%
+source-wordcount: '59'
+ht-degree: 76%
 
 ---
 
@@ -19,7 +19,7 @@ ht-degree: 75%
 
 En una campaña en canales múltiples, una sola comunicación de marketing utiliza varios canales para llegar a una audiencia objetivo más amplia en función del canal de destinatario preferido.
 
-Aprenda a crear una campaña en canales múltiples utilizando correo electrónico, SMS y envíos de correo postal.
+Obtenga información sobre cómo crear una campaña en canales múltiples mediante envíos de correo electrónico, SMS y correo directo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330990?quality=12)
 
