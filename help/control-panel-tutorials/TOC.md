@@ -4,12 +4,11 @@ user-guide-description: Aprenda a monitorizar los activos clave de las instancia
 breadcrumb-title: Tutoriales del Panel de control de Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
-feature: Control Panel
+feature: Panel de control de Campaign
 role: Administrator
 level: Experienced
-translation-type: tm+mt
 source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -39,5 +38,5 @@ ht-degree: 100%
       + [Uso de una clave GPG para cifrar datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/using-a-gpg-key-to-encrypt-data.md)
       + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
-   + [Monitorización de las bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
+   + [Monitorización de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
 + [Solución de problemas del panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)
