@@ -10,15 +10,14 @@ team: WWFRE
 role: Business Practitioner
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 80718da6eb0fd4be5a26b9b6cd591ee90c41f871
 workflow-type: tm+mt
 source-wordcount: '132'
 ht-degree: 100%
 
 ---
 
-# Segmentación de destinatarios en un flujo de trabajo
+# Segmentación de perfiles en un flujo de trabajo
 
 Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de trabajo y segmentar destinatarios en un flujo de trabajo mediante condiciones de filtrado.
 
