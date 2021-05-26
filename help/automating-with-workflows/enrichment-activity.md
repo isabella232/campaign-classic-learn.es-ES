@@ -13,7 +13,7 @@ team: TM
 role: Business Practitioner, Developer
 level: Experienced
 exl-id: a8e60b8f-48a6-4ef7-9d4e-994241ff2d97
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 84d5dd568b0d8bae2ad97676f1eb1a312c0ff01e
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 1%
@@ -22,7 +22,7 @@ ht-degree: 1%
 
 # Configuración de actividades de enriquecimiento
 
-Una actividad de enriquecimiento es un objeto de flujo de trabajo que permite al usuario agregar datos a la tabla de trabajo. Con un enriquecimiento, puede añadir columnas a esa tabla para incluir datos adicionales O definir nuevos vínculos de esa tabla de trabajo a otros datos existentes.
+Una actividad de enriquecimiento es un objeto de flujo de trabajo que permite al usuario agregar datos a la tabla de trabajo. Con un enriquecimiento, puede agregar columnas a esa tabla para incluir datos adicionales o definir nuevos vínculos de esa tabla de trabajo a otros datos existentes.
 
 En este vídeo se explica cómo configurar una actividad de enriquecimiento basada en la información del registro de entregas.
 
