@@ -1,26 +1,23 @@
 ---
 title: Configuración de los flujos de trabajo de validación en Adobe Campaign Classic
-seo-title: Configuración de los flujos de trabajo de validación en Adobe Campaign Classic
 description: Obtenga información sobre cómo configurar diferentes flujos de trabajo de validación de aprobación.
-seo-description: En este vídeo se explica cómo configurar y utilizar una plantilla de envío en ACCAdobe Campaign ofrece varias opciones para que los especialistas en marketing revisen y proporcionen contenido de envío, objetivo de campaña, extracción de datos y aprobaciones de presupuesto. Este tutorial explica cómo configurar diferentes flujos de trabajo de validación de aprobación.
-uuid: fdeb7aef-95aa-4bc1-9c51-2eb7ce802107
-discoiquuid: 29abc57d-c359-472d-817a-0671818894f0
 feature: Flujos de trabajo, aprobaciones
-kt: KT-1566
+kt: 1566
 doc-type: feature video
 activity: setup
 team: TM
 role: Business Practitioner
 level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: 4e3ffe869c735138b50d54a72a569552952f03fc
 workflow-type: tm+mt
-source-wordcount: '335'
+source-wordcount: '271'
 ht-degree: 0%
 
 ---
 
-# Configuración de los flujos de trabajo de validación en Adobe Campaign Classic
+
+# Creación de flujos de trabajo de validación
 
 Adobe Campaign ofrece varias opciones para que los especialistas en marketing puedan revisar y proporcionar contenido de envío, objetivo de campaña, extracción de datos y aprobaciones de presupuesto.
 
@@ -31,17 +28,17 @@ Este tutorial explica cómo configurar diferentes flujos de trabajo de validaci�
 Antes de activar los pasos de aprobación, el equipo de marketing debe definir revisores individuales:
 
 * La función de revisor de Adobe Campaign dentro de una actividad de aprobación puede ser un solo revisor (Operador) o un grupo de revisores (función de operador).
-* Los grupos de revisores y revisores deben estar configurados previamente en Adobe Campaign mediante una función de administrador. Esto permite a los desarrolladores de campañas seleccionar los revisores como aprobadores en una campaña o entrega.
+* Para permitir que los desarrolladores de campañas seleccionen a los revisores como aprobadores en una campaña o entrega, un administrador debe configurar los grupos de revisores y revisores en Adobe Campaign.
 
 ## Configuración de aprobaciones para campañas {#configuring-approvals-for-campaigns}
 
-Si tiene el mismo conjunto de revisores para todas las entregas en el flujo de trabajo de la campaña, aprovecharía las funcionalidades de aprobación de [!DNL Campaign]. Al configurar las aprobaciones y los revisores en el nivel de campaña, las tareas de aprobación y los revisores se dirigen a cada actividad de entrega del flujo de trabajo una vez que se ejecute el flujo de trabajo.
+Si tiene el mismo conjunto de revisores para todas las entregas en el flujo de trabajo de la campaña, aplique la funcionalidad de aprobación de la campaña configurando las aprobaciones y los revisores en el nivel de campaña. Las tareas de aprobación y los revisores se envían a cada actividad de envío del flujo de trabajo una vez que se ejecuta el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
 ## Configuración de aprobaciones para envíos {#configuring-approvals-for-deliveries}
 
-También puede configurar aprobaciones a nivel de envío. Si los pasos y revisores de las aprobaciones de entrega difieren de los pasos y revisores de aprobación de campaña, la configuración de entrega anulará la configuración de campaña.
+También puede configurar aprobaciones a nivel de envío. Si los pasos y revisores de las aprobaciones de entrega difieren de los pasos y revisores de aprobación de campaña, la configuración de entrega anula la configuración de la campaña.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
