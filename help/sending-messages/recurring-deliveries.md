@@ -9,10 +9,9 @@ team: TM
 role: Business Practitioner
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
 workflow-type: tm+mt
-source-wordcount: '267'
+source-wordcount: '268'
 ht-degree: 67%
 
 ---
@@ -29,11 +28,11 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
    Un envío continuo creará un envío ÚNICO y registros de envío (broadLog) y registros de seguimiento que hacen referencia a que se agrega un envío cada vez que se ejecuta.
 
-![Entrega continua](/help/assets/delivery_continuous.jpg)
+   ![Entrega continua](/help/assets/delivery_continuous.jpg)
 
 * Un **envío recurrente** creará una nueva instancia de envío cada vez que se ejecute. Por ejemplo, si el flujo de trabajo está programado para ejecutarse una vez a la semana, el resultado sería de 52 envíos al cabo de un año. Esto también significa que el registro y los registros de seguimiento generales se separarán por cada instancia de envío.
 
-![Entrega recurrente](/help/assets/delivery_recurring.jpg)
+   ![Entrega recurrente](/help/assets/delivery_recurring.jpg)
 
 ## Configuración de un envío recurrente {#how-to-set-up-a-recurring-delivery}
 
@@ -49,4 +48,4 @@ Este vídeo muestra cómo configurar un envío continuo con una consulta increme
 
 ## Recursos adicionales
 
-[Creación de un envío recurrente en un flujo de trabajo de objetivos](https://docs.adobe.com/content/help/en/campaign-classic/using/automating-with-workflows/use-cases/sending-a-birthday-email.html#creating-a-recurring-delivery-in-a-targeting-workflow)
+[Creación de un envío recurrente en un flujo de trabajo de objetivos](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/use-cases/deliveries/sending-a-birthday-email.html?lang=en#creating-a-recurring-delivery-in-a-targeting-workflow)
