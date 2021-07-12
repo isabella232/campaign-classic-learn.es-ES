@@ -6,11 +6,10 @@ kt: 1656
 doc-type: feature video
 activity: use
 team: evangelist
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '307'
 ht-degree: 4%
@@ -33,7 +32,7 @@ El perfil de cliente integrado de Adobe Campaign permite a los especialistas en 
 
 >[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12)
 
-## Segmentación de clientes {#customer-segmentation}
+## Segmentación de clientes  {#customer-segmentation}
 
 Una vez que haya comprendido los perfiles, estará listo para realizar una segmentación avanzada mediante consultas profundas de los atributos comunes del consumidor y otras fuentes de datos. Permite crear listas reutilizables, actualizar dinámicamente listas basadas en cambios en tiempo real en los datos e incluso realizar actividades más complejas, como pruebas multivariable en cualquiera de esos puntos de datos.
 
