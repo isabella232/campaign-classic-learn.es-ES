@@ -1,20 +1,19 @@
 ---
 title: Configuración de las propiedades de la plantilla de envíos en Adobe Campaign Classic
-description: Obtenga información sobre cómo configurar las propiedades de la plantilla de envío.
+description: Obtenga información sobre cómo configurar las propiedades de la plantilla de envíos.
 feature: Plantillas de envíos
 kt: 1981
 thumbnail: 24067.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 1da9b462-7cfe-48e2-9a84-6a070e4d305a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '122'
-ht-degree: 86%
+ht-degree: 93%
 
 ---
 
@@ -33,7 +32,7 @@ Videotutoriales
 
 Documentación:
 
-* [Acerca de las plantillas](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [Creación de una plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [Selección de una asignación de destino](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [Creación de una entrega a partir de una plantilla](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
+* [Acerca de las plantillas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=es)
+* [Creación de una plantilla de envíos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=es)
+* [Selección de una asignación de destino](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=es)
+* [Creación de una entrega a partir de una plantilla](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=es)
