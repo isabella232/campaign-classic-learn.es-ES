@@ -6,11 +6,10 @@ kt: 2148
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner, Developer, Administrator
+role: User, Developer, Admin
 level: Experienced
 exl-id: c6fcdaa9-75ae-4975-9463-ca32a2ae849a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 25%
@@ -19,7 +18,7 @@ ht-degree: 25%
 
 # Configuración de la gestión de la fatiga mediante filtros predefinidos
 
-La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtre la población objetivo por el número de mensajes recibidos.
+La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar el exceso de solicitudes de destinatarios. Si no tiene el módulo de optimización de campaña en la instancia de campaña, puede configurar un filtro predefinido que filtre la población objetivo por el número de mensajes recibidos.
 
 En este vídeo se explica cómo implementar la gestión de la fatiga en Adobe Campaign Classic mediante filtros.
 
