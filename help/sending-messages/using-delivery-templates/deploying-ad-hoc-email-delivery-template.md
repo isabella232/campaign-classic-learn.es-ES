@@ -7,11 +7,10 @@ thumbnail: 24065.jpg
 doc-type: feature video
 activity: use
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: 2e4bb39d-fd03-44f5-8249-dc415b87808a
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '144'
 ht-degree: 78%
@@ -32,7 +31,7 @@ Videotutoriales
 
 Documentación:
 
-* [Acerca de las plantillas](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html)
-* [Creación de una plantilla de envíos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html)
-* [Selección de una asignación de destino](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html)
-* [Creación de una entrega a partir de una plantilla](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html)
+* [Acerca de las plantillas](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/about-templates.html?lang=es)
+* [Creación de una plantilla de envíos](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-template.html?lang=es)
+* [Selección de una asignación de destino](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/selecting-a-target-mapping.html?lang=es)
+* [Creación de una entrega a partir de una plantilla](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/using-delivery-templates/creating-a-delivery-from-a-template.html?lang=es)
