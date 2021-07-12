@@ -1,5 +1,5 @@
 ---
-title: Instalación del canal de aplicaciones móviles
+title: Instalación del canal de la aplicación móvil
 description: Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 feature: Push
 kt: 6438
@@ -7,18 +7,17 @@ thumbnail: 326544.jpg
 doc-type: feature video
 activity: setup
 team: TM
-role: Administrator
+role: Admin
 level: Beginner
 exl-id: f1e71f7d-4af1-4122-ae30-14c9f2ff2a19
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '70'
-ht-degree: 4%
+ht-degree: 82%
 
 ---
 
-# Instalación del canal de aplicaciones móviles
+# Instalación del canal de la aplicación móvil
 
 Obtenga información sobre cómo comprobar si el canal de la aplicación móvil está instalado en la instancia y cómo instalarlo.
 
