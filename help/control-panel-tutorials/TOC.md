@@ -5,10 +5,10 @@ breadcrumb-title: Tutoriales del Panel de control de Campaign
 breadcrumb-url: /docs/campaign-classic-learn/control-panel/control-panel-overview.html
 index: true
 feature: Panel de control de Campaign
-role: Administrator
+role: Admin
 level: Experienced
-source-git-commit: 963cd6dd61c8678aece3d639f72db4c100bcbbdc
-workflow-type: ht
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+workflow-type: tm+mt
 source-wordcount: '125'
 ht-degree: 100%
 
@@ -17,11 +17,11 @@ ht-degree: 100%
 
 # Panel de control de Campaign: tutoriales {#control-panel}
 
-+ [Información general del panel de control de Campaign](/help/control-panel-tutorials/control-panel-overview.md)
-+ [Introducción al Panel de control](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
++ [Información general del Panel de control de Campaign](/help/control-panel-tutorials/control-panel-overview.md)
++ [Introducción al Panel de control de Campaign](/help/control-panel-tutorials/getting-started-with-the-control-panel.md)
 + Administración SFTP {#sftp-management}
    + [Monitorización de la capacidad del servidor](/help/control-panel-tutorials/sftp-management/monitoring-server-capacity.md)
-   + [Añadir un intervalo IP a la lista de permitidos](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
+   + [Adición de un intervalo IP a la lista de permitidos](/help/control-panel-tutorials/sftp-management/adding-ip-range-to-allow-list.md)
    + [Generación de una clave SSH](/help/control-panel-tutorials/sftp-management/generate-ssh-key.md)
    + [Conexión a un servidor SFTP](/help/control-panel-tutorials/sftp-management/connect-to-sftp-server.md)
 + Subdominios y certificados {#subdomains-and-certificates}
@@ -39,4 +39,4 @@ ht-degree: 100%
       + [Descifrado de datos](/help/control-panel-tutorials/instance-settings/gpg-key-management/decrypting-data.md)
 + Supervisión del rendimiento {#performance-monitoring}
    + [Monitorización de bases de datos](/help/control-panel-tutorials/performance-monitoring/monitoring-databases.md)
-+ [Solución de problemas del panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)
++ [Solución de problemas del Panel de control de Campaign](/help/control-panel-tutorials/trouble-shooting.md)
