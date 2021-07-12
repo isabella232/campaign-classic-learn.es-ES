@@ -1,19 +1,19 @@
 ---
 title: Refinamiento de destinatarios combinando resultados de consultas
-description: Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante la intersección o las actividades de unión.
-feature: Flujos de trabajo, actividad de segmentación, editor de consultas
+description: Aprenda a refinar el segmento combinando los resultados de la consulta en un flujo de trabajo mediante actividades de intersección o unión.
+feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 5547
 thumbnail: 36832.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 3bd6a4cf-95ae-4f4a-b53a-ac04a29843f7
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '110'
-ht-degree: 37%
+ht-degree: 67%
 
 ---
 
@@ -27,7 +27,7 @@ Aprenda a refinar el destinatario combinando los resultados de la consulta en un
 
 Documentación:
 
-* [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
 * [Intersección](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [Unión](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
