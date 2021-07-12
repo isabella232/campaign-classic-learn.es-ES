@@ -1,24 +1,24 @@
 ---
 title: Configuración de campañas de correo electrónico recurrentes y continuas
-description: Aprenda a configurar un envío recurrente y continuo y comprenda las diferencias entre los dos enfoques.
+description: Aprenda a configurar un envío recurrente y continuo, y comprenda las diferencias entre los dos enfoques.
 feature: Flujos de trabajo
 kt: 1560
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
-source-git-commit: 5fb898eca821c5078393003c41032801f8454fd5
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '268'
-ht-degree: 67%
+ht-degree: 95%
 
 ---
 
 # Configuración de campañas de correo electrónico recurrentes y continuas
 
-Este tutorial explica cómo configurar un envío recurrente y continuo y las diferencias entre los dos enfoques.
+Este tutorial explica cómo configurar un envío recurrente y continuo, y las diferencias entre los dos enfoques.
 
 ## Seguimiento de envío recurrente y continuo {#recurring-and-continuous-delivery-tracking}
 
