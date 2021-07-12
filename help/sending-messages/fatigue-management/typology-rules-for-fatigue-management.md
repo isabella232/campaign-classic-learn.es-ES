@@ -6,22 +6,21 @@ kt: 1564
 doc-type: feature video
 activity: use
 team: TM
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '207'
-ht-degree: 23%
+ht-degree: 42%
 
 ---
 
 # Configuración de la gestión de la fatiga mediante reglas de tipología
 
-La gestión de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la saturación de destinatarios y a menudo se aplica usando una regla de tipología.
+La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la saturación de destinatarios y a menudo se aplica usando reglas de tipología.
 
-Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todas las entregas de forma más eficaz para controlar la mensajería de campaña a los clientes. Esto se logra eliminando la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Los destinatarios que coincidan con los criterios dentro de una *regla de tipología* se excluirán del envío durante la fase de análisis.
+Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todas los envíos de forma más eficaz para controlar la mensajería de campaña a los clientes. Esto se logra eliminando la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Los destinatarios que coincidan con los criterios dentro de una *regla de tipología* se excluirán del envío durante la fase de análisis.
 
 Normalmente, un conjunto de *reglas de tipología* se agrupan dentro de una *tipología* para aplicar fácilmente varias reglas de filtrado a un envío a la vez.
 
