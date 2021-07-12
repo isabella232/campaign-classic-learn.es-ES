@@ -6,13 +6,13 @@ kt: 2175
 doc-type: feature video
 activity: use
 team: DOC
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 0f2a5be5-54e1-4ed3-b154-b87a91cd16a2
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '201'
-ht-degree: 71%
+ht-degree: 79%
 
 ---
 
@@ -34,4 +34,4 @@ En este vídeo se explica cómo crear un flujo de trabajo en Adobe Campaign Clas
 
 ## Recursos adicionales
 
-* [Introducción a los flujos de trabajo (documentación)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Introducción a los flujos de trabajo (documentación)](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
