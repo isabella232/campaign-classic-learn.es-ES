@@ -1,19 +1,19 @@
 ---
 title: Refinamiento de destinatarios excluyendo resultados de consultas
-description: Aprenda a refinar el destinatario aplicando una exclusión estándar a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
-feature: Flujos de trabajo, actividad de segmentación, editor de consultas
+description: Aprenda a refinar el ojetivo aplicando una exclusión estándar a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
+feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
 kt: 5548
 thumbnail: 36826.jpg
 doc-type: feature video
 activity: use
 team: WWFRE
-role: Business Practitioner
+role: User
 level: Beginner
 exl-id: 4322a36c-9550-4b94-a742-b02f52c523c2
-source-git-commit: 3757eaf573dab5139bad084b664475c6a7de4b02
+source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
 source-wordcount: '134'
-ht-degree: 33%
+ht-degree: 77%
 
 ---
 
@@ -27,7 +27,7 @@ Aprenda a refinar el destinatario aplicando un **[!UICONTROL standard exclusion]
 
 Documentación:
 
-* [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html)
+* [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
 * [Intersección](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/intersection.html)
 * [Unión](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/union.html)
 
