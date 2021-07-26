@@ -1,5 +1,5 @@
 ---
-title: Mapa térmico del flujo de trabajo
+title: Mapa de calor del flujo de trabajo
 description: Aprenda a monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
 feature: Mapa de calor
 kt: 2093
@@ -9,31 +9,19 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: d5b1d6ef2dde38e70371f2419c142224688b3b33
 workflow-type: tm+mt
-source-wordcount: '169'
-ht-degree: 100%
+source-wordcount: '78'
+ht-degree: 89%
 
 ---
 
 # Mapa de calor del flujo de trabajo
 
-El mapa de calor del flujo de trabajo de Adobe Campaign consiste en una representación gráfica con códigos de color de todos los flujos de trabajo que se están ejecutando actualmente.  Al proporcionar información general rápida sobre la cantidad de flujos de trabajo simultáneos, permite a los administradores de la plataforma Adobe Campaign monitorizar la carga en la instancia y planificar los flujos de trabajo en consecuencia.
-
-El mapa térmico del flujo de trabajo ayuda a los administradores de la plataforma a lo siguiente:
-
-* Ver y comprender flujos de trabajo simultáneos
-* Filtrar flujos de trabajo por duración para ver qué flujos de trabajo pueden encontrar problemas
-* Encuentre fácilmente flujos de trabajo individuales y todas las actividades relacionadas (con su duración)
-
-* Búsqueda por tipo de flujo de trabajo ([flujos de trabajo técnicos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#technical-workflows) o [flujos de trabajo de la campaña](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/automating-with-workflows/general-operation/building-a-workflow.html#campaign-workflows))
-
-* Buscar un flujo de trabajo específico para analizar
-
-Tenga en cuenta: Esta función solo está disponible desde Adobe Campaign Classic V7 (versión 18.11.1)
+El mapa de calor del flujo de trabajo de Adobe Campaign consiste en una representación gráfica con códigos de color de todos los flujos de trabajo que se están ejecutando actualmente. Al proporcionar información general rápida sobre la cantidad de flujos de trabajo simultáneos, permite a los administradores de la plataforma Adobe Campaign monitorizar la carga en la instancia y planificar los flujos de trabajo en consecuencia.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25558?quality=12)
 
 ## Recursos adicionales
 
-* [Monitorización de procesos](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html#Workflow_monitoring)
+* [Monitorización de procesos](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html)
