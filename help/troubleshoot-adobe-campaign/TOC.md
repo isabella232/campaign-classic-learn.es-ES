@@ -7,7 +7,7 @@ index: true
 feature: Información general
 role: Admin
 level: Experienced
-source-git-commit: e83fd769f7a7395ba12798cb662988c8eb1d1419
+source-git-commit: 62b17af7b0fdc522eea11a89bb9f6a5c2b70609e
 workflow-type: tm+mt
 source-wordcount: '24'
 ht-degree: 4%
@@ -17,4 +17,4 @@ ht-degree: 4%
 
 # Resolución de problemas de Adobe Campaign {#troubleshooting}
 
-+ [Resolución de problemas de Adobe Campaign: información general](help/troubleshoot-adobe-campaign/overview.md)
++ [Resolución de problemas de Adobe Campaign: información general](/help/troubleshoot-adobe-campaign/overview.md)
