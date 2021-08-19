@@ -10,10 +10,10 @@ role: Admin
 level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/trouble-shooting.html
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 82c423273671b776f9b1e7bdfaaf092ec23a17a9
 workflow-type: tm+mt
-source-wordcount: '341'
-ht-degree: 100%
+source-wordcount: '335'
+ht-degree: 42%
 
 ---
 
@@ -21,26 +21,26 @@ ht-degree: 100%
 
 ## Inicio de sesión y página principal
 
-### Síntoma: no se puede iniciar sesión en Experience Cloud
+### Síntoma: No se puede iniciar sesión en el Experience Cloud
 
 **Qué hacer:**
-el usuario debe localizar su identificador de organización de IMS (xxx). El administrador debe añadir el usuario al Perfil de productos &quot;Campaign-xxx-administradores&quot; para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que añadirse como usuario.
+El usuario debe localizar su ID de organización de IMS (xxx). El administrador debe agregar el usuario al Perfil de producto &quot;Campaign-xxx-administradores&quot; para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: los vínculos de la página principal de Experience Cloud para acceder a [!UICONTROL Control Panel] no aparecen para un usuario.
 
 **Causa:**
-los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administradores/Admin_.
+los usuarios no ven los vínculos hasta que se añaden como usuarios al Perfil de producto  _Campaign-xxx-Administradores/Admin_.
 
 **Qué hacer:**
-El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-administradores_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que añadirse como &quot;usuario&quot;.
+El administrador debe agregar el usuario al Perfil de productos  _Campaign-xxx-_  Administradores para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-es muy probable que el usuario deba añadirse como &quot;usuario&quot; al Perfil de productos _Campaign-xxx-administradores/admin_ para la instancia que falta.
+es muy probable que el usuario deba agregarse como  ** usuarioProduct Profile  _Campaign-xxx-Administradores/_ Administrador para la instancia que falta
 
 **Qué hacer:**
-El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-administradores_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, es posible que tenga que añadirse como &quot;usuario&quot;.
+El administrador debe agregar el usuario al Perfil de productos  _Campaign-xxx-_  Administradores para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como &quot;usuario&quot;.
 
 ### Vídeos útiles
 
@@ -54,17 +54,17 @@ El administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-ad
 
 ### Documentación útil
 
-* [Descubra el panel de control de Campaign](https://helpx.adobe.com/es/campaign/kb/control-panel-overview.html)
-* [Administración de permisos para [!UICONTROL Control Panel]](https://helpx.adobe.com/es/campaign/kb/control-panel-access.html)
+* [Descubra el panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
+* [Administración de permisos para [!UICONTROL Control Panel]](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
 
 ## Establecimiento de la conexión con el servidor SFTP (cliente o API)
 
 La conexión a los servidores SFTP requiere lo siguiente:
 
 * [!UICONTROL Allow listing] la dirección IP desde la que se está conectando al servidor SFTP.
-* Par de clave pública/privada que debe registrarse con Adobe Campaign.
-* Si se conecta directamente al servidor SFTP, también necesitará el software de cliente SFTP.
+* Par de clave pública/privada que debe registrarse con Adobe Campaign
+* Para conectarse directamente al servidor SFTP, también necesita el software de cliente SFTP
 
 ### Documentación útil {#helpful-docs}
 
-* [Inicio de sesión en el servidor SFTP](https://helpx.adobe.com/es/campaign/kb/control-panel-sftp.html#LoggingintoyourSFTPserver)
+* [Inicio de sesión en el servidor SFTP](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=en)
