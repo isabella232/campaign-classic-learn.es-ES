@@ -9,16 +9,16 @@ team: PM
 role: Admin
 level: Beginner
 exl-id: 66ce7a21-f0ca-47a5-80f7-ee8596fac7a7
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '163'
-ht-degree: 100%
+ht-degree: 46%
 
 ---
 
 # Cómo utilizar la pista de auditoría
 
-[!UICONTROL Audit Trail] captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign. Las [!UICONTROL Audit Trail] funciones incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como las siguientes:
+[!UICONTROL Audit Trail] captura, en tiempo real, una lista completa de las acciones y eventos que se producen dentro de Adobe Campaign. Las características [!UICONTROL Audit Trail] incluyen una forma de autoservicio de acceder a un historial de datos para responder preguntas como:
 
 * ¿Qué le pasó a un objeto?
 * ¿Quién lo modificó por última vez y cuándo?
@@ -28,7 +28,7 @@ ht-degree: 100%
 >
 >Las pistas de auditoría requieren la versión 19.1 o posterior de Campaign Classic.
 
-El [!UICONTROL Audit Trail] registra las acciones del operador de lista y registro, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para los flujos de trabajo:
+Los registros [!UICONTROL Audit Trail] y las acciones del operador de lista, como la creación, modificación y eliminación de flujos de trabajo, opciones y esquema de origen. Además, las siguientes acciones se registran específicamente para flujos de trabajo:
 
 * Start
 * Pause
@@ -43,4 +43,4 @@ El siguiente vídeo describe dónde acceder a los registros de pista de auditor�
 
 >[!VIDEO](https://video.tv.adobe.com/v/27425?quality=12)
 
-Para obtener más información, consulte la [documentación sobre la pista de auditoría](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html).
+Para obtener más información, consulte la [documentación sobre la pista de auditoría](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/audit-trail.html?lang=en).
