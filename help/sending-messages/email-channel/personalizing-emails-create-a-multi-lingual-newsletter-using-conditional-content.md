@@ -1,5 +1,5 @@
 ---
-title: 'Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional'
+title: 'Personalización de correos electrónicos: creación de una newsletter multilingüe con contenido condicional'
 description: Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsletter en varios idiomas.
 feature: Contenido dinámico
 kt: 5922
@@ -10,14 +10,14 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 100%
+source-wordcount: '116'
+ht-degree: 67%
 
 ---
 
-# Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional
+# Personalización de correos electrónicos: creación de una newsletter multilingüe con contenido condicional
 
 Al configurar los campos de contenido condicionados, puede crear una personalización avanzada. Los bloques de texto o las imágenes completas se sustituyen cuando se cumple una condición concreta.
 
@@ -29,8 +29,8 @@ Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsle
 
 Documentación:
 
-* [Acerca de la personalización](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
-* [Contenido condicional](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html)
+* [Acerca de la personalización](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+* [Contenido condicional](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/conditional-content.html?lang=en)
 
 Tutoriales en vídeo:
 
