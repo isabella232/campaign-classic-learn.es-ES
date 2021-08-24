@@ -11,11 +11,10 @@ tutorials-title: Tutoriales
 tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=es
 getting-started-title: Documentación
 getting-started-url: https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/starting-with-adobe-campaign/about-adobe-campaign-classic.html
-translation-type: ht
-source-git-commit: 2eef4b85e39f80c5b5f012e17cf73b0e188b9253
-workflow-type: ht
+source-git-commit: d7cfbad42f559f87a20c5580e3d7279140bf32e1
+workflow-type: tm+mt
 source-wordcount: '394'
-ht-degree: 100%
+ht-degree: 98%
 
 ---
 
@@ -28,7 +27,7 @@ ht-degree: 100%
    + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
    + [Exploración de la interfaz de usuario de Adobe Campaign Classic](/help/getting-started/exploring-the-adobe-campaign-classic-user-interface.md)
    + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
-   + [Creación de planes de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
+   + [Creación de un plan de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
    + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Creación de campañas activadas por eventos](/help/getting-started/create-event-triggered-campaigns.md)
@@ -50,17 +49,17 @@ ht-degree: 100%
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Diseño de correos electrónicos para envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
+      + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + Canal de SMS {#sms-channel}
-      + [Creación de un envío de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+      + [Creación de una entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuración del canal push mediante el SDK de Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
-   + Correo postal {#direct-mail}
+   + Correo directo {#direct-mail}
       + [Creación de envíos de correos directos](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Uso de las plantillas de envíos{#using-delivery-templates}
+   + Uso de plantillas de envío{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
       + [Implementación de una plantilla de envíos por correo electrónico ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
@@ -70,15 +69,15 @@ ht-degree: 100%
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
    + [Ejecución de una campaña](/help/orchestrating-campaigns/executing-a-campaign.md)
-   + [Introducción a campañas multicanal y entre canales](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
+   + [Introducción a campañas multicanal y en canales múltiples](/help/orchestrating-campaigns/introduction-to-cross-and-multi-channel-campaigns.md)
    + [Creación de campañas multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-   + [Creación de campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-+ Creación de informes {#reporting}
+   + [Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)
++ Informe {#reporting}
    + [Acceso a los informes integrados](/help/reporting/accessing-built-in-reports.md)
    + [Generación de un informe de análisis descriptivo](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatización con un flujo de trabajo{#automating-with-workflows}
++ Automatizar con flujo de trabajo{#automating-with-workflows}
    + [Creación de un flujo de trabajo](/help/automating-with-workflows/creating-a-workflow.md)
-   + [Creación de un flujo de trabajo de objetivos](/help/automating-with-workflows/creating-a-targeting-workflow.md)
+   + [Creación de un flujo de trabajo de segmentación](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
@@ -86,14 +85,14 @@ ht-degree: 100%
    + [Configurar actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
-+ Diseño del contenido{#designing-content}
-   + [Configurar las páginas de destino](/help/designing-content/configure-landingpages.md)
-+ Monitorización {#monitoring}
-   + [Mapa térmico del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
++ Diseño de contenido{#designing-content}
+   + [Configuración de las páginas de destino](/help/designing-content/configure-landingpages.md)
++ Monitor {#monitoring}
+   + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
-+ Integración {#integrating}
++ Integrar {#integrating}
    + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
-+ Administración {#administrating}
++ Administrar {#administrating}
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
