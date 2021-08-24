@@ -1,16 +1,15 @@
 ---
-title: Cómo personalizar correos electrónicos con bloques de contenido dinámico
-description: Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envíos, estandarizar y compartir bloques de contenido en diferentes plantillas de envíos.
+title: Personalización de correos electrónicos con bloques de contenido dinámico
+description: Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
 feature: Contenido dinámico
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: 137d1e0c36d038f3fb8a4742bafef6fbac96f41d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '253'
-ht-degree: 99%
+source-wordcount: '254'
+ht-degree: 70%
 
 ---
 
@@ -24,11 +23,11 @@ En Adobe Campaign, puede personalizar el contenido o el aspecto de los mensajes 
 3 - Insertar campos de personalización dinámicos.\
 4 - Crear contenido condicional.
 
-Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envíos, estandarizar y compartir bloques de contenido en diferentes plantillas de envíos.
+Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
 
 ## Crear y añadir un bloque de personalización a un envío
 
-Un bloque de personalización es dinámico, personalizado y contiene un código de procesamiento específico que se puede añadir a los envíos. Por ejemplo, puede añadir imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos de bajas y mucho más.
+Un bloque personalizado es dinámico y contiene código de renderización específico que se puede añadir a los envíos. Por ejemplo, puede añadir imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos de bajas y mucho más.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
@@ -46,4 +45,4 @@ Al configurar los campos de contenido condicionados, puede crear una personaliza
 
 ## Recursos adicionales
 
-* [Acerca de la personalización](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html)
+* [Acerca de la personalización](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
