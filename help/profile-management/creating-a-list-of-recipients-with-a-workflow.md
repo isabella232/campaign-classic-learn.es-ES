@@ -10,10 +10,10 @@ team: DOC
 role: User
 level: Beginner
 exl-id: 101e32c1-6a70-49a6-b987-6aa55de3e72a
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
 source-wordcount: '85'
-ht-degree: 96%
+ht-degree: 88%
 
 ---
 
@@ -27,7 +27,7 @@ Aprenda cómo crear un flujo de trabajo con el fin de dirigrse a los destinatari
 
 Documentación:
 
-* [Creación y administración de listas](https://docs.adobe.com/content/help/es-ES/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html)
+* [Creación y administración de listas](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/profile-management/creating-and-managing-lists.html?lang=en)
 
 Tutoriales:
 
