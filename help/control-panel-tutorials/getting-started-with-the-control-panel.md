@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 62%
+source-wordcount: '280'
+ht-degree: 46%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 62%
 >
 > Todos los usuarios administradores pueden acceder al Panel de control de Campaign. Los pasos para otorgar acceso de administrador a un usuario se detallan en la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel).
 >
-> Tenga en cuenta que la instancia debe alojarse en AWS y actualizarse con la última versión de [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=es)[ o la última versión de GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es).
+> Su instancia debe alojarse en AWS y actualizarse con la última [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=es) compilación o la última [versión de GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es).
 
 El [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar el almacenamiento [!DNL SFTP] por instancia, administrar las claves [!DNL GPG] o [!UICONTROL subdomains] y [!UICONTROL certificates].
 
@@ -31,7 +31,7 @@ Este artículo explica cómo acceder al Panel de control de Campaign y cuáles s
 
 ## Acceso [!UICONTROL Control Panel]
 
-Para acceder al panel de control de Campaign, vaya a la página principal de Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
+Para acceder al Panel de control de Campaign, vaya a la página principal del Experience Cloud: [https://experiencecloud.adobe.com](https://experiencecloud.adobe.com):
 
 * **[!UICONTROL Experience Cloud Home]** > **[!UICONTROL Quick Access]**
 
@@ -48,7 +48,7 @@ Antes de comenzar, complete los siguientes requisitos previos:
 
 ### Confirmar [!DNL IMS Org ID]
 
-Debe conocer su [!DNL IMS org ID]. El siguiente vídeo describe dónde puede buscar la instancia de [!DNL IMS org ID].
+El siguiente vídeo describe dónde puede buscar la instancia [!DNL IMS org ID].
 
 >[!VIDEO](https://video.tv.adobe.com/v/27183?quality=12)
 
@@ -61,4 +61,4 @@ En el siguiente vídeo se explica cómo añadir un administrador a una instancia
 
 ## Recursos adicionales
 
-* [Centro de ayuda del Panel de control de Campaign](https://docs.adobe.com/content/help/es-ES/control-panel/using/control-panel-home.html)
+* [Centro de ayuda del Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel/using/control-panel-home.html?lang=es)
