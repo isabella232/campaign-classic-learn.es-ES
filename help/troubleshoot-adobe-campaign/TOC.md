@@ -7,17 +7,17 @@ index: true
 feature: Overview
 role: Admin
 level: Experienced
-source-git-commit: 8a6be644fe36317461efc9c2fdf73c2dc264c211
+source-git-commit: 80436fb4a92e9d7b6591350e4a38e3f4eec6db88
 workflow-type: tm+mt
 source-wordcount: '164'
-ht-degree: 1%
+ht-degree: 9%
 
 ---
 
 
 # Resolución de problemas de Adobe Campaign {#troubleshooting}
 
-+ [Resolución de problemas de Adobe Campaign: información general](/help/troubleshoot-adobe-campaign/overview.md)
++ [Solución de problemas de Adobe Campaign: información general](/help/troubleshoot-adobe-campaign/overview.md)
 + Inicio de sesión y consola de cliente {#login-and-client-console}
    + [Errores de secuencia de comandos o advertencias que se muestran durante el inicio de sesión](/help/troubleshoot-adobe-campaign/script-error-during-login-errors.md)
    + [Corrección de errores de inicio de sesión en la consola](/help/troubleshoot-adobe-campaign/console-login-errors.md)
