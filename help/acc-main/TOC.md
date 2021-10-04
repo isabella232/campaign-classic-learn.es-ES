@@ -4,17 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-breadcrumb-url: /docs/campaign-classic-learn/tutorials/overview.html
-solution-title: Experience League
-solution-hub-url: https://experienceleague.adobe.com/?tag=Campaign+Classic#recommended/solutions/campaign
-tutorials-title: Tutorials
-tutorials-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html
-getting-started-title: Documentation
-getting-started-url: https://docs.campaign.adobe.com/doc/AC/en/PTF_Starting_with_Adobe_Campaign_About_Adobe_Campaign_Classic.html
-source-git-commit: f52cc63295f831c27623cc540d918d49adc2f5d8
+source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
 workflow-type: tm+mt
-source-wordcount: '369'
-ht-degree: 95%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
@@ -38,8 +31,8 @@ ht-degree: 95%
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
-      + [Creación y diseño de envíos de correos electrónicos](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Administración de semillas y fuentes en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
+      + [Creación y diseño de entregas de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
       + [Configuración del contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
@@ -48,7 +41,7 @@ ht-degree: 95%
       + [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Solución de problemas de entrega de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
       + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + Canal de SMS {#sms-channel}
@@ -58,11 +51,11 @@ ht-degree: 95%
       + [Configuración del canal push mediante el SDK de Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
       + [Introducción a las notificaciones push para Android (tutorial)](https://experienceleague.adobe.com/docs/campaign-classic-learn/getting-started-with-push-notifications-for-android/introduction.html?lang=es)
    + Correo directo {#direct-mail}
-      + [Creación de envíos de correos directos](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
-   + Uso de plantillas de envío{#using-delivery-templates}
+      + [Creación de envíos de correo directo](/help/sending-messages/direct-mail/creating-direct-mail-deliveries.md)
+   + Uso de plantillas de envíos{#using-delivery-templates}
       + [Configuración de una plantilla de envíos](/help/sending-messages/using-delivery-templates/configuring-a-delivery-template.md)
       + [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-      + [Implementación de una plantilla de envíos por correo electrónico ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+      + [Implementación de una plantilla de envíos por correo electrónico ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
@@ -75,25 +68,25 @@ ht-degree: 95%
 + Informe {#reporting}
    + [Acceso a los informes integrados](/help/reporting/accessing-built-in-reports.md)
    + [Generación de un informe de análisis descriptivo](/help/reporting/generating-a-descriptive-analysis-report.md)
-+ Automatizar con flujo de trabajo{#automating-with-workflows}
++ Automatización con flujo de trabajo{#automating-with-workflows}
    + [Creación de un flujo de trabajo](/help/automating-with-workflows/creating-a-workflow.md)
    + [Creación de un flujo de trabajo de segmentación](/help/automating-with-workflows/creating-a-targeting-workflow.md)
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
-   + [Configuración de los flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
-   + [Configurar actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
+   + [Configuración de flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
+   + [Configuración de actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
 + Diseño de contenido{#designing-content}
    + [Configuración de las páginas de destino](/help/designing-content/configure-landingpages.md)
-+ Monitor {#monitoring}
++ Monitorización {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
-+ Integrar {#integrating}
++ Integración {#integrating}
    + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
-+ Administrar {#administrating}
++ Administración {#administrating}
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
-+ [Resolución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html)
++ [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
