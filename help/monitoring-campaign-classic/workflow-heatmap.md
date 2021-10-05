@@ -1,7 +1,7 @@
 ---
 title: Mapa de calor del flujo de trabajo
 description: Aprenda a monitorizar la carga en la instancia y planifique los flujos de trabajo en consecuencia.
-feature: Mapa de calor
+feature: Heatmap
 kt: 2093
 doc-type: feature video
 activity: understand
@@ -10,9 +10,9 @@ role: Admin
 level: Beginner
 exl-id: b6d0d4b2-3b76-4e14-ba80-c0f370274b04
 source-git-commit: d5b1d6ef2dde38e70371f2419c142224688b3b33
-workflow-type: tm+mt
-source-wordcount: '78'
-ht-degree: 89%
+workflow-type: ht
+source-wordcount: '77'
+ht-degree: 100%
 
 ---
 
@@ -24,4 +24,4 @@ El mapa de calor del flujo de trabajo de Adobe Campaign consiste en una represen
 
 ## Recursos adicionales
 
-* [Monitorización de procesos](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html)
+* [Monitorización de procesos](https://experienceleague.adobe.com/docs/campaign-classic/using/monitoring-campaign-classic/production-procedures/monitoring-processes.html?lang=es)
