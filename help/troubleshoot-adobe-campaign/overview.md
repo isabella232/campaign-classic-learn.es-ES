@@ -1,18 +1,18 @@
 ---
-title: 'Resolución de problemas de Adobe Campaign: información general'
+title: 'Solución de problemas de Adobe Campaign: información general'
 description: Encuentre ayuda sobre cómo solucionar problemas con Adobe Campaign.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner, Experienced
-source-git-commit: a244150716a6f7cb55e9ca614c83159961342e5e
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+exl-id: f8945058-4f2b-4b9c-bbb4-2761c420b278
+source-git-commit: d8b4d1f2a82b108cd94854460c858dae04cd4725
+workflow-type: ht
+source-wordcount: '54'
+ht-degree: 100%
 
 ---
 
+# Solución de problemas de Adobe Campaign: información general
 
-# Resolución de problemas de Adobe Campaign: información general
-
-Encuentre ayuda sobre cómo solucionar problemas con Adobe Campaign. La asistencia al cliente de Adobe ha proporcionado esta sección para ayudarle a solucionar problemas que pueda encontrar con Adobe Campaign Classic v7 o Adobe Campaign v8.
+Encuentre ayuda sobre cómo solucionar problemas con Adobe Campaign. Asistencia al cliente de Adobe ha proporcionado esta sección para ayudarle a solucionar problemas que pueda tener con Adobe Campaign Classic v7 o Adobe Campaign v8.
