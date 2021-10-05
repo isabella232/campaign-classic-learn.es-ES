@@ -1,8 +1,8 @@
 ---
-title: Panel de control de Campaign    - Información general
-description: El Panel de control de Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
+title: 'Panel de control de Campaign: información general'
+description: El Panel de control de Adobe Campaign permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como por ejemplo, la administración del almacenamiento SFTP por instancia, la administración de claves GPG o de subdominios y certificados.
 landing-page-description: El Panel de control de Campaign permite a los administradores monitorizar los activos clave y realizar tareas administrativas como, por ejemplo, la administración del almacenamiento SFTP, claves GPG, o subdominios y certificados.
-feature: 'Panel de control de Campaign   '
+feature: Control Panel
 kt: 3262
 doc-type: feature video
 activity: use
@@ -12,8 +12,8 @@ level: Experienced
 original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/administrating/control-panel-acc/control-panel-overview.html
 exl-id: ae4c0448-ca8a-4599-8aaa-96c8184feff7
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
-workflow-type: tm+mt
-source-wordcount: '236'
+workflow-type: ht
+source-wordcount: '234'
 ht-degree: 100%
 
 ---
