@@ -1,7 +1,7 @@
 ---
 title: Configuración de una plantilla de envíos en Adobe Campaign Classic
 description: Obtenga información sobre cómo configurar una plantilla para un envío ad hoc.
-feature: Plantillas de envíos
+feature: Delivery Templates
 kt: 1980
 thumbnail: 24066.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: b4870f22-e7d7-4257-b073-71b92e53361f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '178'
+source-wordcount: '176'
 ht-degree: 92%
 
 ---
@@ -40,7 +40,7 @@ En el siguiente vídeo se muestra cómo configurar una plantilla para un envío 
 Videotutoriales
 
 * [Configuración de las propiedades de la plantilla de envíos](/help/sending-messages/using-delivery-templates/setting-delivery-template-properties.md)
-* [Implementación de una plantilla de envíos por correo electrónico ad-hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
+* [Implementación de una plantilla de envíos por correo electrónico ad hoc](/help/sending-messages/using-delivery-templates/deploying-ad-hoc-email-delivery-template.md)
 
 Documentación:
 

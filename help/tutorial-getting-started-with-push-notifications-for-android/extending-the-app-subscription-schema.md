@@ -1,7 +1,7 @@
 ---
 title: Ampliación del esquema de suscripción de la aplicación para personalizar las notificaciones push
 description: Obtenga información sobre cómo ampliar el esquema de suscripción de la aplicación para poder almacenar valores de personalización que Campaign recibe de una aplicación móvil.
-feature: Push, extensión de esquema
+feature: Push, Schema Extension
 kt: 6451
 thumbnail: 327306.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Experienced
 exl-id: 6cc1d83c-58a1-4c83-bb4c-8a6be4a12841
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '92'
-ht-degree: 40%
+source-wordcount: '89'
+ht-degree: 38%
 
 ---
 
-# Ampliación del esquema [!UICONTROL app subscription] para personalizar las notificaciones push
+# Ampliación del [!UICONTROL app subscription] esquema para personalizar las notificaciones push
 
-Obtenga información sobre cómo ampliar el esquema [!UICONTROL app subscription] para poder almacenar los valores de personalización [!DNL Campaign] recibidos de una aplicación móvil.
+Obtenga información sobre cómo ampliar el [!UICONTROL app subscription] esquema para poder almacenar valores de personalización [!DNL Campaign] recibe de una aplicación móvil.
 
 >[!VIDEO](https://video.tv.adobe.com/v/327306?quality=12)
 

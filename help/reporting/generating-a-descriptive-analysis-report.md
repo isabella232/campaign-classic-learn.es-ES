@@ -1,7 +1,7 @@
 ---
 title: Generación de un informe de análisis descriptivo
 description: Obtenga información sobre cómo generar un informe de análisis descriptivo a partir de un flujo de trabajo en Adobe Campaign Classic.
-feature: Creación de informes
+feature: Reporting
 kt: 5079
 thumbnail: 35616.jpg
 doc-type: feature video
@@ -12,14 +12,14 @@ level: Beginner
 exl-id: cc9e256f-67bb-4bb3-aa24-da5de70fc776
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '64'
-ht-degree: 56%
+source-wordcount: '63'
+ht-degree: 55%
 
 ---
 
 # Generación de un informe de análisis descriptivo
 
-Obtenga información sobre cómo generar un [!UICONTROL descriptive analysis report] a partir de un flujo de trabajo.
+Obtenga información sobre cómo generar un [!UICONTROL descriptive analysis report] de un flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35616?quality=12)
 

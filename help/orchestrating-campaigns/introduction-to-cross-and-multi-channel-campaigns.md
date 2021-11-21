@@ -1,29 +1,27 @@
 ---
-title: Diferencia entre campañas de varios canales y entre canales
-description: Comprender la diferencia entre la campaña de varios canales y de varios canales y cuáles son los casos de uso de campañas de varios canales y de canales cruzados.
+title: Diferencia entre campañas multicanal y de varios canales
+description: Comprenda la diferencia entre campañas multicanal y en canales múltiples, y cuáles son los casos de uso de campañas multicanal y en canales múltiples.
 feature: Workflows
 kt: 7018
 thumbnail: 330984.jpg
 doc-type: feature video
 activity: use
 team: TM
-translation-type: tm+mt
-source-git-commit: b394c336a99427962618a9242109e51b7d30aeaa
+exl-id: e715497a-bd61-458c-ac7d-365f210a2fd9
+source-git-commit: 298d3745a32d4509a82295be851f6e390f33749a
 workflow-type: tm+mt
 source-wordcount: '58'
-ht-degree: 3%
+ht-degree: 89%
 
 ---
 
+# Introducción a campañas multicanal y en canales múltiples
 
-# Introducción a las campañas de múltiples canales y canales
-
-Comprender la diferencia entre la campaña de varios canales y de varios canales y cuáles son los casos de uso de campañas de varios canales y de canales cruzados.
+Comprenda la diferencia entre campañas multicanal y en canales múltiples, y cuáles son los casos de uso de campañas multicanal y en canales múltiples.
 
 >[!VIDEO](https://video.tv.adobe.com/v/330984?quality=12)
 
 ## Recursos adicionales
 
-* [Crear campañas entre canales](/help/orchestrating-campaigns/cross-channel-campaigns.md)
-* [Crear campañas de varios canales](/help/orchestrating-campaigns/multi-channel-campaigns.md)
-
+* [Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)
+* [Creación de campañas multicanal](/help/orchestrating-campaigns/multi-channel-campaigns.md)

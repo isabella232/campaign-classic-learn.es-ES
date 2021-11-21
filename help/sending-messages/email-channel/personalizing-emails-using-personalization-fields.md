@@ -1,7 +1,7 @@
 ---
 title: Personalización de correos electrónicos con campos de personalización
 description: Obtenga información sobre cómo agregar un campo de personalización a la línea de asunto y el contenido de un envío de correo electrónico.
-feature: Contenido dinámico
+feature: Dynamic Content
 kt: 5921
 thumbnail: 24925.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Beginner
 exl-id: 7f9d927f-41e8-4f8c-bcd6-5042ae64a433
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '125'
+source-wordcount: '123'
 ht-degree: 76%
 
 ---

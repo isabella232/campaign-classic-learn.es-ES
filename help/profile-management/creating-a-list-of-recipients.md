@@ -1,7 +1,7 @@
 ---
 title: Creación de una lista de destinatarios
 description: Aprenda cómo crear una audiencia configurando una lista de destinatarios desde Explorer.
-feature: Audiencias
+feature: Audiences
 kt: 2171
 thumbnail: 25602.jpg
 doc-type: feature video
@@ -12,8 +12,8 @@ level: Beginner
 exl-id: 91e3c9ea-9e5f-43bc-8ed4-ab57e6226d2b
 source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
 workflow-type: tm+mt
-source-wordcount: '107'
-ht-degree: 90%
+source-wordcount: '106'
+ht-degree: 87%
 
 ---
 

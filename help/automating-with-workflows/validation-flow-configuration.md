@@ -1,7 +1,7 @@
 ---
 title: Configuración de los flujos de trabajo de validación en Adobe Campaign Classic
 description: Obtenga información sobre cómo configurar diferentes flujos de trabajo de validación de aprobación.
-feature: Flujos de trabajo, aprobaciones
+feature: Workflows, Approvals
 kt: 1566
 doc-type: feature video
 activity: setup
@@ -11,7 +11,7 @@ level: Experienced
 exl-id: 34fbb91d-ae99-497c-872e-55ce2e6ea2aa
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '271'
+source-wordcount: '269'
 ht-degree: 96%
 
 ---
@@ -30,19 +30,19 @@ Antes de activar los pasos de aprobación, el equipo de marketing debe definir r
 * La función de revisor de Adobe Campaign dentro de una actividad de aprobación puede ser un solo revisor (Operador) o un grupo de revisores (función de operador).
 * Para permitir que los desarrolladores de campañas seleccionen a los revisores como aprobadores en una campaña o envío, un administrador debe configurar los grupos de revisores y revisores en Adobe Campaign.
 
-## Configuración de aprobaciones para campañas   {#configuring-approvals-for-campaigns}
+## Configuración de aprobaciones para campañas  {#configuring-approvals-for-campaigns}
 
 Si tiene el mismo conjunto de revisores para todas los envíos en el flujo de trabajo de la campaña, aplique la funcionalidad de aprobación de la campaña configurando las aprobaciones y los revisores en el nivel de campaña. Las tareas de aprobación y los revisores se envían a cada actividad de envío del flujo de trabajo una vez que se ejecuta el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25175?quality=12)
 
-## Configuración de aprobaciones para envíos   {#configuring-approvals-for-deliveries}
+## Configuración de aprobaciones para entregas  {#configuring-approvals-for-deliveries}
 
 También puede configurar aprobaciones en cuanto a envío. Si los pasos y revisores de las aprobaciones de envío difieren de los pasos y revisores de aprobación de campaña, la configuración de envío anula la configuración de la campaña.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25176?quality=12)
 
-## Configuración de una actividad de aprobación   {#configuring-an-approval-activity}
+## Configuración de una actividad de aprobación  {#configuring-an-approval-activity}
 
 A diferencia del envío o las aprobaciones de campaña, la actividad de aprobación permite crear un proceso de aprobación dentro de un flujo de trabajo. De este modo, la lógica de selección de objetivos se puede aprobar antes de iniciar el envío. También permite la aprobación en varios niveles dentro del flujo de trabajo si es necesario.
 

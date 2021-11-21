@@ -1,7 +1,7 @@
 ---
 title: Configuración de campañas de correo electrónico recurrentes y continuas
 description: Aprenda a configurar un envío recurrente y continuo, y comprenda las diferencias entre los dos enfoques.
-feature: Flujos de trabajo
+feature: Workflows
 kt: 1560
 doc-type: feature video
 activity: use
@@ -11,7 +11,7 @@ level: Beginner
 exl-id: 42f2a7e6-7d88-473b-b913-fe09b7016b28
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '268'
+source-wordcount: '267'
 ht-degree: 95%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 95%
 
 Este tutorial explica cómo configurar un envío recurrente y continuo, y las diferencias entre los dos enfoques.
 
-## Seguimiento de envío recurrente y continuo {#recurring-and-continuous-delivery-tracking}
+## Seguimiento de entrega recurrente y continua {#recurring-and-continuous-delivery-tracking}
 
 Los envíos recurrentes y continuos difieren en la forma en que se administran los datos de contacto:
 
@@ -34,7 +34,7 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
    ![Entrega recurrente](/help/assets/delivery_recurring.jpg)
 
-## Configuración de un envío recurrente {#how-to-set-up-a-recurring-delivery}
+## Configuración de una entrega recurrente {#how-to-set-up-a-recurring-delivery}
 
 En este vídeo se explica cómo configurar un envío recurrente y una actividad de planificador.
 
@@ -42,7 +42,7 @@ En este vídeo se explica cómo configurar un envío recurrente y una actividad 
 
 ## Configuración de envíos continuos {#how-to-set-up-a-continuous-delivery}
 
-Este vídeo muestra cómo configurar un envío continuo con una consulta incremental.
+Este vídeo muestra cómo configurar una entrega continua con una consulta incremental.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12)
 

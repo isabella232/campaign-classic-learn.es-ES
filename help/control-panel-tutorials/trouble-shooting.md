@@ -1,7 +1,7 @@
 ---
-title: Panel de control de Campaign de Solución de problemas
-description: Obtenga información sobre cómo solucionar problemas de Panel de control de Campaign.
-feature: Panel de control de Campaign
+title: Solución de problemas del Panel de control de Campaign
+description: Obtenga información sobre cómo solucionar problemas del Panel de control de Campaign.
+feature: Control Panel
 kt: 2938
 doc-type: article
 activity: use
@@ -12,35 +12,35 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 016e8b77-20df-4ca5-b5e7-fe2f3e7ba7a3
 source-git-commit: 2f8ae3d47e4debf71311f341d3c02ff3a7f5297a
 workflow-type: tm+mt
-source-wordcount: '322'
-ht-degree: 38%
+source-wordcount: '320'
+ht-degree: 100%
 
 ---
 
 # Solución de problemas [!UICONTROL Control Panel]
 
-## Inicio de sesión y página principal
+## Inicio de sesión y página de inicio
 
-### Síntoma: No se puede iniciar sesión en el Experience Cloud
+### Síntoma: no se puede iniciar sesión en Experience Cloud
 
 **Qué hacer:**
-El usuario debe localizar su ID de organización de IMS (xxx). El administrador debe agregar el usuario al Perfil de producto &quot;Campaign-xxx-administradores&quot; para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
+el usuario debe localizar su identificador de organización de IMS (xxx). El administrador debe añadir el usuario al Perfil de productos “Campaign-xxx-Admins” para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: los vínculos de la página principal de Experience Cloud para acceder a [!UICONTROL Control Panel] no aparecen para un usuario.
 
 **Causa:**
-los usuarios no ven los vínculos hasta que se añaden como usuarios al Perfil de producto  _Campaign-xxx-Administradores/Admin_.
+Los usuarios no verán los vínculos hasta que se añadan como usuarios al Perfil de productos _Campaign-xxx-Administradores/Admin_.
 
 **Qué hacer:**
-El administrador debe agregar el usuario al Perfil de productos  _Campaign-xxx-_  Administradores para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
+el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como usuario.
 
 ### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-es muy probable que el usuario deba agregarse como  ** usuarioProduct Profile  _Campaign-xxx-Administradores/_ Administrador para la instancia que falta
+Es muy probable que el usuario deba añadirse como *usuario* al Perfil de productos _Campaign-xxx-Administradores/Admin_ para la instancia que falta.
 
 **Qué hacer:**
-El administrador debe agregar el usuario al Perfil de productos  _Campaign-xxx-_  Administradores para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como &quot;usuario&quot;.
+el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario”.
 
 ### Vídeos útiles
 
@@ -62,8 +62,8 @@ El administrador debe agregar el usuario al Perfil de productos  _Campaign-xxx-_
 La conexión a los servidores SFTP requiere lo siguiente:
 
 * [!UICONTROL Allow listing] la dirección IP desde la que se está conectando al servidor SFTP.
-* Par de clave pública/privada que debe registrarse con Adobe Campaign
-* Para conectarse directamente al servidor SFTP, también necesita el software de cliente SFTP
+* Par de claves públicas/privadas que debe registrarse con Adobe Campaign
+* Para conectarse directamente al servidor SFTP, también necesitará el software de cliente SFTP
 
 ### Documentación útil {#helpful-docs}
 

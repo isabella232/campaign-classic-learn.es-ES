@@ -1,7 +1,7 @@
 ---
 title: Creación de un flujo de trabajo de segmentación
 description: Obtenga información sobre cómo definir varios objetivos de envío mediante flujos de trabajo de segmentación.
-feature: Flujos de trabajo, actividad de direccionamiento, editor de consultas
+feature: Workflows, Targeting Activity, Query Editor
 kt: 2174
 doc-type: feature video
 activity: use
@@ -11,8 +11,8 @@ level: Beginner
 exl-id: d54f5cdf-e026-41cb-b5a6-83344bb95125
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '87'
-ht-degree: 66%
+source-wordcount: '82'
+ht-degree: 64%
 
 ---
 
@@ -22,5 +22,5 @@ Adobe Campaign utiliza flujos de trabajo para llevar a cabo campañas de segment
 
 >[!VIDEO](https://video.tv.adobe.com/v/25605?quality=12)
 
-Consulte la documentación [sobre Flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
+Consulte la documentación [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=es)
 y [acerca de las actividades de segmentación](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html) para obtener más información.

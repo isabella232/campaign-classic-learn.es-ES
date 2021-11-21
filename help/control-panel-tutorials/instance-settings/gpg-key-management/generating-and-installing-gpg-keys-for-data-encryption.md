@@ -1,7 +1,7 @@
 ---
 title: Generación e instalación de claves GPG para el cifrado de datos
 description: El panel de control de Campaign le permite cifrar datos procedentes de la instancia de Adobe Campaign. Obtenga información sobre cómo generar e instalar un par de claves pública y privada en una instancia de Campaign específica para el cifrado de datos salientes.
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 5240
 thumbnail: 36386.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: 823e299e-dc61-426b-80c8-7c5cb889f04f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '106'
+source-wordcount: '104'
 ht-degree: 100%
 
 ---
@@ -26,5 +26,5 @@ El panel de control de Campaign le permite cifrar datos procedentes de la instan
 
 ## Recursos adicionales
 
-* [Administración de claves GPG:(vídeos)](./gpg-key-management-overview.md)
-* [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)
+* [Administración de claves GPG (vídeos)](./gpg-key-management-overview.md)
+* [Administración de claves GPG (documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)

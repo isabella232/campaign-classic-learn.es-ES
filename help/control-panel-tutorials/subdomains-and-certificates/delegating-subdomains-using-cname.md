@@ -1,7 +1,7 @@
 ---
 title: Delegación de subdominios mediante CNAME
 description: Aprenda a delegar completamente un subdominio a Adobe Campaign.
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 6015
 thumbnail: 326612.jpg
 doc-type: feature video
@@ -12,7 +12,7 @@ level: Experienced
 exl-id: 5845478e-8e2e-42dd-b8b1-a85687355f3f
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '93'
 ht-degree: 100%
 
 ---

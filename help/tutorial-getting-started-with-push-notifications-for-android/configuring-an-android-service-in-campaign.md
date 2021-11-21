@@ -12,12 +12,12 @@ level: Experienced
 exl-id: 47e66991-fbc4-4cbf-ad36-144a430ea62a
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '140'
-ht-degree: 26%
+source-wordcount: '139'
+ht-degree: 25%
 
 ---
 
-# Configuración de un servicio [!DNL Android] y creación de una aplicación móvil [!DNL Android] en Campaign
+# Configuración de una [!DNL Android] servicio y creación de [!DNL Android] aplicación móvil en Campaign
 
 Obtenga información sobre cómo configurar un servicio de [!DNL Android] y crear una aplicación móvil de [!DNL Android] en Campaign. Este paso es necesario para poder definir la aplicación móvil de destino para la notificación push.
 

@@ -1,7 +1,7 @@
 ---
 title: Descifrado de datos
 description: El siguiente vídeo explica cómo crear una clave pública, importarla e instalarla en una instancia de Campaign para descifrar datos.
-feature: Panel de control de Campaign
+feature: Control Panel
 kt: 5543
 thumbnail: 36482.jpg
 doc-type: feature video
@@ -13,7 +13,7 @@ original-url: https://experienceleague.adobe.com/docs/campaign-classic-learn/tut
 exl-id: d9f4be99-6e41-4c75-b3dc-bbdae1a63677
 source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
 workflow-type: tm+mt
-source-wordcount: '88'
+source-wordcount: '86'
 ht-degree: 100%
 
 ---
@@ -27,5 +27,5 @@ Aprenda cómo crear una clave pública, importarla e instalarla en una instancia
 
 ## Recursos adicionales
 
-* [Administración de claves GPG:(vídeos)](./gpg-key-management-overview.md)
-* [Administración de claves GPG:(documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)
+* [Administración de claves GPG (vídeos)](./gpg-key-management-overview.md)
+* [Administración de claves GPG (documentación)](https://experienceleague.adobe.com/docs/control-panel/using/instances-settings/gpg-keys-management.html?lang=es)
