@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
 workflow-type: tm+mt
-source-wordcount: '278'
-ht-degree: 75%
+source-wordcount: '257'
+ht-degree: 72%
 
 ---
 
@@ -21,9 +21,9 @@ ht-degree: 75%
 
 >[!NOTE]
 >
-> Todos los usuarios administradores pueden acceder al Panel de control de Campaign. Los pasos para otorgar acceso de administrador a un usuario se detallan en la [documentación del producto](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel).
+>Solo los usuarios administradores pueden acceder al Panel de control de Campaign. Obtenga más información sobre los permisos en [esta sección](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel).
 >
-> La instancia debe alojarse en AWS y actualizarse con la última [Gold Standard](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/gs-release/gs-overview.html?lang=es) versión más reciente [Versión de GA (21.1)](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/latest-release.html?lang=en#release-notes). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=en#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](https://experienceleague.adobe.com/docs/control-panel/using/faq.html?lang=es).
+>Para Campaign Classic v7, la instancia debe estar alojada en Amazon Web Service (AWS) y actualizarse a la versión más reciente [Compilación estable de Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=es#rn-statuses) (o para construir 9032 o superior). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=es#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](faq.md#hosted-aws).
 
 La variable [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar la variable [!DNL SFTP] almacenamiento por instancia, administrar [!DNL GPG] teclas, o [!UICONTROL subdomains] y [!UICONTROL certificates].
 
