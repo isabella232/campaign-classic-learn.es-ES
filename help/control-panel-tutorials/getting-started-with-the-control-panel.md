@@ -10,10 +10,10 @@ team: TM
 role: Admin
 level: Experienced
 exl-id: 797a24fc-cd4d-447e-a8c7-275e57b75716
-source-git-commit: f4cd1e05d6785abd66b83b309c98eecc97033bac
+source-git-commit: d3c8af1a3b6534f93daaa1c0a8223727679cd734
 workflow-type: tm+mt
-source-wordcount: '257'
-ht-degree: 72%
+source-wordcount: '266'
+ht-degree: 70%
 
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 72%
 >
 >Solo los usuarios administradores pueden acceder al Panel de control de Campaign. Obtenga más información sobre los permisos en [esta sección](https://experienceleague.adobe.com/docs/control-panel/using/discover-control-panel/managing-permissions.html?lang=es#discover-control-panel).
 >
->Para Campaign Classic v7, la instancia debe estar alojada en Amazon Web Service (AWS) y actualizarse a la versión más reciente [Compilación estable de Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=es#rn-statuses) (o para construir 9032 o superior). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=es#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](faq.md#hosted-aws).
+>Para Campaign Classic v7, la instancia debe estar alojada en Amazon Web Service (AWS) y actualizarse a la versión más reciente [Compilación estable de Campaign](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/rn-overview.html?lang=es#rn-statuses) (o para construir 9032 o superior). Aprenda a comprobar su versión en [esta sección](https://experienceleague.adobe.com/docs/campaign-classic/using/getting-started/starting-with-adobe-campaign/launching-adobe-campaign.html?lang=es#getting-your-campaign-version). Para comprobar si la instancia está alojada en AWS, siga los pasos detallados en [esta página](https://experienceleague.corp.adobe.com/docs/control-panel/using/faq.html?lang=en#hosted-aws).
 
 La variable [!UICONTROL Control Panel] permite a los administradores de Adobe Campaign monitorizar los activos clave y realizar tareas administrativas, como administrar la variable [!DNL SFTP] almacenamiento por instancia, administrar [!DNL GPG] teclas, o [!UICONTROL subdomains] y [!UICONTROL certificates].
 
