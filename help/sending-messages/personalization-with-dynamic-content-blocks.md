@@ -1,15 +1,15 @@
 ---
 title: Personalización de correos electrónicos con bloques de contenido dinámico
 description: Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
-feature: Dynamic Content
+feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '252'
-ht-degree: 70%
+source-wordcount: '257'
+ht-degree: 67%
 
 ---
 
@@ -43,6 +43,4 @@ Al configurar los campos de contenido condicionados, puede crear una personaliza
 
 >[!VIDEO](https://video.tv.adobe.com/v/24926?quality=12)
 
-## Recursos adicionales
-
-* [Acerca de la personalización](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en)
+Para obtener más información sobre Personalización, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=en).

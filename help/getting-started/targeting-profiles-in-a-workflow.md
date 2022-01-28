@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: c078146c-f59c-4de6-90de-4f5c6e31c096
-source-git-commit: 6dc03c7b994e4a734e2aae9e66264462d5a9bbd3
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '127'
-ht-degree: 84%
+source-wordcount: '84'
+ht-degree: 100%
 
 ---
 
@@ -28,16 +28,3 @@ Comprenda el uso de flujos de trabajo de campañas y aprenda a crear un flujo de
 * [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
 * [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
 * [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
-
-## Recursos adicionales
-
-Documentación:
-
-* [Acerca de los flujos de trabajo](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/introduction/about-workflows.html?lang=en)
-* [Acerca de las actividades de segmentación](https://experienceleague.adobe.com/docs/campaign-classic/using/automating-with-workflows/targeting-activities/about-targeting-activities.html)
-
-Tutoriales:
-
-* [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
-* [Importación de perfiles](/help/data-management/importing-profiles.md)
-* [Creación de un flujo de trabajo](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/automating-with-workflows/creating-a-workflow.html?lang=es)

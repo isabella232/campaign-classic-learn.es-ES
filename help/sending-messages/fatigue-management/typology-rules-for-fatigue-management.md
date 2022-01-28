@@ -1,7 +1,7 @@
 ---
 title: Configuración de la gestión de la fatiga mediante reglas de tipología en Adobe Campaign Classic
 description: Obtenga información sobre cómo implementar la administración de la fatiga mediante la aplicación de reglas de tipología.
-feature: Fatigue Management
+feature: Fatigue Management, Typology Rules
 kt: 1564
 doc-type: feature video
 activity: use
@@ -9,10 +9,10 @@ team: TM
 role: User
 level: Beginner
 exl-id: 1bb86ce5-39b1-4081-aa63-72b218a02f28
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '154'
-ht-degree: 58%
+source-wordcount: '143'
+ht-degree: 48%
 
 ---
 
@@ -26,7 +26,4 @@ En este vídeo se explica cómo implementar la administración de la fatiga en A
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12)
 
-## Recursos adicionales
-
-* [Acerca de las tipologías de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=es)
-* [Administración de la fatiga comercial con reglas de presión](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/pressure-rules.html?lang=es)
+Visite la documentación del producto para obtener más información [tipologías de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=es).

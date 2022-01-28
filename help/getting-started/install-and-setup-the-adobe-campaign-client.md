@@ -10,10 +10,10 @@ team: DOC
 role: User, Admin, Developer
 level: Beginner
 exl-id: d8d99d05-c974-4450-b6b4-b2c5dac27409
-source-git-commit: 8910430585bdaa0db076db9c34b34798f649d39c
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '114'
-ht-degree: 68%
+source-wordcount: '76'
+ht-degree: 38%
 
 ---
 
@@ -22,9 +22,3 @@ ht-degree: 68%
 En el siguiente vídeo se explica cómo descargar e instalar la consola del cliente de Adobe Campaign, crear y administrar las conexiones a varios entornos y comprobar el acceso a la consola del cliente de Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35124?quality=12)
-
-## Recursos adicionales
-
-* [Matriz de compatibilidad](https://experienceleague.adobe.com/docs/campaign-classic/using/release-notes/compatibility-matrix.html?lang=en#compatibility-matrix)
-* [Instalación de la consola del cliente](https://experienceleague.adobe.com/docs/campaign-classic/using/installing-campaign-classic/connect-to-campaign/installing-the-client-console.html?lang=en)
-* [Guía de implementación de Campaign Classic](https://experienceleague.adobe.com/docs/campaign-classic/using/campaign-classic-home.html?lang=es)

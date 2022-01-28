@@ -11,10 +11,10 @@ team: PM
 role: Admin
 level: Experienced
 exl-id: 16e4f5ed-fd1f-400d-8010-2c1612399596
-source-git-commit: da757603c597453ef6b7195329b5b44ab6e5c77d
+source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
 workflow-type: tm+mt
-source-wordcount: '94'
-ht-degree: 31%
+source-wordcount: '80'
+ht-degree: 20%
 
 ---
 
@@ -25,7 +25,3 @@ Para conectarse a un servidor, ya sea a través de una aplicación cliente o una
 Aprenda a añadir un intervalo de direcciones IP a la lista de permitidos.
 
 >[!VIDEO](https://video.tv.adobe.com/v/41775?quality=12)
-
-## Recursos adicionales
-
-* [Adición de intervalos de IP a la lista de permitidos (documentación)](https://experienceleague.adobe.com/docs/control-panel/using/sftp-management/ip-range-allow-listing.html?lang=es)
