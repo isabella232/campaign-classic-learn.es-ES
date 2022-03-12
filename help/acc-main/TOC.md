@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 0545c1b31654a4e50088423838cb2b4a1eca5dd4
-workflow-type: ht
-source-wordcount: '369'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '368'
+ht-degree: 98%
 
 ---
 
@@ -84,7 +84,8 @@ ht-degree: 100%
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
 + Integración {#integrating}
-   + [Cómo integrar Dynamics 365 con Adobe Campaign Classic](/help/integrations/dynamics365-integration.md)
+   + [Integración con Adobe Target](/help/integrations/target-integration.md)
+   + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/control-panel/control-panel-overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}

@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7d63f43c26182bd7ffb618392463283da0b3d307
-workflow-type: ht
-source-wordcount: '264'
-ht-degree: 100%
+source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
+workflow-type: tm+mt
+source-wordcount: '269'
+ht-degree: 93%
 
 ---
 
@@ -23,6 +23,10 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 ## Novedades
 
+* **[Integración con Adobe Target](/help/integrations/target-integration.md)**
+
+   *Aprenda a personalizar un envío con contenido dinámico servido desde Adobe Target.*
+
 * **[Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
    *Aprenda a crear y ejecutar una campaña en canales múltiples.*
@@ -30,11 +34,6 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 * **[Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)**
 
    *Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para su envío.*
-
-* **[Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)**
-
-   *Aprenda a enviar y validar una prueba.*
-
 
 ## Nuestra selección
 
