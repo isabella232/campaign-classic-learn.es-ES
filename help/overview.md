@@ -8,9 +8,9 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '269'
-ht-degree: 93%
+ht-degree: 100%
 
 ---
 
@@ -25,7 +25,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 * **[Integración con Adobe Target](/help/integrations/target-integration.md)**
 
-   *Aprenda a personalizar un envío con contenido dinámico servido desde Adobe Target.*
+   *Aprenda a personalizar una entrega con contenido dinámico servido desde Adobe Target.*
 
 * **[Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
 
