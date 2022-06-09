@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 1425897404136a6ec492b94532ea957b528d00e3
+source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
 workflow-type: tm+mt
-source-wordcount: '371'
-ht-degree: 98%
+source-wordcount: '404'
+ht-degree: 90%
 
 ---
 
@@ -43,8 +43,8 @@ ht-degree: 98%
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de entrega de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
-      + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
    + Canal de SMS {#sms-channel}
+      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
       + [Creación de una entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -91,3 +91,6 @@ ht-degree: 98%
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
++ Estrategia y liderazgo mental{#strategy}
+   + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
