@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 7048f1ac4fefb382941ec611b0b28b31f1de1df3
-workflow-type: ht
-source-wordcount: '269'
-ht-degree: 100%
+source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
+workflow-type: tm+mt
+source-wordcount: '371'
+ht-degree: 59%
 
 ---
 
@@ -19,21 +19,25 @@ ht-degree: 100%
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Classic V7.
 
 >[!INFO]
-> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
+> ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?profile.language=es).
 
 ## Novedades
 
-* **[Integración con Adobe Target](/help/integrations/target-integration.md)**
+* **[Introducción a SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
-   *Aprenda a personalizar una entrega con contenido dinámico servido desde Adobe Target.*
+   *Descubra cómo funciona SMS y cómo envía SMS Adobe Campaign*
 
-* **[Creación de campañas en canales múltiples](/help/orchestrating-campaigns/cross-channel-campaigns.md)**
+* **[Configuración de una cuenta SMS para un proveedor SMPP estándar](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
-   *Aprenda a crear y ejecutar una campaña en canales múltiples.*
+   *Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **[Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)**
+* **[Adaptar el conector SMS a su proveedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
 
-   *Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de control para su envío.*
+   *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+
+* **[Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+
+   *Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
 
 ## Nuestra selección
 
