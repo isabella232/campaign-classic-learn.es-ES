@@ -2,19 +2,19 @@
 product: adobe campaign
 sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
-user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la organización de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
+user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: 35c931b7859be5d5d4353b51ddf4f9a923f7270c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '404'
-ht-degree: 90%
+ht-degree: 100%
 
 ---
 
 
 # Tutoriales de Adobe Campaign Classic {#tutorials}
 
-+ [Adobe Campaign Classic V7](/help/overview.md)
++ [Adobe Campaign Classic versión 7](/help/overview.md)
 + Introducción {#getting-started}
    + [Introducción a Adobe Campaign Classic](/help/getting-started/introduction-to-adobe-campaign-classic.md)
    + [Instalación y configuración de un cliente de Adobe Campaign](/help/getting-started/install-and-setup-the-adobe-campaign-client.md)
@@ -22,7 +22,7 @@ ht-degree: 90%
    + [Administración de campañas de marketing](/help/getting-started/managing-marketing-campaigns.md)
    + [Creación de un plan de marketing, programas y campañas](/help/getting-started/creating-a-marketing-plan-programs-and-campaigns.md)
    + [Creación de una campaña y un correo electrónico](/help/getting-started/creating-a-campaign-and-an-email.md)
-   + [Segmentación de perfiles en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
+   + [Perfiles de destinatarios en un flujo de trabajo](/help/getting-started/targeting-profiles-in-a-workflow.md)
    + [Creación de campañas activadas por eventos](/help/getting-started/create-event-triggered-campaigns.md)
 + Administración de perfiles {#profile-management}
    + [Creación y administración de perfiles](/help/profile-management/create-and-manage-profiles.md)
@@ -44,7 +44,7 @@ ht-degree: 90%
       + [Solución de problemas de entrega de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canal de SMS {#sms-channel}
-      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html)
+      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
       + [Creación de una entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -79,7 +79,7 @@ ht-degree: 90%
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
 + Diseño de contenido{#designing-content}
-   + [Configuración de las páginas de destino](/help/designing-content/configure-landingpages.md)
+   + [Configuración de las páginas de aterrizaje](/help/designing-content/configure-landingpages.md)
 + Monitorización {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
@@ -92,5 +92,5 @@ ht-degree: 90%
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [Maximice el ROI del correo electrónico y las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=en)
+   + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
