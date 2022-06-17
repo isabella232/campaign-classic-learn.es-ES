@@ -1,6 +1,6 @@
 ---
 title: 'Tutoriales de Adobe Campaign Classic: información general'
-description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
+description: Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Standard.
 sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
@@ -8,36 +8,36 @@ level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: da73463b67cefbd617e837ec54d5632f51f8aa34
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '371'
-ht-degree: 59%
+ht-degree: 100%
 
 ---
 
 # Tutoriales de Adobe Campaign Classic V7: información general
 
-Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la organización visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Classic V7.
+Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Classic V7.
 
 >[!INFO]
 > ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096?profile.language=es).
 
 ## Novedades
 
-* **[Introducción a SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
+* **[Introducción a los SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=es)**
 
-   *Descubra cómo funciona SMS y cómo envía SMS Adobe Campaign*
+   *Descubra cómo funcionan los SMS y cómo envía SMS Adobe Campaign*
 
-* **[Configuración de una cuenta SMS para un proveedor SMPP estándar](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
+* **[Configuración de una cuenta de SMS para un proveedor SMPP estándar](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=es)**
 
-   *Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+   *Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **[Adaptar el conector SMS a su proveedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html)**
+* **[Adaptación del conector SMS al proveedor SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/adapt-sms-connector-to-smpp-provider.html?lang=es)**
 
-   *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, configurar el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
+   *Aprenda a ajustar la configuración de su SMS para gestionar los límites de conexión, el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 
-* **[Maximice el ROI del correo electrónico y aprenda las prácticas recomendadas para la renovación de la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html)**
+* **[Maximice el retorno de la inversión del correo electrónico y aprenda las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)**
 
-   *Obtenga información sobre cómo maximizar el ROI del correo electrónico y conozca las prácticas recomendadas para la renovación de la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
+   *Obtenga información sobre cómo maximizar el retorno de la inversión del correo electrónico y conozca las prácticas recomendadas para renovar la participación de los suscriptores. Descubra las estrategias para mejorar la participación de sus suscriptores y comprender el éxito general de sus campañas de correo electrónico.*
 
 ## Nuestra selección
 
