@@ -7,10 +7,10 @@ role: User, Admin, Developer
 level: Beginner
 recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 3341541a9d21a8006da1b910315b2e21efbc5e87
-workflow-type: ht
-source-wordcount: '384'
-ht-degree: 100%
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
+source-wordcount: '414'
+ht-degree: 92%
 
 ---
 
@@ -22,6 +22,10 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 > ¿Tiene preguntas? ¿Le gustaría compartir su experiencia o intercambiar ideas con sus colegas? O bien, ¿tiene comentarios sobre el contenido de aprendizaje para el equipo de Adobe? Únase a la conversación en el [hilo de la comunidad de aprendizaje de Adobe Campaign](https://experienceleaguecommunities.adobe.com:443/t5/adobe-campaign-classic/join-the-discussion-on-adobe-campaign-learning/td-p/419096).
 
 ## Novedades
+
+* **[Solución de problemas y análisis profundo del protocolo SMPP](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/smpp-deep-dive-and-troubleshooting.html)**
+
+   *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
 * **[Panel de control de Campaign para modelos de alojamiento híbridos](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-for-hybrid-hosting-models.html?lang=es)**
 
@@ -35,11 +39,11 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
    *Obtenga información sobre cómo monitorizar el rendimiento de entrega y las latencias de mensajes transaccionales de la instancia de Campaign.*
 
-* **[Introducción a los SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html?lang=es)**
+* **[Introducción a los SMS](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/introduction-to-sms.html)**
 
    *Descubra cómo funcionan los SMS y cómo envía SMS Adobe Campaign*
 
-* **[Configuración de una cuenta de SMS para un proveedor SMPP estándar](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html?lang=es)**
+* **[Configuración de una cuenta de SMS para un proveedor SMPP estándar](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/set-up-account-for-standard-smpp-provider.html)**
 
    *Aprenda a adaptar el conector SMS a su proveedor SMPP. Ajuste la configuración de SMS para gestionar los límites de conexión, configure el rendimiento máximo, la ventana de envío y el cifrado con TLS.*
 

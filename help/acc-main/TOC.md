@@ -4,8 +4,8 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 2dda295d82179e7838a3b6b76fbf79668dd6e1d7
-workflow-type: ht
+source-git-commit: 5ea94a7e00a2c9fdc9fbadb563aa61f43479cb24
+workflow-type: tm+mt
 source-wordcount: '406'
 ht-degree: 100%
 
@@ -44,7 +44,6 @@ ht-degree: 100%
       + [Solución de problemas de entrega de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canal de SMS {#sms-channel}
-      + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
       + [Creación de una entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
@@ -88,6 +87,7 @@ ht-degree: 100%
    + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
    + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target=&quot;_blank&quot;}
+   + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
