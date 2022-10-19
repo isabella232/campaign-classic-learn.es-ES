@@ -5,16 +5,15 @@ sub-product: Campaign Classic
 feature: Overview
 role: User, Admin, Developer
 level: Beginner
-recommendations: noCatalog, noDisplay
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
-source-git-commit: 10be650f7a5e001d7afb74dcab1edb7dbfc0ec96
+source-git-commit: 92d32058534303c35cf111ce9ce3836687391000
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '419'
+ht-degree: 98%
 
 ---
 
-# Tutoriales de Adobe Campaign Classic V7: información general
+# Tutoriales de Adobe Campaign Classic V7
 
 Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múltiples para los clientes y proporciona un entorno para la orquestación visual de la campaña, la administración de interacciones en tiempo real y la ejecución en canales múltiples. Esta guía del usuario contiene vídeos y tutoriales sobre las numerosas funciones y funcionalidades de Adobe Campaign Classic V7.
 
@@ -60,7 +59,7 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
 <div id="staff-picks-section">
 
-## Nuestra selección
+## Selección de personal
 
 <table>
 <tr>
