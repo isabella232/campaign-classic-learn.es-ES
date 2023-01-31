@@ -4,7 +4,7 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 4439abdb7ea767951bb2469835f4f60b0804477f
+source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
 workflow-type: tm+mt
 source-wordcount: '420'
 ht-degree: 97%
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy-and-thought-leadership/10-best-practices-to-adobe-campaign-success-for-marketers.md)
+   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
