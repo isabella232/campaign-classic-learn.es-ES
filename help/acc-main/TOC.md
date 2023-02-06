@@ -5,9 +5,9 @@ user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
-workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 97%
+workflow-type: ht
+source-wordcount: '0'
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 97%
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
-      + [Creación y diseño de entregas de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Creación y diseño de envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
@@ -41,10 +41,10 @@ ht-degree: 97%
       + [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
-      + [Solución de problemas de entrega de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
+      + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canal de SMS {#sms-channel}
-      + [Creación de una entrega de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
+      + [Creación de un envío de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
    + Canal push {#push-channel}
       + [Instalación del canal de la aplicación móvil](/help/sending-messages/mobile-channel/installing-the-mobile-app-channel.md)
       + [Configuración del canal push mediante el SDK de Experience Platform Mobile](/help/sending-messages/mobile-channel/configure-push-using-aep-mobile-sdk.md)
@@ -93,6 +93,6 @@ ht-degree: 97%
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
 + [Solución de problemas de Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-classic-learn/troubleshooting/overview.html?lang=es)
 + Estrategia y liderazgo mental{#strategy}
-   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para los especialistas en marketing](/help/strategy/10-best-practices-for-marketers.md)
+   + [Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing](/help/strategy/10-best-practices-for-marketers.md)
    + [Maximice el retorno de la inversión del correo electrónico y las prácticas recomendadas para renovar la participación de los suscriptores](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/strategy/campaign-maximize-email-best-practices.html?lang=es)
    + [Guía de prácticas recomendadas de envío](https://experienceleague.adobe.com/docs/deliverability-learn/deliverability-best-practice-guide/introduction.html?lang=es)
