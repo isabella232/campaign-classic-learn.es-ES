@@ -11,9 +11,9 @@ role: Admin, Developer
 level: Beginner
 exl-id: 0f49c286-ebb7-419d-98ab-89a8c0772636
 source-git-commit: 337ba3c5e591582ddf955ac3cb993b551872e4a1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '122'
-ht-degree: 86%
+ht-degree: 100%
 
 ---
 
@@ -28,4 +28,4 @@ Descubra cómo se crearon los bloques de contenido dinámico y cómo se utilizan
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12)
 
-Para obtener más información sobre personalización, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html).
+Para obtener más información sobre personalización, consulte la [documentación del producto](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/personalizing-deliveries/about-personalization.html?lang=es).
