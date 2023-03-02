@@ -4,10 +4,10 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: bc9d5b178d3bb3fc7d76056da0eac700aedb571d
+source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
 workflow-type: tm+mt
-source-wordcount: '420'
-ht-degree: 100%
+source-wordcount: '426'
+ht-degree: 98%
 
 ---
 
@@ -35,7 +35,8 @@ ht-degree: 100%
       + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Configuración del contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Configuración de envíos para pruebas A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Configuración de contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
