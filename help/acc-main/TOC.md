@@ -4,9 +4,9 @@ sub-product: Campaign Classic
 user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
-source-git-commit: 809be24835e288baa8d11aed3ce4d8d85149d66c
+source-git-commit: 88fcb42094f247173bb03ee5a180fd1b4c1a41db
 workflow-type: tm+mt
-source-wordcount: '426'
+source-wordcount: '430'
 ht-degree: 98%
 
 ---
@@ -84,11 +84,13 @@ ht-degree: 98%
 + Monitorización {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
++ Administración de datos {#data-management}
+   + [Datos de consulta](/help/data-management/query-data.md)
 + Integración {#integrating}
    + [Integración con Adobe Target](/help/integrations/target-integration.md)
    + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
-   + [Panel de control de Campaign](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
+   + [Panel de control](https://experienceleague.adobe.com/docs/control-panel-learn/control-panel/control-panel-overview.html?lang=es){target="_blank"}
    + [Configuración de SMS para Adobe Campaign](https://experienceleague.adobe.com/docs/campaign-learn/set-up-sms-for-adobe-campaign/overview.html?lang=es)
    + Acceso a una base de datos externa (FDA) {#fda}
       + [Administración de big data en [!DNL Snowflake]](/help/administrating/snowflake/big-data-segmentation-on-snowflake.md)
