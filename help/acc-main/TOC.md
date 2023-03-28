@@ -5,9 +5,9 @@ user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: 20e337556e1b0db8280c7ed6d64fa5ec8dcfeebf
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '441'
-ht-degree: 96%
+ht-degree: 100%
 
 ---
 
@@ -35,8 +35,8 @@ ht-degree: 96%
       + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
-      + [Configuración de envíos para pruebas A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
-      + [Configuración de contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
+      + [Configurar envíos para pruebas A/B](/help/sending-messages/email-channel/configure-deliveries-for-ab-testing.md)
+      + [Configurar contenido dinámico](/help/sending-messages/email-channel/configuring-dynamic-content.md)
       + [Personalización de correos electrónicos con bloques de contenido dinámico](/help/sending-messages/email-channel/personalization-with-dynamic-content-blocks.md)
       + [Personalización de correos electrónicos con campo de personalización](/help/sending-messages/email-channel/personalizing-emails-using-personalization-fields.md)
       + [Personalización de correos electrónicos: creación de una newsletter en varios idiomas con contenido condicional](/help/sending-messages/email-channel/personalizing-emails-create-a-multi-lingual-newsletter-using-conditional-content.md)
@@ -74,22 +74,22 @@ ht-degree: 96%
    + [Refinamiento de destinatarios combinando resultados de consultas](/help/automating-with-workflows/refining-targets-by-combining-query-results.md)
    + [Refinamiento de destinatarios excluyendo resultados de consultas](/help/automating-with-workflows/refining-targets-by-excluding-query-results.md)
    + [Uso de la actividad de lista de actualización para crear una lista con un flujo de trabajo](/help/automating-with-workflows/using-the-update-list-activity.md)
-   + [Administración de zonas horarias](/help/automating-with-workflows/manage-time-zones.md)
+   + [Administrar zonas horarias](/help/automating-with-workflows/manage-time-zones.md)
    + [Configuración de flujos de trabajo de validación](/help/automating-with-workflows/validation-flow-configuration.md)
    + [Configuración de actividades de enriquecimiento](/help/automating-with-workflows/enrichment-activity.md)
-   + [Configuración de actividades del planificador](/help/automating-with-workflows/configure-scheduler-activities.md)
+   + [Configurar actividades del planificador](/help/automating-with-workflows/configure-scheduler-activities.md)
    + [Segmentación de datos](/help/data-management/data-segmentation.md)
    + [Administración de aprobaciones](/help/automating-with-workflows/managing-approvals.md)
    + [Aprenda de sus compañeros: prácticas recomendadas de flujo de trabajo](/help/automating-with-workflows/workflow-best-practices-for-marketers.md)
-+ Configuración de las páginas de aterrizaje {#landing-pages}
-   + [Configuración de las páginas de aterrizaje](/help/designing-content/configure-landingpages.md)
++ Configurar las páginas de aterrizaje {#landing-pages}
+   + [Configurar las páginas de aterrizaje](/help/designing-content/configure-landingpages.md)
    + [Crear un centro de preferencias](/help/designing-content/create-a-preference-center.md)
 + Monitorización {#monitoring}
    + [Mapa de calor del flujo de trabajo](/help/monitoring-campaign-classic/workflow-heatmap.md)
    + [Pista de auditoría](/help/monitoring-campaign-classic/audit-trail.md)
 + Administración de datos {#data-management}
    + [Datos de consulta](/help/data-management/query-data.md)
-+ Integración {#integrating}
++ Integrar {#integrating}
    + [Integración con Adobe Target](/help/integrations/target-integration.md)
    + [Integración con Dynamics 365](/help/integrations/dynamics365-integration.md)
 + Administración {#administrating}
