@@ -1,6 +1,6 @@
 ---
-title: Configuración de envíos para pruebas A/B
-description: Obtenga información sobre cómo configurar un envío para pruebas A/B.
+title: Configurar envíos para pruebas A/B
+description: Obtenga información sobre cómo configurar un envío para las pruebas A/B.
 feature: A/B Testing
 kt: 11910
 doc-type: feature video
@@ -10,15 +10,15 @@ role: User
 level: Beginner
 last-substantial-update: 2023-02-01T00:00:00Z
 source-git-commit: 1710eaba4ab5860fa8c5c71f4d0e3749824c07a0
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '32'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Configuración de envíos para pruebas A/B
+# Configurar envíos para pruebas A/B
 
-Obtenga información sobre cómo configurar un envío para pruebas A/B.
+Obtenga información sobre cómo configurar un envío para las pruebas A/B.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3415929?quality=12)
