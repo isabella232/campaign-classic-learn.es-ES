@@ -5,9 +5,9 @@ user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: d91185009803755731f07a0b187dd60cf9141699
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '452'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -31,7 +31,7 @@ ht-degree: 98%
    + [Creación de una lista de destinatarios con un flujo de trabajo](/help/profile-management/creating-a-list-of-recipients-with-a-workflow.md)
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
-      + [Creación y diseño de envíos de correo electrónico](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
+      + [Creación y diseño de envíos de correos electrónicos](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
       + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
@@ -43,7 +43,7 @@ ht-degree: 98%
       + [Configuración de campañas de correo electrónico recurrentes y continuas](/help/sending-messages/recurring-deliveries.md)
       + [Definición del contenido de correo electrónico interactivo con AMP](/help/sending-messages/email-channel/defining-interactive-email-content-with-amp.md)
       + [Solución de problemas de envío de correo electrónico](/help/sending-messages/email-channel/troubleshooting-email-delivery-issues.md)
-      + [Añadir archivos adjuntos a un envío de correo electrónico](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
+      + [Adición de archivos adjuntos a un envío de correo electrónico](/help/sending-messages/email-channel/add-attachments-to-an-email-delivery.md)
       + [Diseño de correos electrónicos para su envío](/help/sending-messages/email-channel/design-emails-for-deliverability.md)
    + Canal de SMS {#sms-channel}
       + [Creación de un envío de SMS](/help/sending-messages/mobile-channel/create-a-sms-delivery.md)
@@ -60,7 +60,7 @@ ht-degree: 98%
    + Administración de fatiga{#fatigue-management}
       + [Uso de las reglas de tipología](/help/sending-messages/fatigue-management/typology-rules-for-fatigue-management.md)
       + [Uso de filtros predefinidos](/help/sending-messages/fatigue-management/fatigue-management-using-filters.md)
-   + Supervisión de mensajes {#monitoring-messages}
+   + Monitorización de mensajes {#monitoring-messages}
       + [Comprensión de la administración de cuarentenas](/help/sending-messages/quarantine-management.md)
    + [Configuración y administración de servicios de suscripción](/help/sending-messages/configuring-and-managing-subscription-services.md)
 + Organización de campañas {#orchestration}
