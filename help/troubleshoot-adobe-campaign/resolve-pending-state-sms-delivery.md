@@ -1,6 +1,6 @@
 ---
-title: Entrega de SMS en estado pendiente
-description: Obtenga información sobre cómo resolver el problema de una entrega de SMS en el estado pendiente para la cuenta externa recién creada.
+title: Envío de SMS en estado pendiente
+description: Obtenga información sobre cómo resolver el problema de un envío de SMS en el estado pendiente para la cuenta externa recién creada.
 feature: SMS
 role: Admin
 level: Experienced
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Entrega de SMS en estado pendiente
+# Envío de SMS en estado pendiente
 
-Obtenga información sobre cómo resolver el problema de una entrega de SMS en el estado pendiente para la cuenta externa recién creada.
+Obtenga información sobre cómo resolver el problema de un envío de SMS en el estado pendiente para la cuenta externa recién creada.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335986?quality=12&learn=on)
