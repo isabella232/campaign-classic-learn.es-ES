@@ -1,6 +1,6 @@
 ---
-title: Depuración del error de mensaje cancelado en una entrega
-description: Obtenga información sobre cómo resolver el error de mensaje cancelado (representación no disponible) en una entrega.
+title: Depuración del error de mensaje cancelado en un envío
+description: Obtenga información sobre cómo resolver el error de mensaje cancelado (representación no disponible) en un envío.
 feature: Email
 role: Admin
 level: Experienced
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Depuración del error de mensaje cancelado en una entrega
+# Depuración del error de mensaje cancelado en un envío
 
-Obtenga información sobre cómo resolver el error de mensaje cancelado (representación no disponible) en una entrega.
+Obtenga información sobre cómo resolver el error de mensaje cancelado (representación no disponible) en un envío.
 
 >[!VIDEO](https://video.tv.adobe.com/v/335895?quality=12&learn=on)
