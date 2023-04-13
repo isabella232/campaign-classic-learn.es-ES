@@ -1,6 +1,6 @@
 ---
-title: Recuperación de datos xml de entrega
-description: Obtenga información sobre cómo recuperar datos de entrega xml desde un flujo de trabajo
+title: Recuperación de datos xml de envío
+description: Obtenga información sobre cómo recuperar datos de envío xml desde un flujo de trabajo
 feature: Task Management
 role: Admin
 level: Experienced
@@ -14,8 +14,8 @@ ht-degree: 100%
 
 ---
 
-# Recuperación de datos XML de entrega
+# Recuperación de datos XML de envío
 
-Obtenga información sobre cómo recuperar datos XML de entrega
+Obtenga información sobre cómo recuperar datos XML de envío
 
 >[!VIDEO](https://video.tv.adobe.com/v/335949?quality=12&learn=on)
