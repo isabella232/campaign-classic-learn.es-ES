@@ -6,13 +6,13 @@ role: User
 level: Beginner
 kt: 11772
 last-substantial-update: 2023-01-31T00:00:00Z
-source-git-commit: 0b09ff13e4ed7da2629cf8eb92360665968d8541
+exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
+source-git-commit: 4655ed710e38c0d3cbb3eb5566ab5d13dc26ed44
 workflow-type: tm+mt
 source-wordcount: '1279'
 ht-degree: 100%
 
 ---
-
 
 # Diez prácticas recomendadas para el éxito de [!DNL Adobe Campaign] de los expertos en marketing
 
@@ -85,4 +85,4 @@ Al probar cosas nuevas, no siempre se acierta a la primera. Por lo tanto, es cru
 
 El mercado sigue cambiando y moviéndose a un ritmo cada vez mayor. Animar a sus equipos de campaña a mantenerse lo más ligeros y ágiles posible es fundamental para competir y seguir cumpliendo con las crecientes expectativas de los clientes.
 
-[Un 35% de los líderes de marketing digital creen que los mayores desafíos provienen de su organización](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Para ello, siga cursos de formación en algunas plataformas, aumente su comprensión de los flujos y la estructura de datos u otras soluciones de Adobe y cree planes de contingencia para las campañas. Esta mentalidad puede lograrse de muchas maneras, pero un compromiso general con la agilidad y la planificación es fundamental para lograr el éxito a corto y largo plazo.
+[Un 35% de los líderes de marketing digital creen que los mayores retos provienen de su organización](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Para ello, siga cursos de formación en algunas plataformas, aumente su comprensión de los flujos y la estructura de datos u otras soluciones de Adobe y cree planes de contingencia para las campañas. Esta mentalidad puede lograrse de muchas maneras, pero un compromiso general con la agilidad y la planificación es fundamental para lograr el éxito a corto y largo plazo.
