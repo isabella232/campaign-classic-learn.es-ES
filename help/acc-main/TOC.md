@@ -5,9 +5,9 @@ user-guide-title: Tutoriales de Adobe Campaign Classic
 user-guide-description: Adobe Campaign Classic permite a los especialistas en marketing diseñar experiencias de clientes de varios canales y proporciona un entorno para la orquestación de campañas visuales, la administración de interacciones en tiempo real y la ejecución en varios canales.
 breadcrumb-title: Tutoriales
 source-git-commit: 3812f2852958edb7be5fca16fe2e5e9b31a91199
-workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+workflow-type: ht
+source-wordcount: '459'
+ht-degree: 100%
 
 ---
 
@@ -32,7 +32,7 @@ ht-degree: 0%
 + Envío de mensajes{#sending-messages}
    + Canal de correo electrónico{#email-channel}
       + [Creación y diseño de envíos de correos electrónicos](/help/sending-messages/email-channel/create-and-design-email-deliveries.md)
-      + [Diseño del contenido de envío de correo electrónico](/help/sending-messages/email-channel/design-email-delivery-content.md)
+      + [Diseño del contenido de los envíos de correo electrónico](/help/sending-messages/email-channel/design-email-delivery-content.md)
       + [Administración de semillas y pruebas en un correo electrónico](/help/sending-messages/email-channel/managing-seed-and-proofs.md)
       + [Envío y validación de pruebas](/help/sending-messages/email-channel/send-and-validate-proofs.md)
       + [Uso de grupos de control](/help/sending-messages/email-channel/use-control-groups.md)
