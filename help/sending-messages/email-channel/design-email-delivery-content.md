@@ -1,6 +1,6 @@
 ---
-title: Diseño del contenido de envío de correo electrónico
-description: Obtenga información sobre cómo configurar, personalizar y probar el contenido de envío de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos, incrustar códigos de barras y códigos QR.
+title: Diseño del contenido de los envíos de correo electrónico
+description: Obtenga información sobre cómo configurar, personalizar y probar el contenido de los envíos de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos e incrustar códigos de barras y códigos QR.
 feature: Email
 role: User
 level: Beginner
@@ -9,15 +9,15 @@ last-substantial-update: 2023-05-02T00:00:00Z
 jira: KT-11928
 thumbnail: 3419047.jpeg
 source-git-commit: ac30c9a71bac8a827ecd4e16ddca27f9e88ffa7e
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '60'
-ht-degree: 0%
+ht-degree: 100%
 
 ---
 
 
-# Diseño del contenido de envío de correo electrónico
+# Diseño del contenido de los envíos de correo electrónico
 
-Obtenga información sobre cómo configurar, personalizar y probar el contenido de envío de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos, incrustar códigos de barras y códigos QR.
+Obtenga información sobre cómo configurar, personalizar y probar el contenido de los envíos de correo electrónico. Obtenga información sobre cómo utilizar plantillas, cargar imágenes, añadir emoticonos e incrustar códigos de barras y códigos QR.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419047/?learn=on)
