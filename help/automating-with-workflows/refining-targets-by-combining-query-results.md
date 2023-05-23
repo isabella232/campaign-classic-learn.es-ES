@@ -19,6 +19,6 @@ ht-degree: 64%
 
 # Refinamiento de destinatarios combinando resultados de consultas
 
-Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo utilizando la variable **[!UICONTROL intersection]** o **[!UICONTROL union]** actividades.
+Aprenda a refinar el destinatario combinando los resultados de la consulta en un flujo de trabajo mediante **[!UICONTROL intersection]** o el **[!UICONTROL union]** actividades.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36832?quality=12&learn=on)

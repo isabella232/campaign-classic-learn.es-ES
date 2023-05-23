@@ -19,6 +19,6 @@ ht-degree: 82%
 
 # Refinamiento de destinatarios excluyendo resultados de consultas
 
-Aprenda a refinar el objetivo aplicando una **[!UICONTROL standard exclusion]** a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
+Aprenda a refinar el destinatario aplicando una **[!UICONTROL standard exclusion]** a un flujo de trabajo. También aprenderá a crear filtros predefinidos y a crear problemas en el flujo de trabajo.
 
 >[!VIDEO](https://video.tv.adobe.com/v/36826?quality=12&learn=on)

@@ -7,7 +7,7 @@ role: User, Admin, Developer
 level: Beginner
 exl-id: b272ed1f-89e7-489f-9215-52215cbe18b7
 source-git-commit: 24ef8cdb92d45d24fc15f23045deae137d018b10
-workflow-type: ht
+workflow-type: tm+mt
 source-wordcount: '413'
 ht-degree: 100%
 
@@ -28,15 +28,15 @@ Adobe Campaign ofrece una plataforma para diseñar experiencias en canales múlt
 
    *Aprenda cómo se establecen las conexiones SMPP y cómo SMPP intercambia datos a través de PDU. Obtenga información sobre cómo solucionar problemas de conexiones.*
 
-* **[Panel de control de Campaign para modelos de alojamiento híbridos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=es)**
+* **[Panel de control para modelos de alojamiento híbridos](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/control-panel-for-hybrid-hosting-models.html?lang=es)**
 
-   *Obtenga información sobre cómo habilitar el Panel de control de Campaign para los modelos de alojamiento híbridos de Adobe Campaign, acceder al Panel de control de Campaign y desbloquear funciones clave.*
+   *Obtenga información sobre cómo habilitar el Panel de control para los modelos de alojamiento híbridos de Adobe Campaign, acceder al Panel de control y desbloquear funciones clave.*
 
 * **[Panel de control: monitorización de flujos de trabajo](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-workflows.html?lang=es){target="_blank"}**
 
    *Obtenga información sobre cómo monitorizar el uso temporal del almacenamiento de sus flujos de trabajo y dónde ajustar la configuración de flujos de trabajo para evitar problemas de la base de datos o del flujo de trabajo en su instancia.*
 
-* **[Panel de control de Campaign: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target="_blank"}**
+* **[Panel de control: monitorización de rendimiento y latencia](https://experienceleague.adobe.com/docs/control-panel-learn/tutorials/performance-monitoring/monitor-throughputs-and-latency.html?lang=es){target="_blank"}**
 
    *Obtenga información sobre cómo monitorizar el rendimiento de envío y las latencias de mensajes transaccionales de la instancia de Campaign.*
 

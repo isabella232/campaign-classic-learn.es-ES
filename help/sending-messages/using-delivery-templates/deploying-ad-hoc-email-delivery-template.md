@@ -1,6 +1,6 @@
 ---
-title: Implementación de una plantilla de envíos de correo electrónico ad-hoc en Adobe Campaign Classic
-description: Aprenda a implementar una plantilla de envíos de correo electrónico ad-hoc y comprenda la diferencia entre un envío de correo electrónico y un flujo de trabajo de envío.
+title: Implementación de una plantilla de envíos por correo electrónico ad-hoc en Adobe Campaign Classic
+description: Obtenga información sobre cómo implementar una plantilla de envíos de correo electrónico ad-hoc y comprenda la diferencia entre un envío de correo electrónico y un flujo de trabajo de envío.
 feature: Delivery Templates
 kt: 1565
 thumbnail: 24065.jpg

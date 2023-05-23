@@ -1,5 +1,5 @@
 ---
-title: Configurar páginas de aterrizaje
+title: Configuración de páginas de aterrizaje
 description: Obtenga información sobre cómo crear y configurar páginas de aterrizaje.
 feature: Landing Pages
 kt: 11918
@@ -17,7 +17,7 @@ ht-degree: 0%
 
 ---
 
-# Configurar páginas de aterrizaje
+# Configuración de páginas de aterrizaje
 
 Obtenga información sobre cómo crear y configurar páginas de aterrizaje.
 

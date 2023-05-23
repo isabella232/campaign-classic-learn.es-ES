@@ -1,6 +1,6 @@
 ---
 title: Solución de problemas del Panel de control
-description: El Panel de control de Campaign le permite monitorizar y administrar su almacenamiento SFTP por instancia y lista de permitidos de direcciones IP.
+description: El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia y lista de permitidos con direcciones IP.
 feature: Control Panel
 kt: 2938
 doc-type: article
@@ -34,7 +34,7 @@ el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Ad
 ### Síntoma: una instancia no aparece en la lista de [!UICONTROL Control Panel]
 
 **Causa:**
-Lo más probable es que el usuario deba agregarse como un perfil de producto de &quot;usuario&quot; _Campaign-xxx-Administradores/Admin_ para la instancia que falta
+Es muy probable que el usuario deba añadirse como &quot;usuario&quot; al perfil de producto _Campaign-xxx-Administradores/Admin_ para la instancia que falta
 
 **Qué hacer:**
 el administrador debe añadir el usuario al Perfil de productos _Campaign-xxx-Admins_ para cada instancia que desee administrar. Si el usuario es administrador de todas las instancias, debe añadirse como “usuario”.

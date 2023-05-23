@@ -1,6 +1,6 @@
 ---
 title: Crear un centro de preferencias
-description: Aprenda a crear un centro de preferencias con el editor de aplicaciones web de Adobe Campaign.
+description: Aprenda a crear un centro de preferencias mediante el editor de aplicaciones web de Adobe Campaign.
 feature: Landing Pages
 kt: 1562
 thumbnail: 25041.jpg
@@ -20,7 +20,7 @@ ht-degree: 14%
 
 # Crear un centro de preferencias
 
-Aprenda a crear un centro de preferencias con el editor de aplicaciones web de Adobe Campaign.
+Aprenda a crear un centro de preferencias mediante el editor de aplicaciones web de Adobe Campaign.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25041?quality=12&learn=on)
 

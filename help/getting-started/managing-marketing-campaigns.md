@@ -1,6 +1,6 @@
 ---
 title: Administración de campañas de marketing
-description: Comprenda los conceptos clave de Adobe Campaign que le ayudan a planificar, ejecutar y medir de forma eficaz las campañas de marketing multicanal.
+description: Comprender los conceptos clave de Adobe Campaign para planificar, ejecutar y medir de manera eficaz las campañas de marketing multicanal.
 feature: Campaigns
 kt: 5077
 thumbnail: 35131.jpg
@@ -19,6 +19,6 @@ ht-degree: 15%
 
 # Administración de campañas de marketing
 
-Comprender los conceptos clave de [!UICONTROL Adobe Campaign] que le ayudan a planificar, ejecutar y medir de forma eficaz las campañas de marketing multicanal.
+Comprender los conceptos clave de [!UICONTROL Adobe Campaign] que le ayudan a planificar, ejecutar y medir de manera eficaz las campañas de marketing entre canales.
 
 >[!VIDEO](https://video.tv.adobe.com/v/35131?quality=12&learn=on)

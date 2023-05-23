@@ -1,6 +1,6 @@
 ---
 title: Configuración y envío de notificaciones push
-description: Obtenga información sobre cómo configurar y enviar una notificación push a usuarios de aplicaciones de Android.
+description: Obtenga información sobre cómo configurar y enviar una notificación push a usuarios de aplicaciones Android.
 feature: Push
 kt: 6579
 thumbnail: 328154.jpg
@@ -25,5 +25,5 @@ Obtenga información sobre cómo configurar y enviar un [!DNL push] notificació
 
 **Paso anterior**
 
-Paso 2: [Configuración de un servicio de Android y creación de una aplicación móvil de Android en Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
+Paso 2: [Configuración de un servicio de Android y de una aplicación móvil de Android en Campaign](/help/tutorial-getting-started-with-push-notifications-for-android/configuring-an-android-service-in-campaign.md)
 

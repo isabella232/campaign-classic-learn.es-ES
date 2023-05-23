@@ -1,5 +1,5 @@
 ---
-title: Diferencia entre campañas multicanal y de varios canales
+title: Diferencia entre campañas en canales múltiples y multicanal
 description: Comprenda la diferencia entre campañas multicanal y en canales múltiples, y cuáles son los casos de uso de campañas multicanal y en canales múltiples.
 feature: Cross Channel Orchestration
 kt: 7018

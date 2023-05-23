@@ -1,6 +1,6 @@
 ---
 title: Personalización de correos electrónicos con bloques de contenido dinámico
-description: Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
+description: Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envío y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
 feature: Dynamic Content, Personalization
 kt: 1559
 doc-type: feature video
@@ -23,11 +23,11 @@ En Adobe Campaign, puede personalizar el contenido o el aspecto de los mensajes 
 3 - Insertar campos de personalización dinámicos.\
 4 - Crear contenido condicional.
 
-Este tutorial muestra cómo personalizar el contenido de la entrega, utilizar el código JavaScript en las plantillas de entrega y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
+Este tutorial muestra cómo personalizar el contenido de envío, utilizar el código JavaScript en las plantillas de envío y estandarizar y compartir bloques de contenido en diferentes plantillas de envío.
 
 ## Crear y añadir un bloque de personalización a un envío
 
-Un bloque personalizado es dinámico y contiene código de renderización específico que se puede añadir a los envíos. Por ejemplo, puede añadir imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos de bajas y mucho más.
+Un bloque de personalización es dinámico y contiene un código de procesamiento específico que se puede añadir a los envíos. Por ejemplo, puede añadir imágenes, encabezados de correo electrónico, pies de página de correo electrónico, vínculos de página espejo, vínculos de bajas y mucho más.
 
 >[!VIDEO](https://video.tv.adobe.com/v/24924?quality=12&learn=on)
 

@@ -20,7 +20,7 @@ ht-degree: 100%
 
 Este tutorial explica cómo configurar un envío recurrente y continuo, y las diferencias entre los dos enfoques.
 
-## Seguimiento de entrega recurrente y continua {#recurring-and-continuous-delivery-tracking}
+## Seguimiento de envío recurrente y continuo {#recurring-and-continuous-delivery-tracking}
 
 Los envíos recurrentes y continuos difieren en la forma en que se administran los datos de contacto:
 
@@ -34,7 +34,7 @@ Los envíos recurrentes y continuos difieren en la forma en que se administran l
 
    ![Entrega recurrente](/help/assets/delivery_recurring.jpg)
 
-## Configuración de una entrega recurrente {#how-to-set-up-a-recurring-delivery}
+## Configuración de un envío recurrente {#how-to-set-up-a-recurring-delivery}
 
 En este vídeo se explica cómo configurar un envío recurrente y una actividad de planificador.
 
@@ -42,6 +42,6 @@ En este vídeo se explica cómo configurar un envío recurrente y una actividad 
 
 ## Configuración de envíos continuos {#how-to-set-up-a-continuous-delivery}
 
-Este vídeo muestra cómo configurar una entrega continua con una consulta incremental.
+Este vídeo muestra cómo configurar un envío continua con una consulta incremental.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25039?quality=12&learn=on)

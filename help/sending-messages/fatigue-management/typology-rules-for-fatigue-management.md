@@ -1,5 +1,5 @@
 ---
-title: Configuración de la gestión de la fatiga mediante reglas de tipología en Adobe Campaign Classic
+title: Configuración de la administración de la fatiga mediante reglas de tipología en Adobe Campaign Classic
 description: Obtenga información sobre cómo implementar la administración de la fatiga mediante la aplicación de reglas de tipología.
 feature: Fatigue Management, Typology Rules
 kt: 1564
@@ -20,10 +20,10 @@ ht-degree: 48%
 
 La administración de la fatiga controla la frecuencia y la cantidad de mensajes para evitar la saturación de destinatarios y a menudo se aplica usando reglas de tipología.
 
-Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todas los envíos de forma más eficaz para controlar la mensajería de campaña a los clientes. Esto se logra eliminando la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Destinatarios que coinciden con criterios dentro de un *regla de tipología* se excluyen del envío durante la fase de análisis.
+Las reglas de tipología permiten a los especialistas en marketing estandarizar las prácticas comerciales en todas los envíos de forma más eficaz para controlar la mensajería de campaña a los clientes. Para ello, eliminan la necesidad de aplicar exclusiones o reglas comúnmente utilizadas a cada campaña individual. Destinatarios que coinciden con criterios dentro de un *reglas de tipología* se excluyen del envío durante la fase de análisis.
 
 En este vídeo se explica cómo implementar la administración de la fatiga en Adobe Campaign Classic mediante la aplicación de reglas de tipología.
 
 >[!VIDEO](https://video.tv.adobe.com/v/25090?quality=12&learn=on)
 
-Visite la documentación del producto para obtener más información [tipologías de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=es).
+Visite la documentación del producto para obtener más información sobre [tipologías de campaña](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/campaign-optimization/about-campaign-typologies.html?lang=es).
