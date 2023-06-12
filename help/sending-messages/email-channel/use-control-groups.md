@@ -10,10 +10,10 @@ team: WWFRE
 role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
-source-git-commit: d56ae485ffdd3ccaf75a0cf76652f2ade7f61fed
+source-git-commit: 0b52f82b3047b47ef46342811fa0d42cc574b7d8
 workflow-type: tm+mt
-source-wordcount: '86'
-ht-degree: 48%
+source-wordcount: '109'
+ht-degree: 38%
 
 ---
 
@@ -23,8 +23,7 @@ Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de contr
 
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
-Consulte la documentación del producto para obtener más información sobre lo siguiente:
-
-* [Definición de grupos de control](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
-* [Definición de la población objetivo del envío](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
-
+>[!IMPORTANT]
+>Si hay varios envíos en el flujo de trabajo de objetivos, debe habilitar la configuración del grupo de control en el nivel de entrega y en la configuración de la campaña.
+>Consulte la documentación del producto para obtener más información sobre [cómo definir grupos de control](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"}
+y [la población de destinatarios del envío](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
