@@ -2,11 +2,11 @@
 title: Solución de problemas del Panel de control
 description: El Panel de control de Campaign le permite supervisar y administrar su almacenamiento SFTP por instancia y lista de permitidos con direcciones IP.
 feature: Control Panel
-kt: 2938
+jira: KT-2938
 doc-type: article
 activity: use
 team: PM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '330'
 ht-degree: 84%

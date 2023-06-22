@@ -2,11 +2,11 @@
 title: Actividad de envíos de correos electrónicos y actividad de envíos en Adobe Campaign Classic
 description: En este vídeo se explica cómo configurar y utilizar una plantilla de envíos.
 feature: Delivery Templates, Email
-kt: 3232
+jira: KT-3232
 doc-type: feature video
 activity: use
 team: TM
-source-git-commit: 13f7ab2dd41216a603a22f181dc4d06302c5918a
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '63'
 ht-degree: 100%

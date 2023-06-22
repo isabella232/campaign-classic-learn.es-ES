@@ -2,7 +2,7 @@
 title: 'Personalización de correos electrónicos: creación de una newsletter multilingüe con contenido condicional'
 description: Aprenda a añadir contenido condicional a un envío con el ejemplo de una newsletter en varios idiomas.
 feature: Personalization
-kt: 5922
+jira: KT-5922
 thumbnail: 24926.jpg
 doc-type: feature video
 activity: use
@@ -10,7 +10,7 @@ team: TM
 role: User
 level: Beginner
 exl-id: 080f5229-9eae-45b6-b0e0-13b4721ad79c
-source-git-commit: f155a48a2eea11867a217051741941d57ad54915
+source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
 workflow-type: tm+mt
 source-wordcount: '91'
 ht-degree: 80%
