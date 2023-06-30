@@ -11,9 +11,9 @@ role: User
 level: Beginner
 exl-id: e0128b5f-3f09-460b-8524-624edeb27c4f
 source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '107'
-ht-degree: 39%
+ht-degree: 100%
 
 ---
 
@@ -24,5 +24,5 @@ Comprenda el concepto de grupo de control y aprenda a utilizar un grupo de contr
 >[!VIDEO](https://video.tv.adobe.com/v/330955?quality=12&learn=on)
 
 >[!IMPORTANT]
->Si hay varios envíos en el flujo de trabajo de objetivos, debe habilitar la configuración del grupo de control tanto en el nivel de entrega como en la configuración de la campaña.
->Consulte la documentación del producto para obtener más información sobre [cómo definir grupos de control](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=en#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=en){target="_blank"}
+>Si hay varios envíos en el flujo de trabajo de segmentación, deberá habilitar la configuración del grupo de control tanto a nivel de envío como en la configuración de la campaña.
+>Consulte la documentación del producto para obtener más información sobre [cómo definir grupos de control](https://experienceleague.adobe.com/docs/campaign-classic/using/orchestrating-campaigns/orchestrate-campaigns/marketing-campaign-target.html?lang=es#defining-a-control-group){target="_blank"} and [the delivery target population](https://experienceleague.adobe.com/docs/campaign-classic/using/sending-messages/key-steps-when-creating-a-delivery/steps-defining-the-target-population.html?lang=es){target="_blank"}
