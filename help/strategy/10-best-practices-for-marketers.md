@@ -2,15 +2,16 @@
 title: Diez prácticas recomendadas para el éxito de Adobe Campaign para expertos en marketing
 description: Conozca las diez prácticas recomendadas que ayudarán a los profesionales de Adobe Campaign a desbloquear y acelerar la transformación del consumidor digital y a mejorar la experiencia de sus clientes.
 doc-type: article
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: 7152c09f-7ea0-49a8-ac3b-cc304d42c7e4
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
-workflow-type: ht
+source-git-commit: eae208987b8430773421cba7aec2f77d5441b618
+workflow-type: tm+mt
 source-wordcount: '1279'
-ht-degree: 100%
+ht-degree: 99%
 
 ---
 
@@ -49,7 +50,7 @@ Al igual que sus clientes, tiene una rutina diaria. El envío y la orquestación
 
 Por ejemplo, si sus clientes consultan el teléfono por la mañana en busca de las mejores ofertas, contemple la posibilidad de enviarles un mensaje de promoción. Si por la noche navegan en busca de la próxima tendencia, contemple la posibilidad de enviar un correo electrónico de seguimiento con un código de promoción de envío gratuito. También es importante usar la herramienta de mapa de calor en [!DNL Campaign] para realizar un seguimiento de cuándo se ejecutan los flujos de trabajo y los envíos. Coordinar y facilitar las comunicaciones entre múltiples marcas puede ser un desafío. [Vigilar y conocer el ritmo, la cadencia y el tiempo de sus correos electrónicos](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=es) tienen un valor incalculable para la estabilidad general y la solidez de su mensaje y de la instancia de Campaign.
 
-## 4. Utilizar la personalización cuando sea relevante
+## 4. Utilice la personalización cuando sea importante
 
 En la actualidad, los consumidores esperan cierto nivel de personalización en los mensajes que reciben. [El 80 % de los clientes son más propensos a comprar una marca que ofrece experiencias personalizadas](https://us.epsilon.com/power-of-me). Su nombre en la línea de asunto es excelente. Sin embargo, la personalización puede ir mucho más lejos. Puede incluir los productos que ha explorado, conectarlos con productos similares o seguir reforzando la experiencia cohesiva y el aspecto de la marca. Cada bit cuenta e impulsa la participación y las tasas de apertura de los mensajes.
 
