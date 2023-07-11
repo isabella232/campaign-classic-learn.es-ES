@@ -1,14 +1,16 @@
 ---
 title: Comprensión de la administración de cuarentenas
-description: Conozca cómo funciona la administración de cuarentenas en Adobe Campaign y aprenda a gestionar las direcciones en cuarentena.
+description: Obtenga información sobre cómo funciona la administración de cuarentenas en Adobe Campaign y aprenda a gestionar las direcciones en cuarentena.
 feature: Deliverability
 jira: KT-11919
 doc-type: feature video
 activity: use
+role: User
+level: Beginner
 team: Support
 last-substantial-update: 2023-03-28T00:00:00Z
 exl-id: 1273792a-e778-4a85-8443-2e5a872ea2e8
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 3f23b3d22af9a3dd9b95bd61ca608ed3e5244a3b
 workflow-type: ht
 source-wordcount: '36'
 ht-degree: 100%
