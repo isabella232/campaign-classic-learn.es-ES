@@ -9,9 +9,9 @@ team: evangelist
 role: User
 level: Beginner
 exl-id: d31023ca-aa81-4a65-a4c7-ddbf0d0a4a99
-source-git-commit: f4e86b933660ced199c30d318445363b74c51c4b
+source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
 workflow-type: tm+mt
-source-wordcount: '276'
+source-wordcount: '282'
 ht-degree: 0%
 
 ---
@@ -26,11 +26,11 @@ Los clientes generan datos con cada canal al alcance de su mano, ya que hacen to
 
 El perfil de cliente integrado de Adobe Campaign permite a los especialistas en marketing capturar y administrar esos datos a gran escala; todo tipo de atributos de perfil, como detalles demográficos, código postal, dirección, sexo, etc., datos de interacción, apertura de un mensaje, clic en un correo electrónico, visita un sitio web, datos de conversión e incluso datos sin conexión.
 
->[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23629?quality=12&learn=on){transcript=true}
 
 ## Creación y actualización del perfil del cliente {#customer-profile-creation-and-update}
 
->[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23632?quality=12&learn=on){transcript=true}
 
 ## Segmentación de clientes  {#customer-segmentation}
 
@@ -38,5 +38,5 @@ Una vez que haya comprendido los perfiles, está listo para realizar la segmenta
 
 Tenga en cuenta que este vídeo se grabó en Adobe Campaign Classic V6, la funcionalidad es exactamente la misma, pero los iconos del flujo de trabajo han cambiado.
 
->[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/23635?quality=12&learn=on){transcript=true}
 
