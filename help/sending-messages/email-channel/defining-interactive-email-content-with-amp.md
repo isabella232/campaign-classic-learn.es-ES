@@ -10,10 +10,10 @@ team: TM
 role: User, Developer
 level: Experienced
 exl-id: 824f62dc-accb-4b3a-aaed-9b4e11b807f3
-source-git-commit: 35e036486c5b533b54b3f626d88734e9a9fc3b8a
+source-git-commit: 9dd7b0769153f2632880458534eb4c1689969caa
 workflow-type: tm+mt
-source-wordcount: '118'
-ht-degree: 98%
+source-wordcount: '119'
+ht-degree: 89%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 98%
 
 AMP para correo electrónico es un nuevo formato de código abierto que permite a los desarrolladores crear correos electrónicos dinámicos e interactivos. Con la funcionalidad moderna de la aplicación disponible directamente en los correos electrónicos, los destinatarios pueden interactuar dinámicamente con el contenido del mensaje.
 
-Actualmente, solo Gmail, Outlook y Mail.ru admiten el formato AMP.
+Actualmente, solo Gmail, Yahoo, FairEmail y Mail.ru admiten el formato AMP.
 
 El siguiente vídeo explica cómo activar AMP en Adobe Campaign Classic y cómo usarlo.
 
